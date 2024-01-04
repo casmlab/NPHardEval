@@ -27,9 +27,12 @@ rcParams['markers.fillstyle'] = 'none'
 #### Load and aggregate the results                                                         ####
 ################################################################################################
 RESULT_DIR = 'Zeroshot'
-model_performance = load_results(RESULT_DIR)
+EXTRA_RESULT_DIR = 'Zeroshot_extra'
+model_performance = load_results(RESULT_DIR) + load_results(EXTRA_RESULT_DIR)
 result_df = []
 for expr_result in model_performance:
+    if expr_result is None:
+        continue
     result = calculate_accuracy(expr_result)
     expr_df = pd.DataFrame(columns=['model', 'problem', 'level', 'Average accuracy', 'Failure'])
     model_name = result['model']
@@ -82,15 +85,20 @@ def plot_final_output(col_name, df):
     tmp_df.sort_values(by=['comp_order', 'is_close'], inplace=True)
     mean_tmp_df.sort_values(by=['comp_order'], inplace=True)
 
+    open_model_df = tmp_df[~tmp_df['is_close']]
+    close_model_df = tmp_df[tmp_df['is_close']]
+    number_of_close_models = close_model_df['model'].nunique()
+    number_of_open_models = open_model_df['model'].nunique()
+
     # make one red palette and one blue palette
-    palette = sns.color_palette("tab10", n_colors=10)
+    palette = sns.color_palette("tab10", n_colors=number_of_close_models + number_of_open_models)
     palette = sorted(palette, key=lambda x: x[0] - x[2])
     sns.pointplot(data=tmp_df[~tmp_df['is_close']], x='complexity',
             y=col_name, hue='model', linestyle='',
-            alpha=0.5, marker='s', palette=palette[:5])
+            alpha=0.5, marker='s', palette=palette[:number_of_open_models])
 
     sns.pointplot(data=tmp_df[tmp_df['is_close']], x='complexity', y=col_name,
-                    hue='model', linestyle='', alpha=0.5, marker='^', palette=palette[5:])
+                    hue='model', linestyle='', alpha=0.5, marker='^', palette=palette[number_of_open_models:])
 
     sns.lineplot(data=tmp_df, x='complexity', y=col_name, color='black',
                     marker='o', markersize=10, fillstyle='full', label='All models', errorbar=None)

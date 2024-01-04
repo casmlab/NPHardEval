@@ -33,10 +33,13 @@ model_mapper = {
     'claude-instant-1.2': 'Claude Instant',
     'chat-bison@001': 'PaLM 2',
     'yi': 'Yi-34b',
-    'mistral': 'Mistra-7b',
+    'mistral': 'Mistral-7b',
     'vicuna': 'Vicuna-13b',
     'mpt': 'MPT-30b',
-    'phi': 'Phi-1.5',
+    'phi': 'Phi-1',
+    'phi-1-5': 'Phi-1.5',
+    'phi-2': 'Phi-2',
+    'qwen': 'Qwen'
 }
 
 complexity_mapper = {
@@ -52,12 +55,15 @@ model_performace = {
     "Claude Instant": 4,
     "GPT 3.5 Turbo": 3,
     "GPT 4 Turbo": 1,
-    "Mistra-7b": 7,
+    "Mistral-7b": 7,
     "MPT-30b": 8,
     "PaLM 2": 5,
-    "Phi-1.5": 10,
+    "Phi-1": 12,
+    "Phi-1.5": 11,
+    "Phi-2": 10,
     "Vicuna-13b": 9,
     "Yi-34b": 6,
+    "Qwen": 13
 }
 
 ################################################################################################
@@ -176,18 +182,21 @@ def fetch_correctness(x):
 def fetch_one_file(file, result_dir, model, problem):
     """Fetch the results from one file."""
     performance = None
-    with open(result_dir + '/' + file, encoding='utf-8') as f:
-        correct = []
-        for line in f.readlines()[-1:]:
-            data = json.loads(line)
-            for x in data:
-                correctness = fetch_correctness(x)
-                correct.append(correctness)
-        performance = {
-            'model': model,
-            'problem': problem,
-            'correct': correct
-        }
+    try:
+        with open(result_dir + '/' + file, encoding='utf-8') as f:
+            correct = []
+            for line in f.readlines()[-1:]:
+                data = json.loads(line)
+                for x in data:
+                    correctness = fetch_correctness(x)
+                    correct.append(correctness)
+            performance = {
+                'model': model,
+                'problem': problem,
+                'correct': correct
+            }
+    except Exception as e:
+        print(f'Error when reading {file}: {e}')
     return performance
 
 

@@ -4,3 +4,7 @@ __pycache__/
 old_scripts/
 .DS_Store
 **/.DS_Store
+summary/Fewshot*
+summary/ZeroShot*
+summary/data/
+summary/figures/
