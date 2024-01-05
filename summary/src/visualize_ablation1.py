@@ -62,13 +62,13 @@ result_df = pd.concat(result_df)
 result_df['model'] = result_df['model'].map(model_mapper)
 result_df.to_csv('result_fewshot.csv')
 
-model_names = [None for _ in range(10)]
+model_names = [None for _ in range(len(model_performace))]
 for model, idx in model_performace.items():
     model_names[idx - 1] = model
 print(model_names)
 
 for i, problem in enumerate(['bspResults', 'edpResults']):
-    fig, _ = plt.subplots(nrows=5, ncols=2)
+    fig, _ = plt.subplots(nrows=6, ncols=2)
     for model in result_df.model.unique():
         tmp_df = result_df[(result_df.model == model) & (result_df.problem == problem)]
         tmp_df = tmp_df.sort_values(by=['difference', 'level'])
@@ -77,7 +77,7 @@ for i, problem in enumerate(['bspResults', 'edpResults']):
             columns='level',
             values='Average accuracy'
         ).sort_values(by='difference', ascending=False)
-        plt.subplot(5, 2, model_names.index(model) + 1)
+        plt.subplot(6, 2, model_names.index(model) + 1)
         sns.heatmap(tmp_df, annot=True, vmin=0, vmax=1, cmap='Reds', fmt='.2f', cbar=False)
         plt.title(model)
         plt.xlabel(None)

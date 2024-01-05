@@ -36,10 +36,9 @@ model_mapper = {
     'mistral': 'Mistral-7b',
     'vicuna': 'Vicuna-13b',
     'mpt': 'MPT-30b',
-    'phi': 'Phi-1',
     'phi-1-5': 'Phi-1.5',
     'phi-2': 'Phi-2',
-    'qwen': 'Qwen'
+    'qwen': 'Qwen-14b',
 }
 
 complexity_mapper = {
@@ -55,15 +54,14 @@ model_performace = {
     "Claude Instant": 4,
     "GPT 3.5 Turbo": 3,
     "GPT 4 Turbo": 1,
-    "Mistral-7b": 7,
-    "MPT-30b": 8,
+    "Mistral-7b": 8,
+    "MPT-30b": 10,
     "PaLM 2": 5,
-    "Phi-1": 12,
-    "Phi-1.5": 11,
-    "Phi-2": 10,
-    "Vicuna-13b": 9,
+    "Phi-1.5": 12,
+    "Phi-2": 9,
+    "Vicuna-13b": 11,
     "Yi-34b": 6,
-    "Qwen": 13
+    "Qwen-14b": 7,
 }
 
 ################################################################################################
