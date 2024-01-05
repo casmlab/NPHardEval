@@ -8,3 +8,5 @@ summary/Fewshot*
 summary/ZeroShot*
 summary/data/
 summary/figures/
+generate/
+data_*/
