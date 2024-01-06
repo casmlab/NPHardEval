@@ -11,7 +11,7 @@ import anthropic
 from google.cloud import aiplatform
 import vertexai
 from vertexai.preview.language_models import TextGenerationModel, ChatModel
-# from vllm import LLM, SamplingParams
+from vllm import LLM, SamplingParams
 import google.generativeai as genai
 
 '''
@@ -28,7 +28,7 @@ TODO:
 
 
 ### Load secrets
-SECRET_FILE = 'secrets.txt'
+SECRET_FILE = os.path.join(os.path.dirname(__file__), '../secrets.txt')
 with open(SECRET_FILE) as f:
     lines = f.readlines()
     for line in lines:
@@ -43,8 +43,8 @@ with open(SECRET_FILE) as f:
 
 openai_client = OpenAI(api_key=open_ai_key)
 claude_client = anthropic.Anthropic(api_key=anthropic_key)
-# vertexai.init(project = palm_project_id, location="us-central1")
-# chat_model = ChatModel.from_pretrained("chat-bison@001")
+vertexai.init(project = palm_project_id, location="us-central1")
+chat_model = ChatModel.from_pretrained("chat-bison@001")
 genai.configure(api_key=genai_key)
 gemini_model = genai.GenerativeModel('gemini-pro')
 ### Run Models
@@ -79,17 +79,17 @@ def run_claude(text_prompt, max_tokens_to_sample: int = 3000, temperature: float
 
 # PaLM 2 model
 
-# def run_palm(text_prompt, max_tokens_to_sample: int = 1000, temperature: float = 0, model = "chat-bison@001"):
-#     """Use Google PaLM chat model"""
-#     parameters = {
-#         "temperature": temperature, 
-#         "max_output_tokens": max_tokens_to_sample
-#     }
-#     chat = chat_model.start_chat()
-#     response = chat.send_message(text_prompt, **parameters)
-#     response = response.text
-#     time.sleep(2)
-#     return response
+def run_palm(text_prompt, max_tokens_to_sample: int = 1000, temperature: float = 0, model = "chat-bison@001"):
+    """Use Google PaLM chat model"""
+    parameters = {
+        "temperature": temperature, 
+        "max_output_tokens": max_tokens_to_sample
+    }
+    chat = chat_model.start_chat()
+    response = chat.send_message(text_prompt, **parameters)
+    response = response.text
+    time.sleep(2)
+    return response
 
 # Gemini model
 
@@ -99,11 +99,10 @@ def run_gemini(text_prompt, max_tokens_to_sample: int = 1000, temperature: float
         candidate_count=1,
         stop_sequences=['x'],
         max_output_tokens=max_tokens_to_sample,
-        temperature=1.0)
-    chat = gemini_model.start_chat(history=[])
-    response = chat.send_message(text_prompt, generation_config=generation_config)
+        temperature=temperature,
+    )
+    response = gemini_model.generate_content(text_prompt, generation_config=generation_config)
     response = response.text
-    time.sleep(2)
     return response
 
 '''
@@ -119,86 +118,86 @@ TODO:
 - Phi-2
 '''
 
-# def run_mistral(text_prompt):
-#     sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-#     llm = LLM(
-#         model='mistralai/Mistral-7B-Instruct-v0.1',
-#         tensor_parallel_size=4, 
-#         max_num_seqs=4,
-#         max_num_batched_tokens=4 * 8192,
-#     )
-#     text_prompt = ['<s>[INST] '+ t + '[INST]\n' for t in text_prompt]
-#     predictions = llm.generate(text_prompt, sampling_params)
-#     all_predictions = []
-#     for RequestOutput in predictions:
-#         output = RequestOutput.outputs[0].text
-#         all_predictions.append(output)
-#     return all_predictions
+def run_mistral(text_prompt):
+    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
+    llm = LLM(
+        model='mistralai/Mistral-7B-Instruct-v0.1',
+        tensor_parallel_size=4, 
+        max_num_seqs=4,
+        max_num_batched_tokens=4 * 8192,
+    )
+    text_prompt = ['<s>[INST] '+ t + '[INST]\n' for t in text_prompt]
+    predictions = llm.generate(text_prompt, sampling_params)
+    all_predictions = []
+    for RequestOutput in predictions:
+        output = RequestOutput.outputs[0].text
+        all_predictions.append(output)
+    return all_predictions
 
 
-# def run_yi(text_prompt):
-#     sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-#     llm = LLM(
-#         model='01-ai/Yi-34B-Chat',
-#         tensor_parallel_size=4, 
-#         max_num_seqs=4,
-#         max_num_batched_tokens=4 * 4096,
-#     )
-#     text_prompt = ['<|im_start|> '+ t + '<|im_end|>\n<|im_start|>assistant\n' for t in text_prompt]
-#     predictions = llm.generate(text_prompt, sampling_params)
-#     all_predictions = []
-#     for RequestOutput in predictions:
-#         output = RequestOutput.outputs[0].text
-#         all_predictions.append(output)
-#     return all_predictions
+def run_yi(text_prompt):
+    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
+    llm = LLM(
+        model='01-ai/Yi-34B-Chat',
+        tensor_parallel_size=4, 
+        max_num_seqs=4,
+        max_num_batched_tokens=4 * 4096,
+    )
+    text_prompt = ['<|im_start|> '+ t + '<|im_end|>\n<|im_start|>assistant\n' for t in text_prompt]
+    predictions = llm.generate(text_prompt, sampling_params)
+    all_predictions = []
+    for RequestOutput in predictions:
+        output = RequestOutput.outputs[0].text
+        all_predictions.append(output)
+    return all_predictions
 
 
-# def run_vicuna(text_prompt):
-#     sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-#     llm = LLM(
-#         model='lmsys/vicuna-13b-v1.3',
-#         tensor_parallel_size=4, 
-#         max_num_seqs=4,
-#         max_num_batched_tokens=4 * 2048,
-#     )
-#     predictions = llm.generate(text_prompt, sampling_params)
-#     all_predictions = []
-#     for RequestOutput in predictions:
-#         output = RequestOutput.outputs[0].text
-#         all_predictions.append(output)
-#     return all_predictions
+def run_vicuna(text_prompt):
+    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
+    llm = LLM(
+        model='lmsys/vicuna-13b-v1.3',
+        tensor_parallel_size=4, 
+        max_num_seqs=4,
+        max_num_batched_tokens=4 * 2048,
+    )
+    predictions = llm.generate(text_prompt, sampling_params)
+    all_predictions = []
+    for RequestOutput in predictions:
+        output = RequestOutput.outputs[0].text
+        all_predictions.append(output)
+    return all_predictions
 
 
-# def run_phi(text_prompt):
-#     sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-#     llm = LLM(
-#         model='microsoft/phi-1_5',
-#         trust_remote_code=True,
-#         tensor_parallel_size=4, 
-#         max_num_seqs=4,
-#         max_num_batched_tokens=4 * 2048,
-#     )
-#     text_prompt = [t + 'Answer: \n' for t in text_prompt]
-#     predictions = llm.generate(text_prompt, sampling_params)
-#     all_predictions = []
-#     for RequestOutput in predictions:
-#         output = RequestOutput.outputs[0].text
-#         all_predictions.append(output)
-#     return all_predictions
+def run_phi(text_prompt):
+    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
+    llm = LLM(
+        model='microsoft/phi-1_5',
+        trust_remote_code=True,
+        tensor_parallel_size=4, 
+        max_num_seqs=4,
+        max_num_batched_tokens=4 * 2048,
+    )
+    text_prompt = [t + 'Answer: \n' for t in text_prompt]
+    predictions = llm.generate(text_prompt, sampling_params)
+    all_predictions = []
+    for RequestOutput in predictions:
+        output = RequestOutput.outputs[0].text
+        all_predictions.append(output)
+    return all_predictions
 
 
-# def run_mpt(text_prompt):
-#     sampling_params = SamplingParams(temperature=0, max_tokens=1000)
-#     llm = LLM(
-#         model='mosaicml/mpt-30b-instruct',
-#         trust_remote_code=True,
-#         tensor_parallel_size=4, 
-#         max_num_seqs=4,
-#         max_num_batched_tokens=4 * 4096,
-#     )
-#     predictions = llm.generate(text_prompt, sampling_params)
-#     all_predictions = []
-#     for RequestOutput in predictions:
-#         output = RequestOutput.outputs[0].text
-#         all_predictions.append(output)
-#     return all_predictions
+def run_mpt(text_prompt):
+    sampling_params = SamplingParams(temperature=0, max_tokens=1000)
+    llm = LLM(
+        model='mosaicml/mpt-30b-instruct',
+        trust_remote_code=True,
+        tensor_parallel_size=4, 
+        max_num_seqs=4,
+        max_num_batched_tokens=4 * 4096,
+    )
+    predictions = llm.generate(text_prompt, sampling_params)
+    all_predictions = []
+    for RequestOutput in predictions:
+        output = RequestOutput.outputs[0].text
+        all_predictions.append(output)
+    return all_predictions
