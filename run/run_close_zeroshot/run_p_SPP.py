@@ -1,6 +1,7 @@
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.append('../..')
 
 from models import *
 from prompts import sppPrompts
@@ -55,6 +56,8 @@ def runSPP(q, p=sppPrompts):
         output = run_claude(prompt_text, model=MODEL)
     elif 'bison' in MODEL:
         output = run_palm(prompt_text, model=MODEL)
+    elif 'gemini' in MODEL:
+        output = run_gemini(prompt_text, model=MODEL)
     else:
         print('Model not found')
         return None

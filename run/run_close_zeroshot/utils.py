@@ -10,15 +10,18 @@ def append_root_tags(string):
     return string
 
 def parse_xml_to_dict(xml_string):
+    final_answer_element = ''
+    reasoning_element = ''
+
     try:
         # Parse the XML string
         root = ET.fromstring(xml_string)
 
         # Find the 'final_answer' tag
-        final_answer_element = root.find('final_answer')
+        final_answer_element = root.find('final_answer').text
 
         # Find the 'reasoning' tag
-        reasoning_element = root.find('reasoning')
+        reasoning_element = root.find('reasoning').text
     except:
         try:
             assert '<final_answer>' in xml_string
@@ -34,5 +37,6 @@ def parse_xml_to_dict(xml_string):
         except:
             final_answer_element = ''
             reasoning_element = ''
-
+    
+    final_answer_element = ast.literal_eval(final_answer_element.strip())
     return final_answer_element, reasoning_element

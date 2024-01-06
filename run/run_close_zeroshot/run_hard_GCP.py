@@ -1,6 +1,7 @@
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+sys.path.append('../..')
 
 from models import *
 from prompts import gcpPrompts
@@ -61,6 +62,8 @@ def runGCP(q, p=gcpPrompts): # q is the data for the HP-hard question, p is the 
         output = run_claude(text_prompt=prompt_text,model = MODEL)
     elif 'bison' in MODEL:
         output = run_palm(prompt_text, model=MODEL)
+    elif 'gemini' in MODEL:
+        output = run_gemini(prompt_text, model=MODEL)
     else:
         # raise error
         print('Model not found')

@@ -95,3 +95,4 @@ vertexai==0.0.1
 wikipedia-api==0.6.0
 yarl==1.9.2
 vllm
+google-generativeai
