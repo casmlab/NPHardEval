@@ -32,8 +32,6 @@ plt.savefig('figures/ablation/ablation_1.png', bbox_inches='tight')
 
 zero_shot_df = pd.read_csv('results.csv')
 few_shot_df = pd.read_csv('result_fewshot.csv')
-few_shot_df['model'] = few_shot_df['model'].map(model_mapper)
-
 
 study_problem = ['bspResults', 'edpResults']
 a = zero_shot_df[zero_shot_df.problem.isin(study_problem)].groupby(
@@ -52,17 +50,20 @@ b = few_shot_df.groupby(
     'weighted_failed': 'sum'
 
 })
+
+model_names = [_ for _ in a.model.unique()]
+for model in a.model.unique():
+    model_names[model_performace[model] - 1] = model
+
 for value in ['weighted_accuracy', 'weighted_failed']:
     for problem in study_problem:
         c = a[a.problem == problem].copy()
         d = b[b.problem == problem].copy()
-        c.model = c.model.apply(lambda x: x.title())
-        d.model = d.model.apply(lambda x: x.title())
         c['difference'] = 'Zeroshot'
         c = c.pivot(columns='model', index='difference', values=value)
         d = d.pivot(columns='model', index='difference', values=value).sort_index()
         d.index = [f'Fewshot ({i})' for i in d.index]
         all_df = pd.concat([c, d]).dropna(axis=1)
         # format the values
-        all_df = all_df.map(lambda x: f'{x:.4f}')
+        all_df = all_df[model_names].map(lambda x: f'{x:.4f}')
         all_df.to_csv(f'data/ablation/{value}_{problem}_zero_few_cmp.csv')

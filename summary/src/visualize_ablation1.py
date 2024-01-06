@@ -12,7 +12,7 @@ from visualize_utils import *
 
 rcParams['figure.dpi'] = 500
 rcParams['savefig.dpi'] = 500
-rcParams['figure.figsize'] = 9, 20
+rcParams['figure.figsize'] = 9, 24
 rcParams['font.family'] = 'Arial'
 rcParams['axes.labelsize'] = 18
 rcParams['axes.titlesize'] = 18

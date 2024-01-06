@@ -36,7 +36,7 @@ model_mapper = {
     'mistral': 'Mistral-7b',
     'vicuna': 'Vicuna-13b',
     'mpt': 'MPT-30b',
-    'phi-1-5': 'Phi-1.5',
+    'phi': 'Phi-1.5',
     'phi-2': 'Phi-2',
     'qwen': 'Qwen-14b',
 }
