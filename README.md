@@ -137,9 +137,9 @@ Contained within this directory are utility functions crucial for verifying answ
 --------------------
 
 ## News
--[2024.1.26] We release the first version (V1) of NPHardEval with (1) We have **replaced** all data and (2) Several minor bugs fixed regarding data directory and code dependecy issues. 
+-[2024.1.26] 🔥 We release the first version (V1) of NPHardEval with (1) We have **replaced** all data and (2) Several minor bugs fixed regarding data directory and code dependecy issues. 
 
--[2023.12.24] We release the default version (V0) of NPHardEval with data, answer-checking code, and example run files. The generation code will not be released, to avoid potential benchmark hacking.
+-[2023.12.24] 🔥 We release the default version (V0) of NPHardEval with data, answer-checking code, and example run files. The generation code will not be released, to avoid potential benchmark hacking.
 
 ## License
 The source code of NPHardEval is licensed under [Apache 2.0](https://github.com/casmlab/NPHardEval/blob/main/LICENSE). The intended purpose is solely for research use.
