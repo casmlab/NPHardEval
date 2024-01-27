@@ -22,7 +22,7 @@ Our benchmark offers several advantages compared with current benchmarks:
 ## Quick Start
 ### Environment setup
 ```bash
-conda create --name llm_reason python=3.10
+conda create --name llm_reason python==3.10
 conda activate llm_reason
 git clone https://github.com/casmlab/NPHardEval.git
 pip install -r requirements.txt
@@ -77,8 +77,6 @@ Overall, the summary directory serves as a comprehensive hub for assessing and u
 | Phi-1.5 | 0.0 | 0.0 | 0.0067 |
 
 Metric: average weighted accuracy
-
-Upcoming: Gemini, Mixtral (Mistral-7b MoE), Phi-2
 
 The updated leaderboard is available on 🤗[Huggingface](https://huggingface.co/spaces/hyfrankl/NPHardEval-leaderboard).
 
