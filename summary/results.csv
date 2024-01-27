@@ -1,0 +1,1081 @@
+model,problem,level,Average accuracy,Failure,weighted_accuracy,weighted_failed,complexity,lvl_correctness,is_close
+Phi-1.5,tsp_d_Results,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 6,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tsp_d_Results,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcp_d_Results,Lvl 1,0.0,0.9,0.0,0.09,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcp_d_Results,Lvl 2,0.0,0.9,0.0,0.09,NP-Complete,"[False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcp_d_Results,Lvl 3,0.2,0.5,0.01090909090909091,0.05,NP-Complete,"[True, False, False, True, False, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcp_d_Results,Lvl 4,0.1,0.4,0.007272727272727273,0.04,NP-Complete,"[False, False, 'failed', True, 'failed', False, 'failed', 'failed', False, False]",False
+Vicuna-13b,gcp_d_Results,Lvl 5,0.2,0.5,0.01818181818181818,0.05,NP-Complete,"[True, 'failed', False, 'failed', True, 'failed', False, 'failed', 'failed', False]",False
+Vicuna-13b,gcp_d_Results,Lvl 6,0.2,0.5,0.02181818181818182,0.05,NP-Complete,"['failed', False, True, 'failed', 'failed', 'failed', True, False, False, 'failed']",False
+Vicuna-13b,gcp_d_Results,Lvl 7,0.6,0.0,0.07636363636363637,0.0,NP-Complete,"[False, True, True, True, False, False, True, False, True, True]",False
+Vicuna-13b,gcp_d_Results,Lvl 8,0.5,0.1,0.07272727272727272,0.01,NP-Complete,"[True, False, True, True, False, False, True, True, False, 'failed']",False
+Vicuna-13b,gcp_d_Results,Lvl 9,0.5,0.4,0.08181818181818182,0.04,NP-Complete,"[True, 'failed', 'failed', 'failed', False, True, True, 'failed', True, True]",False
+Vicuna-13b,gcp_d_Results,Lvl 10,0.3,0.5,0.05454545454545454,0.05,NP-Complete,"['failed', True, False, False, 'failed', 'failed', 'failed', True, 'failed', True]",False
+Mistral-7b,gcp_d_Results,Lvl 1,0.9,0.0,0.016363636363636365,0.0,NP-Complete,"[True, False, True, True, True, True, True, True, True, True]",False
+Mistral-7b,gcp_d_Results,Lvl 2,0.4,0.0,0.014545454545454545,0.0,NP-Complete,"[False, False, True, False, True, False, False, False, True, True]",False
+Mistral-7b,gcp_d_Results,Lvl 3,0.5,0.4,0.02727272727272727,0.04,NP-Complete,"[True, 'failed', True, True, 'failed', True, True, False, 'failed', 'failed']",False
+Mistral-7b,gcp_d_Results,Lvl 4,0.4,0.1,0.02909090909090909,0.01,NP-Complete,"[False, False, False, True, 'failed', True, False, True, True, False]",False
+Mistral-7b,gcp_d_Results,Lvl 5,0.5,0.1,0.045454545454545456,0.01,NP-Complete,"[False, True, True, True, False, True, 'failed', False, True, False]",False
+Mistral-7b,gcp_d_Results,Lvl 6,0.5,0.1,0.05454545454545454,0.01,NP-Complete,"[False, True, True, True, 'failed', False, True, True, False, False]",False
+Mistral-7b,gcp_d_Results,Lvl 7,0.8,0.0,0.10181818181818182,0.0,NP-Complete,"[True, True, True, True, True, False, True, False, True, True]",False
+Mistral-7b,gcp_d_Results,Lvl 8,0.7,0.1,0.10181818181818181,0.01,NP-Complete,"[True, True, True, True, False, False, True, 'failed', True, True]",False
+Mistral-7b,gcp_d_Results,Lvl 9,0.6,0.0,0.09818181818181818,0.0,NP-Complete,"[False, True, False, True, True, True, False, True, True, False]",False
+Mistral-7b,gcp_d_Results,Lvl 10,0.5,0.1,0.09090909090909091,0.01,NP-Complete,"[True, True, True, True, True, False, False, 'failed', False, False]",False
+Claude Instant,sppResults,Lvl 1,0.4,0.0,0.007272727272727273,0.0,P,"[False, True, False, True, True, True, False, False, False, False]",True
+Claude Instant,sppResults,Lvl 2,0.4,0.0,0.014545454545454545,0.0,P,"[True, False, False, False, True, True, False, True, False, False]",True
+Claude Instant,sppResults,Lvl 3,0.5,0.1,0.02727272727272727,0.01,P,"[True, True, True, False, False, False, 'failed', True, False, True]",True
+Claude Instant,sppResults,Lvl 4,0.3,0.2,0.021818181818181816,0.02,P,"[True, True, True, False, False, False, 'failed', False, False, 'failed']",True
+Claude Instant,sppResults,Lvl 5,0.4,0.0,0.03636363636363636,0.0,P,"[False, True, True, False, False, False, False, False, True, True]",True
+Claude Instant,sppResults,Lvl 6,0.3,0.0,0.03272727272727272,0.0,P,"[True, True, False, False, False, True, False, False, False, False]",True
+Claude Instant,sppResults,Lvl 7,0.2,0.1,0.025454545454545455,0.01,P,"[False, False, False, True, 'failed', False, True, False, False, False]",True
+Claude Instant,sppResults,Lvl 8,0.2,0.1,0.02909090909090909,0.01,P,"[False, False, False, False, False, False, True, False, True, 'failed']",True
+Claude Instant,sppResults,Lvl 9,0.4,0.0,0.06545454545454546,0.0,P,"[False, False, False, False, True, False, True, True, False, True]",True
+Claude Instant,sppResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,sppResults,Lvl 1,0.2,0.0,0.0036363636363636364,0.0,P,"[False, True, False, False, False, False, False, True, False, False]",True
+GPT 3.5 Turbo,sppResults,Lvl 2,0.2,0.0,0.007272727272727273,0.0,P,"[False, False, False, False, False, False, False, True, True, False]",True
+GPT 3.5 Turbo,sppResults,Lvl 3,0.4,0.0,0.02181818181818182,0.0,P,"[False, False, True, True, False, True, False, False, False, True]",True
+GPT 3.5 Turbo,sppResults,Lvl 4,0.3,0.0,0.021818181818181816,0.0,P,"[True, False, False, False, True, False, True, False, False, False]",True
+GPT 3.5 Turbo,sppResults,Lvl 5,0.2,0.0,0.01818181818181818,0.0,P,"[False, False, False, False, False, False, True, False, False, True]",True
+GPT 3.5 Turbo,sppResults,Lvl 6,0.3,0.0,0.03272727272727272,0.0,P,"[False, True, False, False, False, True, True, False, False, False]",True
+GPT 3.5 Turbo,sppResults,Lvl 7,0.3,0.0,0.038181818181818185,0.0,P,"[False, True, True, True, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,sppResults,Lvl 8,0.2,0.0,0.02909090909090909,0.0,P,"[False, True, False, False, True, False, False, False, False, False]",True
+GPT 3.5 Turbo,sppResults,Lvl 9,0.3,0.0,0.04909090909090909,0.0,P,"[False, False, False, False, True, False, True, False, False, True]",True
+GPT 3.5 Turbo,sppResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+Vicuna-13b,mspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 4,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 5,0.0,0.5,0.0,0.05,NP-Hard,"['failed', False, 'failed', False, 'failed', False, 'failed', False, False, 'failed']",False
+Vicuna-13b,mspResults,Lvl 6,0.0,0.8,0.0,0.08,NP-Hard,"[False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,mspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 6,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcp_d_Results,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 2,0.1,0.6,0.0036363636363636364,0.06,NP-Complete,"['failed', 'failed', False, False, False, True, 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 3,0.2,0.4,0.01090909090909091,0.04,NP-Complete,"[False, False, 'failed', False, True, 'failed', False, True, 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 4,0.2,0.8,0.014545454545454545,0.08,NP-Complete,"['failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', True, 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 6,0.0,0.9,0.0,0.09,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+Vicuna-13b,tsp_d_Results,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tsp_d_Results,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 4,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 5,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 7,0.0,0.8,0.0,0.08,NP-Hard,"[False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 9,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed']",False
+Mistral-7b,mspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+PaLM 2,tspResults,Lvl 1,0.4,0.0,0.007272727272727273,0.0,NP-Hard,"[False, False, False, False, False, False, True, True, True, True]",True
+PaLM 2,tspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,tspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,tspResults,Lvl 4,0.0,0.2,0.0,0.02,NP-Hard,"[False, 'failed', 'failed', False, False, False, False, False, False, False]",True
+PaLM 2,tspResults,Lvl 5,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",True
+PaLM 2,tspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,tspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,tspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,tspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,tspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+Phi-1.5,bspResults,Lvl 1,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 2,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 3,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 4,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 5,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 6,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 7,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 8,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 9,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,bspResults,Lvl 10,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+GPT 4 Turbo,tspResults,Lvl 1,0.5,0.0,0.00909090909090909,0.0,NP-Hard,"[False, True, True, False, True, True, False, True, False, False]",True
+GPT 4 Turbo,tspResults,Lvl 2,0.7,0.0,0.025454545454545452,0.0,NP-Hard,"[False, False, True, True, True, True, False, True, True, True]",True
+GPT 4 Turbo,tspResults,Lvl 3,0.2,0.0,0.01090909090909091,0.0,NP-Hard,"[False, False, False, False, False, False, False, True, True, False]",True
+GPT 4 Turbo,tspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,tspResults,Lvl 5,0.1,0.0,0.00909090909090909,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, True, False]",True
+GPT 4 Turbo,tspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,tspResults,Lvl 7,0.1,0.0,0.012727272727272728,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, True]",True
+GPT 4 Turbo,tspResults,Lvl 8,0.1,0.0,0.014545454545454545,0.0,NP-Hard,"[False, False, False, False, True, False, False, False, False, False]",True
+GPT 4 Turbo,tspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,tspResults,Lvl 10,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, 'failed', False, False, False, False]",True
+Claude 2,mspResults,Lvl 1,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, False, False, False, False, 'failed']",True
+Claude 2,mspResults,Lvl 2,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, 'failed', False, False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 6,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, 'failed', False, False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 8,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, 'failed', False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,mspResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Mistral-7b,tsp_d_Results,Lvl 1,0.6,0.1,0.010909090909090908,0.01,NP-Complete,"['failed', False, True, True, False, True, True, True, True, False]",False
+Mistral-7b,tsp_d_Results,Lvl 2,0.7,0.0,0.025454545454545452,0.0,NP-Complete,"[False, True, True, True, False, True, True, False, True, True]",False
+Mistral-7b,tsp_d_Results,Lvl 3,0.5,0.1,0.02727272727272727,0.01,NP-Complete,"['failed', True, True, True, False, True, True, False, False, False]",False
+Mistral-7b,tsp_d_Results,Lvl 4,0.6,0.1,0.04363636363636363,0.01,NP-Complete,"[False, True, True, True, 'failed', False, True, True, True, False]",False
+Mistral-7b,tsp_d_Results,Lvl 5,0.4,0.0,0.03636363636363636,0.0,NP-Complete,"[True, False, False, False, True, False, True, False, True, False]",False
+Mistral-7b,tsp_d_Results,Lvl 6,0.6,0.0,0.06545454545454545,0.0,NP-Complete,"[True, False, True, False, True, False, False, True, True, True]",False
+Mistral-7b,tsp_d_Results,Lvl 7,0.7,0.0,0.08909090909090908,0.0,NP-Complete,"[False, False, True, True, True, True, True, True, False, True]",False
+Mistral-7b,tsp_d_Results,Lvl 8,0.6,0.1,0.08727272727272727,0.01,NP-Complete,"['failed', False, True, False, True, True, True, True, True, False]",False
+Mistral-7b,tsp_d_Results,Lvl 9,0.7,0.0,0.11454545454545455,0.0,NP-Complete,"[True, True, False, True, True, True, False, True, False, True]",False
+Mistral-7b,tsp_d_Results,Lvl 10,0.7,0.0,0.12727272727272726,0.0,NP-Complete,"[False, False, True, True, True, False, True, True, True, True]",False
+MPT-30b,kspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,kspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+GPT 4 Turbo,tsp_d_Results,Lvl 1,1.0,0.0,0.01818181818181818,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 2,1.0,0.0,0.03636363636363636,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 3,0.8,0.0,0.04363636363636364,0.0,NP-Complete,"[True, True, True, True, True, True, True, False, False, True]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 4,0.2,0.0,0.014545454545454545,0.0,NP-Complete,"[False, False, False, False, True, False, False, True, False, False]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 5,0.1,0.0,0.00909090909090909,0.0,NP-Complete,"[False, False, False, False, True, False, False, False, False, False]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 6,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 7,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 8,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 9,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,tsp_d_Results,Lvl 10,0.1,0.0,0.01818181818181818,0.0,NP-Complete,"[True, False, False, False, False, False, False, False, False, False]",True
+Yi-34b,sppResults,Lvl 1,0.0,0.4,0.0,0.04,P,"[False, 'failed', 'failed', False, False, False, False, False, 'failed', 'failed']",False
+Yi-34b,sppResults,Lvl 2,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,sppResults,Lvl 3,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,sppResults,Lvl 4,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,sppResults,Lvl 5,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,sppResults,Lvl 6,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed']",False
+Yi-34b,sppResults,Lvl 7,0.0,0.8,0.0,0.08,P,"['failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', False, 'failed']",False
+Yi-34b,sppResults,Lvl 8,0.0,0.8,0.0,0.08,P,"[False, 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,sppResults,Lvl 9,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+Yi-34b,sppResults,Lvl 10,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed']",False
+Phi-1.5,tspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,tspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+PaLM 2,bspResults,Lvl 1,0.8,0.1,0.014545454545454545,0.01,P,"[True, True, True, True, True, True, False, True, 'failed', True]",True
+PaLM 2,bspResults,Lvl 2,0.5,0.1,0.01818181818181818,0.01,P,"[True, True, True, False, False, True, True, False, False, 'failed']",True
+PaLM 2,bspResults,Lvl 3,0.6,0.2,0.03272727272727272,0.02,P,"[True, False, 'failed', True, False, True, True, 'failed', True, True]",True
+PaLM 2,bspResults,Lvl 4,0.5,0.0,0.03636363636363636,0.0,P,"[False, False, False, False, True, True, True, False, True, True]",True
+PaLM 2,bspResults,Lvl 5,0.6,0.1,0.05454545454545454,0.01,P,"['failed', True, True, True, True, False, False, False, True, True]",True
+PaLM 2,bspResults,Lvl 6,0.3,0.0,0.03272727272727272,0.0,P,"[True, True, True, False, False, False, False, False, False, False]",True
+PaLM 2,bspResults,Lvl 7,0.5,0.1,0.06363636363636363,0.01,P,"[True, False, True, False, True, True, False, False, True, 'failed']",True
+PaLM 2,bspResults,Lvl 8,0.4,0.1,0.05818181818181818,0.01,P,"[False, True, True, False, False, True, True, False, False, 'failed']",True
+PaLM 2,bspResults,Lvl 9,0.2,0.2,0.03272727272727273,0.02,P,"[True, 'failed', False, False, False, True, False, False, 'failed', False]",True
+PaLM 2,bspResults,Lvl 10,0.4,0.2,0.07272727272727272,0.02,P,"[False, False, True, False, True, False, 'failed', 'failed', True, True]",True
+Claude 2,edpResults,Lvl 1,0.5,0.0,0.00909090909090909,0.0,P,"[False, True, True, False, False, False, True, True, True, False]",True
+Claude 2,edpResults,Lvl 2,0.5,0.0,0.01818181818181818,0.0,P,"[False, True, False, True, True, True, False, False, False, True]",True
+Claude 2,edpResults,Lvl 3,0.1,0.0,0.005454545454545455,0.0,P,"[True, False, False, False, False, False, False, False, False, False]",True
+Claude 2,edpResults,Lvl 4,0.4,0.0,0.02909090909090909,0.0,P,"[False, True, True, False, False, False, True, False, True, False]",True
+Claude 2,edpResults,Lvl 5,0.2,0.0,0.01818181818181818,0.0,P,"[False, False, False, False, False, True, False, False, True, False]",True
+Claude 2,edpResults,Lvl 6,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,edpResults,Lvl 7,0.2,0.0,0.025454545454545455,0.0,P,"[False, False, False, False, False, False, False, True, True, False]",True
+Claude 2,edpResults,Lvl 8,0.1,0.0,0.014545454545454545,0.0,P,"[True, False, False, False, False, False, False, False, False, False]",True
+Claude 2,edpResults,Lvl 9,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,edpResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,bspResults,Lvl 1,1.0,0.0,0.01818181818181818,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 2,1.0,0.0,0.03636363636363636,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 3,1.0,0.0,0.05454545454545454,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 4,1.0,0.0,0.07272727272727272,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 5,1.0,0.0,0.09090909090909091,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 6,1.0,0.0,0.10909090909090909,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 7,1.0,0.0,0.12727272727272726,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 8,1.0,0.0,0.14545454545454545,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 9,1.0,0.0,0.16363636363636364,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,bspResults,Lvl 10,1.0,0.0,0.18181818181818182,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 1,0.8,0.0,0.014545454545454545,0.0,NP-Complete,"[True, True, True, True, True, True, True, False, False, True]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 2,0.6,0.0,0.021818181818181816,0.0,NP-Complete,"[False, True, False, True, True, False, True, True, True, False]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 3,0.8,0.0,0.04363636363636364,0.0,NP-Complete,"[False, True, True, True, True, True, True, True, True, False]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 4,0.7,0.0,0.050909090909090904,0.0,NP-Complete,"[False, True, False, True, True, False, True, True, True, True]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 5,0.7,0.0,0.06363636363636363,0.0,NP-Complete,"[True, False, True, True, True, False, True, True, False, True]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 6,0.4,0.0,0.04363636363636364,0.0,NP-Complete,"[False, True, True, False, False, True, True, False, False, False]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 7,0.8,0.0,0.10181818181818182,0.0,NP-Complete,"[True, True, True, True, True, False, True, False, True, True]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 8,0.7,0.0,0.10181818181818181,0.0,NP-Complete,"[True, False, True, True, False, False, True, True, True, True]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 9,1.0,0.0,0.16363636363636364,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,gcp_d_Results,Lvl 10,0.7,0.0,0.12727272727272726,0.0,NP-Complete,"[True, True, False, False, True, True, False, True, True, True]",True
+MPT-30b,gcpResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 5,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcpResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,edpResults,Lvl 1,0.9,0.0,0.016363636363636365,0.0,P,"[True, True, True, False, True, True, True, True, True, True]",False
+Mistral-7b,edpResults,Lvl 2,0.6,0.0,0.021818181818181816,0.0,P,"[False, True, True, False, True, True, True, False, True, False]",False
+Mistral-7b,edpResults,Lvl 3,0.2,0.0,0.01090909090909091,0.0,P,"[False, False, True, False, False, False, False, False, False, True]",False
+Mistral-7b,edpResults,Lvl 4,0.0,0.3,0.0,0.03,P,"['failed', False, False, False, False, False, False, 'failed', False, 'failed']",False
+Mistral-7b,edpResults,Lvl 5,0.1,0.0,0.00909090909090909,0.0,P,"[False, False, False, False, True, False, False, False, False, False]",False
+Mistral-7b,edpResults,Lvl 6,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Mistral-7b,edpResults,Lvl 7,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Mistral-7b,edpResults,Lvl 8,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Mistral-7b,edpResults,Lvl 9,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Mistral-7b,edpResults,Lvl 10,0.0,0.1,0.0,0.01,P,"[False, False, False, False, False, False, 'failed', False, False, False]",False
+Vicuna-13b,edpResults,Lvl 1,0.3,0.2,0.005454545454545454,0.02,P,"[False, True, 'failed', 'failed', False, False, True, False, True, False]",False
+Vicuna-13b,edpResults,Lvl 2,0.4,0.1,0.014545454545454545,0.01,P,"[True, True, True, False, 'failed', True, False, False, False, False]",False
+Vicuna-13b,edpResults,Lvl 3,0.4,0.0,0.02181818181818182,0.0,P,"[False, False, False, True, True, False, False, False, True, True]",False
+Vicuna-13b,edpResults,Lvl 4,0.2,0.3,0.014545454545454545,0.03,P,"[True, False, False, False, False, True, 'failed', 'failed', 'failed', False]",False
+Vicuna-13b,edpResults,Lvl 5,0.2,0.1,0.01818181818181818,0.01,P,"[False, False, False, False, False, True, False, 'failed', True, False]",False
+Vicuna-13b,edpResults,Lvl 6,0.1,0.1,0.01090909090909091,0.01,P,"[False, False, 'failed', False, False, True, False, False, False, False]",False
+Vicuna-13b,edpResults,Lvl 7,0.1,0.0,0.012727272727272728,0.0,P,"[False, False, False, False, False, False, False, True, False, False]",False
+Vicuna-13b,edpResults,Lvl 8,0.1,0.3,0.014545454545454545,0.03,P,"[False, False, False, False, 'failed', False, 'failed', 'failed', False, True]",False
+Vicuna-13b,edpResults,Lvl 9,0.1,0.3,0.016363636363636365,0.03,P,"[False, 'failed', 'failed', 'failed', False, False, False, True, False, False]",False
+Vicuna-13b,edpResults,Lvl 10,0.1,0.2,0.01818181818181818,0.02,P,"['failed', False, True, False, False, 'failed', False, False, False, False]",False
+Yi-34b,edpResults,Lvl 1,0.6,0.0,0.010909090909090908,0.0,P,"[True, True, True, False, False, False, False, True, True, True]",False
+Yi-34b,edpResults,Lvl 2,0.4,0.0,0.014545454545454545,0.0,P,"[True, False, True, False, True, True, False, False, False, False]",False
+Yi-34b,edpResults,Lvl 3,0.2,0.0,0.01090909090909091,0.0,P,"[False, False, True, False, True, False, False, False, False, False]",False
+Yi-34b,edpResults,Lvl 4,0.1,0.0,0.007272727272727273,0.0,P,"[True, False, False, False, False, False, False, False, False, False]",False
+Yi-34b,edpResults,Lvl 5,0.1,0.0,0.00909090909090909,0.0,P,"[False, True, False, False, False, False, False, False, False, False]",False
+Yi-34b,edpResults,Lvl 6,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Yi-34b,edpResults,Lvl 7,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Yi-34b,edpResults,Lvl 8,0.3,0.0,0.04363636363636363,0.0,P,"[True, False, True, False, False, False, False, False, False, True]",False
+Yi-34b,edpResults,Lvl 9,0.2,0.0,0.03272727272727273,0.0,P,"[False, False, True, False, False, False, False, False, True, False]",False
+Yi-34b,edpResults,Lvl 10,0.2,0.0,0.03636363636363636,0.0,P,"[False, False, False, False, True, True, False, False, False, False]",False
+Claude Instant,mspResults,Lvl 1,0.1,0.0,0.0018181818181818182,0.0,NP-Hard,"[False, False, False, False, False, False, True, False, False, False]",True
+Claude Instant,mspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,mspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,mspResults,Lvl 4,0.0,0.2,0.0,0.02,NP-Hard,"['failed', False, False, False, False, 'failed', False, False, False, False]",True
+Claude Instant,mspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,mspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,mspResults,Lvl 7,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, False, False, 'failed', False, False]",True
+Claude Instant,mspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,mspResults,Lvl 9,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, 'failed', False, False, False, False, False, False, False]",True
+Claude Instant,mspResults,Lvl 10,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, 'failed', False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 1,0.1,0.0,0.0018181818181818182,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, True]",True
+GPT 3.5 Turbo,mspResults,Lvl 2,0.1,0.0,0.0036363636363636364,0.0,NP-Hard,"[True, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,mspResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Phi-1.5,kspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,kspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 1,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 2,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 3,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 4,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 5,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 6,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 7,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 8,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 9,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,sppResults,Lvl 10,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 1,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 2,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 3,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 4,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 5,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 6,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 7,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 8,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 9,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,bspResults,Lvl 10,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,sppResults,Lvl 1,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,sppResults,Lvl 2,0.0,0.8,0.0,0.08,P,"[False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Mistral-7b,sppResults,Lvl 3,0.0,0.7,0.0,0.06999999999999999,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', False, False]",False
+Mistral-7b,sppResults,Lvl 4,0.0,0.8,0.0,0.08,P,"['failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Mistral-7b,sppResults,Lvl 5,0.0,0.6,0.0,0.06,P,"['failed', False, 'failed', False, 'failed', 'failed', False, 'failed', False, 'failed']",False
+Mistral-7b,sppResults,Lvl 6,0.0,0.7,0.0,0.06999999999999999,P,"['failed', False, 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+Mistral-7b,sppResults,Lvl 7,0.0,0.4,0.0,0.04,P,"['failed', 'failed', 'failed', False, False, 'failed', False, False, False, False]",False
+Mistral-7b,sppResults,Lvl 8,0.0,0.8,0.0,0.08,P,"[False, 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,sppResults,Lvl 9,0.1,0.7,0.016363636363636365,0.06999999999999999,P,"[False, 'failed', 'failed', True, 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,sppResults,Lvl 10,0.0,0.6,0.0,0.06,P,"['failed', 'failed', False, 'failed', 'failed', False, False, 'failed', 'failed', False]",False
+Claude 2,sppResults,Lvl 1,0.3,0.0,0.005454545454545454,0.0,P,"[False, True, False, True, True, False, False, False, False, False]",True
+Claude 2,sppResults,Lvl 2,0.4,0.0,0.014545454545454545,0.0,P,"[False, False, False, False, True, True, False, True, True, False]",True
+Claude 2,sppResults,Lvl 3,0.4,0.1,0.02181818181818182,0.01,P,"[True, True, True, False, False, True, False, False, False, 'failed']",True
+Claude 2,sppResults,Lvl 4,0.2,0.0,0.014545454545454545,0.0,P,"[True, False, False, False, True, False, False, False, False, False]",True
+Claude 2,sppResults,Lvl 5,0.8,0.0,0.07272727272727272,0.0,P,"[True, True, True, True, False, True, True, False, True, True]",True
+Claude 2,sppResults,Lvl 6,0.4,0.0,0.04363636363636364,0.0,P,"[True, True, False, False, False, True, True, False, False, False]",True
+Claude 2,sppResults,Lvl 7,0.3,0.0,0.038181818181818185,0.0,P,"[False, True, True, True, False, False, False, False, False, False]",True
+Claude 2,sppResults,Lvl 8,0.3,0.0,0.04363636363636363,0.0,P,"[True, False, False, False, False, False, False, False, True, True]",True
+Claude 2,sppResults,Lvl 9,0.5,0.0,0.08181818181818182,0.0,P,"[False, True, False, False, False, True, True, False, True, True]",True
+Claude 2,sppResults,Lvl 10,0.2,0.0,0.03636363636363636,0.0,P,"[False, False, True, False, True, False, False, False, False, False]",True
+GPT 4 Turbo,gcpResults,Lvl 1,0.8,0.0,0.014545454545454545,0.0,NP-Hard,"[False, True, False, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,gcpResults,Lvl 2,0.5,0.0,0.01818181818181818,0.0,NP-Hard,"[False, True, True, True, False, False, True, False, False, True]",True
+GPT 4 Turbo,gcpResults,Lvl 3,0.5,0.0,0.02727272727272727,0.0,NP-Hard,"[True, False, True, False, True, False, False, True, False, True]",True
+GPT 4 Turbo,gcpResults,Lvl 4,0.1,0.0,0.007272727272727273,0.0,NP-Hard,"[False, False, False, False, False, False, False, True, False, False]",True
+GPT 4 Turbo,gcpResults,Lvl 5,0.1,0.0,0.00909090909090909,0.0,NP-Hard,"[False, False, False, False, False, True, False, False, False, False]",True
+GPT 4 Turbo,gcpResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,gcpResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,gcpResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,gcpResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,gcpResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,gcpResults,Lvl 1,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,gcpResults,Lvl 2,0.1,0.0,0.0036363636363636364,0.0,NP-Hard,"[False, False, False, True, False, False, False, False, False, False]",True
+PaLM 2,gcpResults,Lvl 3,0.1,0.0,0.005454545454545455,0.0,NP-Hard,"[False, False, False, False, False, False, True, False, False, False]",True
+PaLM 2,gcpResults,Lvl 4,0.1,0.0,0.007272727272727273,0.0,NP-Hard,"[False, False, True, False, False, False, False, False, False, False]",True
+PaLM 2,gcpResults,Lvl 5,0.3,0.0,0.02727272727272727,0.0,NP-Hard,"[True, True, False, False, False, False, False, False, False, True]",True
+PaLM 2,gcpResults,Lvl 6,0.4,0.0,0.04363636363636364,0.0,NP-Hard,"[False, False, False, True, False, True, False, True, True, False]",True
+PaLM 2,gcpResults,Lvl 7,0.1,0.0,0.012727272727272728,0.0,NP-Hard,"[False, False, False, True, False, False, False, False, False, False]",True
+PaLM 2,gcpResults,Lvl 8,0.2,0.0,0.02909090909090909,0.0,NP-Hard,"[False, True, True, False, False, False, False, False, False, False]",True
+PaLM 2,gcpResults,Lvl 9,0.2,0.0,0.03272727272727273,0.0,NP-Hard,"[False, True, False, False, False, True, False, False, False, False]",True
+PaLM 2,gcpResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,edpResults,Lvl 1,0.8,0.0,0.014545454545454545,0.0,P,"[True, True, False, True, True, False, True, True, True, True]",True
+Claude Instant,edpResults,Lvl 2,0.5,0.0,0.01818181818181818,0.0,P,"[False, False, True, True, False, False, False, True, True, True]",True
+Claude Instant,edpResults,Lvl 3,0.5,0.0,0.02727272727272727,0.0,P,"[True, True, False, False, False, False, True, True, False, True]",True
+Claude Instant,edpResults,Lvl 4,0.3,0.0,0.021818181818181816,0.0,P,"[True, False, False, False, False, True, False, True, False, False]",True
+Claude Instant,edpResults,Lvl 5,0.2,0.0,0.01818181818181818,0.0,P,"[False, True, True, False, False, False, False, False, False, False]",True
+Claude Instant,edpResults,Lvl 6,0.3,0.0,0.03272727272727272,0.0,P,"[False, True, True, False, False, False, False, True, False, False]",True
+Claude Instant,edpResults,Lvl 7,0.1,0.0,0.012727272727272728,0.0,P,"[False, False, False, False, False, True, False, False, False, False]",True
+Claude Instant,edpResults,Lvl 8,0.1,0.0,0.014545454545454545,0.0,P,"[False, True, False, False, False, False, False, False, False, False]",True
+Claude Instant,edpResults,Lvl 9,0.1,0.0,0.016363636363636365,0.0,P,"[False, True, False, False, False, False, False, False, False, False]",True
+Claude Instant,edpResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,tsp_d_Results,Lvl 1,0.9,0.1,0.016363636363636365,0.01,NP-Complete,"[True, True, True, True, True, 'failed', True, True, True, True]",True
+Claude 2,tsp_d_Results,Lvl 2,1.0,0.0,0.03636363636363636,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+Claude 2,tsp_d_Results,Lvl 3,1.0,0.0,0.05454545454545454,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+Claude 2,tsp_d_Results,Lvl 4,1.0,0.0,0.07272727272727272,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+Claude 2,tsp_d_Results,Lvl 5,0.9,0.1,0.08181818181818182,0.01,NP-Complete,"[True, True, True, True, True, True, True, True, True, 'failed']",True
+Claude 2,tsp_d_Results,Lvl 6,0.8,0.2,0.08727272727272728,0.02,NP-Complete,"['failed', True, True, True, True, 'failed', True, True, True, True]",True
+Claude 2,tsp_d_Results,Lvl 7,0.8,0.2,0.10181818181818182,0.02,NP-Complete,"[True, True, True, True, True, True, 'failed', 'failed', True, True]",True
+Claude 2,tsp_d_Results,Lvl 8,0.9,0.1,0.13090909090909092,0.01,NP-Complete,"[True, True, True, True, 'failed', True, True, True, True, True]",True
+Claude 2,tsp_d_Results,Lvl 9,1.0,0.0,0.16363636363636364,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+Claude 2,tsp_d_Results,Lvl 10,0.7,0.2,0.12727272727272726,0.02,NP-Complete,"[True, True, True, True, False, True, True, 'failed', True, 'failed']",True
+Yi-34b,mspResults,Lvl 1,0.1,0.9,0.0018181818181818182,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', True, 'failed']",False
+Yi-34b,mspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,mspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Claude Instant,tsp_d_Results,Lvl 1,0.4,0.0,0.007272727272727273,0.0,NP-Complete,"[False, True, True, False, False, False, True, False, False, True]",True
+Claude Instant,tsp_d_Results,Lvl 2,1.0,0.0,0.03636363636363636,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+Claude Instant,tsp_d_Results,Lvl 3,1.0,0.0,0.05454545454545454,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+Claude Instant,tsp_d_Results,Lvl 4,0.8,0.0,0.05818181818181818,0.0,NP-Complete,"[True, True, False, True, True, True, True, True, False, True]",True
+Claude Instant,tsp_d_Results,Lvl 5,0.9,0.0,0.08181818181818182,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, False, True]",True
+Claude Instant,tsp_d_Results,Lvl 6,0.5,0.1,0.05454545454545454,0.01,NP-Complete,"[False, True, True, False, True, True, False, 'failed', False, True]",True
+Claude Instant,tsp_d_Results,Lvl 7,0.7,0.0,0.08909090909090908,0.0,NP-Complete,"[True, False, True, False, True, True, False, True, True, True]",True
+Claude Instant,tsp_d_Results,Lvl 8,0.8,0.1,0.11636363636363636,0.01,NP-Complete,"[True, True, True, True, True, 'failed', True, False, True, True]",True
+Claude Instant,tsp_d_Results,Lvl 9,0.6,0.0,0.09818181818181818,0.0,NP-Complete,"[True, False, True, False, True, True, True, False, True, False]",True
+Claude Instant,tsp_d_Results,Lvl 10,0.7,0.0,0.12727272727272726,0.0,NP-Complete,"[False, True, True, True, True, True, False, True, True, False]",True
+Claude 2,gcp_d_Results,Lvl 1,0.9,0.0,0.016363636363636365,0.0,NP-Complete,"[True, True, True, True, True, False, True, True, True, True]",True
+Claude 2,gcp_d_Results,Lvl 2,0.9,0.0,0.03272727272727273,0.0,NP-Complete,"[True, True, True, True, True, False, True, True, True, True]",True
+Claude 2,gcp_d_Results,Lvl 3,0.8,0.0,0.04363636363636364,0.0,NP-Complete,"[False, True, True, True, True, True, False, True, True, True]",True
+Claude 2,gcp_d_Results,Lvl 4,0.8,0.0,0.05818181818181818,0.0,NP-Complete,"[False, True, True, False, True, True, True, True, True, True]",True
+Claude 2,gcp_d_Results,Lvl 5,0.7,0.0,0.06363636363636363,0.0,NP-Complete,"[False, True, True, True, False, True, True, False, True, True]",True
+Claude 2,gcp_d_Results,Lvl 6,0.6,0.0,0.06545454545454545,0.0,NP-Complete,"[True, True, False, True, True, False, False, True, True, False]",True
+Claude 2,gcp_d_Results,Lvl 7,0.4,0.0,0.05090909090909091,0.0,NP-Complete,"[False, True, False, False, False, True, False, True, False, True]",True
+Claude 2,gcp_d_Results,Lvl 8,0.6,0.0,0.08727272727272727,0.0,NP-Complete,"[False, True, True, False, True, True, True, False, True, False]",True
+Claude 2,gcp_d_Results,Lvl 9,0.3,0.0,0.04909090909090909,0.0,NP-Complete,"[False, False, True, True, False, True, False, False, False, False]",True
+Claude 2,gcp_d_Results,Lvl 10,0.3,0.0,0.05454545454545454,0.0,NP-Complete,"[False, False, True, True, False, False, True, False, False, False]",True
+Phi-1.5,gcpResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 3,0.1,0.9,0.005454545454545455,0.09,NP-Hard,"['failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 8,0.1,0.9,0.014545454545454545,0.09,NP-Hard,"[True, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,gcpResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+PaLM 2,kspResults,Lvl 1,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,kspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,kspResults,Lvl 3,0.1,0.0,0.005454545454545455,0.0,NP-Complete,"[False, False, False, False, False, False, True, False, False, False]",True
+PaLM 2,kspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,kspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,kspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,kspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,kspResults,Lvl 8,0.1,0.0,0.014545454545454545,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, True]",True
+PaLM 2,kspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,kspResults,Lvl 10,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, False, False, False, False, False, 'failed', False]",True
+GPT 4 Turbo,kspResults,Lvl 1,0.8,0.1,0.014545454545454545,0.01,NP-Complete,"[True, False, True, True, 'failed', True, True, True, True, True]",True
+GPT 4 Turbo,kspResults,Lvl 2,0.3,0.0,0.010909090909090908,0.0,NP-Complete,"[True, False, False, False, True, False, True, False, False, False]",True
+GPT 4 Turbo,kspResults,Lvl 3,0.1,0.0,0.005454545454545455,0.0,NP-Complete,"[False, False, False, False, False, False, True, False, False, False]",True
+GPT 4 Turbo,kspResults,Lvl 4,0.0,0.1,0.0,0.01,NP-Complete,"[False, 'failed', False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,kspResults,Lvl 5,0.2,0.0,0.01818181818181818,0.0,NP-Complete,"[True, False, False, False, False, False, False, False, True, False]",True
+GPT 4 Turbo,kspResults,Lvl 6,0.1,0.0,0.01090909090909091,0.0,NP-Complete,"[False, False, False, False, False, True, False, False, False, False]",True
+GPT 4 Turbo,kspResults,Lvl 7,0.2,0.1,0.025454545454545455,0.01,NP-Complete,"[False, False, True, 'failed', False, False, False, False, True, False]",True
+GPT 4 Turbo,kspResults,Lvl 8,0.1,0.1,0.014545454545454545,0.01,NP-Complete,"[False, False, False, False, False, False, False, 'failed', False, True]",True
+GPT 4 Turbo,kspResults,Lvl 9,0.2,0.0,0.03272727272727273,0.0,NP-Complete,"[False, False, False, False, False, False, True, False, False, True]",True
+GPT 4 Turbo,kspResults,Lvl 10,0.3,0.0,0.05454545454545454,0.0,NP-Complete,"[False, False, False, True, True, False, False, False, True, False]",True
+Claude Instant,gcp_d_Results,Lvl 1,0.7,0.0,0.012727272727272726,0.0,NP-Complete,"[True, True, False, True, True, True, True, True, False, False]",True
+Claude Instant,gcp_d_Results,Lvl 2,0.6,0.0,0.021818181818181816,0.0,NP-Complete,"[True, False, True, True, True, False, True, False, True, False]",True
+Claude Instant,gcp_d_Results,Lvl 3,0.7,0.0,0.03818181818181818,0.0,NP-Complete,"[False, False, True, False, True, True, True, True, True, True]",True
+Claude Instant,gcp_d_Results,Lvl 4,0.5,0.0,0.03636363636363636,0.0,NP-Complete,"[True, False, True, False, False, True, False, True, True, False]",True
+Claude Instant,gcp_d_Results,Lvl 5,0.4,0.0,0.03636363636363636,0.0,NP-Complete,"[False, False, False, True, False, True, False, True, False, True]",True
+Claude Instant,gcp_d_Results,Lvl 6,0.7,0.0,0.07636363636363636,0.0,NP-Complete,"[True, False, False, True, True, False, True, True, True, True]",True
+Claude Instant,gcp_d_Results,Lvl 7,0.4,0.0,0.05090909090909091,0.0,NP-Complete,"[True, False, False, True, True, True, False, False, False, False]",True
+Claude Instant,gcp_d_Results,Lvl 8,0.6,0.3,0.08727272727272727,0.03,NP-Complete,"[True, 'failed', 'failed', False, True, True, True, 'failed', True, True]",True
+Claude Instant,gcp_d_Results,Lvl 9,0.2,0.0,0.03272727272727273,0.0,NP-Complete,"[False, False, False, False, False, True, False, True, False, False]",True
+Claude Instant,gcp_d_Results,Lvl 10,0.6,0.0,0.10909090909090909,0.0,NP-Complete,"[True, False, True, True, False, False, True, True, True, False]",True
+GPT 3.5 Turbo,edpResults,Lvl 1,1.0,0.0,0.01818181818181818,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,edpResults,Lvl 2,0.6,0.0,0.021818181818181816,0.0,P,"[True, False, True, True, True, False, True, True, False, False]",True
+GPT 3.5 Turbo,edpResults,Lvl 3,0.6,0.0,0.03272727272727272,0.0,P,"[False, True, True, False, False, True, False, True, True, True]",True
+GPT 3.5 Turbo,edpResults,Lvl 4,0.6,0.0,0.04363636363636363,0.0,P,"[False, True, True, True, False, True, True, False, False, True]",True
+GPT 3.5 Turbo,edpResults,Lvl 5,0.4,0.0,0.03636363636363636,0.0,P,"[False, True, False, True, False, False, True, False, True, False]",True
+GPT 3.5 Turbo,edpResults,Lvl 6,0.6,0.0,0.06545454545454545,0.0,P,"[True, False, False, True, True, True, True, True, False, False]",True
+GPT 3.5 Turbo,edpResults,Lvl 7,0.3,0.0,0.038181818181818185,0.0,P,"[False, True, False, True, False, False, False, False, False, True]",True
+GPT 3.5 Turbo,edpResults,Lvl 8,0.3,0.0,0.04363636363636363,0.0,P,"[False, False, True, False, False, True, False, False, True, False]",True
+GPT 3.5 Turbo,edpResults,Lvl 9,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,edpResults,Lvl 10,0.1,0.0,0.01818181818181818,0.0,P,"[False, False, False, False, True, False, False, False, False, False]",True
+MPT-30b,tspResults,Lvl 1,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+MPT-30b,tspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tspResults,Lvl 3,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+MPT-30b,tspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Claude 2,bspResults,Lvl 1,0.8,0.2,0.014545454545454545,0.02,P,"[True, True, True, True, True, True, True, 'failed', True, 'failed']",True
+Claude 2,bspResults,Lvl 2,0.9,0.0,0.03272727272727273,0.0,P,"[True, True, True, True, False, True, True, True, True, True]",True
+Claude 2,bspResults,Lvl 3,0.9,0.0,0.049090909090909095,0.0,P,"[True, True, True, True, True, True, True, True, True, False]",True
+Claude 2,bspResults,Lvl 4,0.6,0.4,0.04363636363636363,0.04,P,"[True, True, 'failed', True, True, 'failed', 'failed', True, 'failed', True]",True
+Claude 2,bspResults,Lvl 5,0.3,0.5,0.02727272727272727,0.05,P,"['failed', 'failed', 'failed', True, False, False, True, 'failed', 'failed', True]",True
+Claude 2,bspResults,Lvl 6,0.7,0.3,0.07636363636363636,0.03,P,"[True, 'failed', True, True, True, 'failed', True, True, 'failed', True]",True
+Claude 2,bspResults,Lvl 7,0.2,0.4,0.025454545454545455,0.04,P,"[False, 'failed', False, 'failed', 'failed', False, True, True, 'failed', False]",True
+Claude 2,bspResults,Lvl 8,0.4,0.3,0.05818181818181818,0.03,P,"[True, True, False, 'failed', True, False, 'failed', False, 'failed', True]",True
+Claude 2,bspResults,Lvl 9,0.5,0.2,0.08181818181818182,0.02,P,"[False, True, True, True, 'failed', False, 'failed', True, False, True]",True
+Claude 2,bspResults,Lvl 10,0.2,0.3,0.03636363636363636,0.03,P,"[False, True, 'failed', False, 'failed', False, 'failed', False, True, False]",True
+PaLM 2,edpResults,Lvl 1,0.5,0.0,0.00909090909090909,0.0,P,"[False, False, True, False, True, True, False, False, True, True]",True
+PaLM 2,edpResults,Lvl 2,0.2,0.2,0.007272727272727273,0.02,P,"[False, False, False, 'failed', 'failed', False, True, False, False, True]",True
+PaLM 2,edpResults,Lvl 3,0.1,0.1,0.005454545454545455,0.01,P,"[False, True, False, 'failed', False, False, False, False, False, False]",True
+PaLM 2,edpResults,Lvl 4,0.0,0.3,0.0,0.03,P,"[False, False, False, 'failed', False, 'failed', 'failed', False, False, False]",True
+PaLM 2,edpResults,Lvl 5,0.0,0.5,0.0,0.05,P,"['failed', False, 'failed', False, 'failed', 'failed', False, False, False, 'failed']",True
+PaLM 2,edpResults,Lvl 6,0.1,0.4,0.01090909090909091,0.04,P,"['failed', 'failed', False, False, 'failed', True, False, 'failed', False, False]",True
+PaLM 2,edpResults,Lvl 7,0.0,0.7,0.0,0.06999999999999999,P,"['failed', False, 'failed', 'failed', False, 'failed', False, 'failed', 'failed', 'failed']",True
+PaLM 2,edpResults,Lvl 8,0.0,0.7,0.0,0.06999999999999999,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', False, False]",True
+PaLM 2,edpResults,Lvl 9,0.0,0.8,0.0,0.08,P,"['failed', False, False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,edpResults,Lvl 10,0.0,0.7,0.0,0.06999999999999999,P,"['failed', False, False, 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed']",True
+GPT 4 Turbo,edpResults,Lvl 1,1.0,0.0,0.01818181818181818,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 4 Turbo,edpResults,Lvl 2,0.8,0.0,0.02909090909090909,0.0,P,"[False, True, True, False, True, True, True, True, True, True]",True
+GPT 4 Turbo,edpResults,Lvl 3,0.6,0.0,0.03272727272727272,0.0,P,"[False, False, True, True, False, True, True, True, True, False]",True
+GPT 4 Turbo,edpResults,Lvl 4,0.5,0.0,0.03636363636363636,0.0,P,"[False, False, True, False, False, False, True, True, True, True]",True
+GPT 4 Turbo,edpResults,Lvl 5,0.7,0.0,0.06363636363636363,0.0,P,"[True, False, True, True, True, True, True, False, False, True]",True
+GPT 4 Turbo,edpResults,Lvl 6,0.7,0.0,0.07636363636363636,0.0,P,"[False, False, True, True, False, True, True, True, True, True]",True
+GPT 4 Turbo,edpResults,Lvl 7,0.4,0.0,0.05090909090909091,0.0,P,"[False, False, True, False, False, False, True, False, True, True]",True
+GPT 4 Turbo,edpResults,Lvl 8,0.5,0.0,0.07272727272727272,0.0,P,"[True, False, True, True, False, True, False, False, False, True]",True
+GPT 4 Turbo,edpResults,Lvl 9,0.4,0.0,0.06545454545454546,0.0,P,"[True, False, True, False, True, False, True, False, False, False]",True
+GPT 4 Turbo,edpResults,Lvl 10,0.5,0.0,0.09090909090909091,0.0,P,"[False, False, False, True, True, True, False, True, False, True]",True
+Phi-1.5,mspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,mspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+GPT 3.5 Turbo,kspResults,Lvl 1,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,kspResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Mistral-7b,bspResults,Lvl 1,0.5,0.0,0.00909090909090909,0.0,P,"[False, False, False, True, True, True, True, False, True, False]",False
+Mistral-7b,bspResults,Lvl 2,0.5,0.0,0.01818181818181818,0.0,P,"[False, True, True, False, True, True, True, False, False, False]",False
+Mistral-7b,bspResults,Lvl 3,0.5,0.0,0.02727272727272727,0.0,P,"[True, True, True, False, False, True, False, False, False, True]",False
+Mistral-7b,bspResults,Lvl 4,0.2,0.1,0.014545454545454545,0.01,P,"[False, False, False, False, True, False, 'failed', True, False, False]",False
+Mistral-7b,bspResults,Lvl 5,0.3,0.0,0.02727272727272727,0.0,P,"[False, True, False, False, True, False, False, False, False, True]",False
+Mistral-7b,bspResults,Lvl 6,0.0,0.2,0.0,0.02,P,"[False, False, 'failed', False, False, False, False, False, 'failed', False]",False
+Mistral-7b,bspResults,Lvl 7,0.3,0.2,0.038181818181818185,0.02,P,"[False, False, 'failed', False, True, 'failed', False, True, True, False]",False
+Mistral-7b,bspResults,Lvl 8,0.1,0.2,0.014545454545454545,0.02,P,"[False, 'failed', True, 'failed', False, False, False, False, False, False]",False
+Mistral-7b,bspResults,Lvl 9,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Mistral-7b,bspResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+MPT-30b,sppResults,Lvl 1,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,sppResults,Lvl 2,0.0,0.6,0.0,0.06,P,"['failed', 'failed', False, False, 'failed', 'failed', False, 'failed', 'failed', False]",False
+MPT-30b,sppResults,Lvl 3,0.0,0.9,0.0,0.09,P,"[False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,sppResults,Lvl 4,0.0,0.9,0.0,0.09,P,"['failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,sppResults,Lvl 5,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,sppResults,Lvl 6,0.0,0.8,0.0,0.08,P,"['failed', 'failed', 'failed', False, 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,sppResults,Lvl 7,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+MPT-30b,sppResults,Lvl 8,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed']",False
+MPT-30b,sppResults,Lvl 9,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+MPT-30b,sppResults,Lvl 10,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,bspResults,Lvl 1,0.0,0.6,0.0,0.06,P,"['failed', 'failed', False, False, 'failed', 'failed', False, False, 'failed', 'failed']",False
+Vicuna-13b,bspResults,Lvl 2,0.3,0.4,0.010909090909090908,0.04,P,"[False, 'failed', False, True, 'failed', False, 'failed', True, True, 'failed']",False
+Vicuna-13b,bspResults,Lvl 3,0.1,0.6,0.005454545454545455,0.06,P,"['failed', 'failed', False, 'failed', False, True, False, 'failed', 'failed', 'failed']",False
+Vicuna-13b,bspResults,Lvl 4,0.0,0.8,0.0,0.08,P,"['failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+Vicuna-13b,bspResults,Lvl 5,0.2,0.4,0.01818181818181818,0.04,P,"['failed', False, True, 'failed', False, True, 'failed', False, False, 'failed']",False
+Vicuna-13b,bspResults,Lvl 6,0.0,0.4,0.0,0.04,P,"[False, False, 'failed', False, False, 'failed', False, 'failed', False, 'failed']",False
+Vicuna-13b,bspResults,Lvl 7,0.1,0.5,0.012727272727272728,0.05,P,"[False, 'failed', False, True, 'failed', False, 'failed', 'failed', False, 'failed']",False
+Vicuna-13b,bspResults,Lvl 8,0.0,0.5,0.0,0.05,P,"[False, False, False, 'failed', False, False, 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,bspResults,Lvl 9,0.4,0.1,0.06545454545454546,0.01,P,"[False, True, True, False, False, True, False, True, False, 'failed']",False
+Vicuna-13b,bspResults,Lvl 10,0.0,0.5,0.0,0.05,P,"[False, False, 'failed', 'failed', 'failed', False, 'failed', False, False, 'failed']",False
+Yi-34b,gcpResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 4,0.1,0.9,0.007272727272727273,0.09,NP-Hard,"['failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 5,0.1,0.9,0.00909090909090909,0.09,NP-Hard,"['failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,gcpResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Claude Instant,kspResults,Lvl 1,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,kspResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 1,0.6,0.0,0.010909090909090908,0.0,NP-Hard,"[True, False, False, False, True, True, True, False, True, True]",True
+GPT 3.5 Turbo,gcpResults,Lvl 2,0.4,0.0,0.014545454545454545,0.0,NP-Hard,"[False, False, False, True, False, False, True, False, True, True]",True
+GPT 3.5 Turbo,gcpResults,Lvl 3,0.3,0.0,0.01636363636363636,0.0,NP-Hard,"[False, True, True, False, False, False, True, False, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 5,0.2,0.0,0.01818181818181818,0.0,NP-Hard,"[True, True, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 6,0.1,0.0,0.01090909090909091,0.0,NP-Hard,"[False, False, False, True, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 7,0.1,0.0,0.012727272727272728,0.0,NP-Hard,"[False, False, False, False, False, False, False, True, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcpResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Mistral-7b,tspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,tspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Mistral-7b,tspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Mistral-7b,tspResults,Lvl 4,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, 'failed', False, False, False, False]",False
+Mistral-7b,tspResults,Lvl 5,0.0,0.2,0.0,0.02,NP-Hard,"[False, False, False, False, 'failed', False, False, False, False, 'failed']",False
+Mistral-7b,tspResults,Lvl 6,0.0,0.3,0.0,0.03,NP-Hard,"['failed', False, False, 'failed', 'failed', False, False, False, False, False]",False
+Mistral-7b,tspResults,Lvl 7,0.0,0.8,0.0,0.08,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, False, 'failed']",False
+Mistral-7b,tspResults,Lvl 8,0.0,0.8,0.0,0.08,NP-Hard,"['failed', 'failed', False, 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,tspResults,Lvl 9,0.0,0.7,0.0,0.06999999999999999,NP-Hard,"[False, 'failed', 'failed', False, False, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,tspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tsp_d_Results,Lvl 1,0.4,0.0,0.007272727272727273,0.0,NP-Complete,"[False, False, True, True, True, True, False, False, False, False]",False
+Yi-34b,tsp_d_Results,Lvl 2,0.6,0.0,0.021818181818181816,0.0,NP-Complete,"[True, False, False, True, True, True, True, False, False, True]",False
+Yi-34b,tsp_d_Results,Lvl 3,0.2,0.0,0.01090909090909091,0.0,NP-Complete,"[False, False, True, False, False, False, False, False, True, False]",False
+Yi-34b,tsp_d_Results,Lvl 4,0.6,0.0,0.04363636363636363,0.0,NP-Complete,"[False, True, True, False, True, True, True, False, False, True]",False
+Yi-34b,tsp_d_Results,Lvl 5,0.3,0.0,0.02727272727272727,0.0,NP-Complete,"[False, False, True, False, False, True, False, False, False, True]",False
+Yi-34b,tsp_d_Results,Lvl 6,0.5,0.0,0.05454545454545454,0.0,NP-Complete,"[False, False, True, False, True, True, True, True, False, False]",False
+Yi-34b,tsp_d_Results,Lvl 7,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, False, False, False, 'failed', False, False, False]",False
+Yi-34b,tsp_d_Results,Lvl 8,0.6,0.0,0.08727272727272727,0.0,NP-Complete,"[False, False, True, True, True, False, False, True, True, True]",False
+Yi-34b,tsp_d_Results,Lvl 9,0.2,0.0,0.03272727272727273,0.0,NP-Complete,"[False, False, True, False, False, False, True, False, False, False]",False
+Yi-34b,tsp_d_Results,Lvl 10,0.8,0.0,0.14545454545454545,0.0,NP-Complete,"[True, False, False, True, True, True, True, True, True, True]",False
+Vicuna-13b,tspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 2,0.0,0.8,0.0,0.08,NP-Hard,"['failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 3,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+Vicuna-13b,tspResults,Lvl 4,0.0,0.7,0.0,0.06999999999999999,NP-Hard,"['failed', False, False, 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,tspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Claude 2,tspResults,Lvl 1,0.6,0.0,0.010909090909090908,0.0,NP-Hard,"[True, False, False, False, True, False, True, True, True, True]",True
+Claude 2,tspResults,Lvl 2,0.1,0.0,0.0036363636363636364,0.0,NP-Hard,"[False, False, True, False, False, False, False, False, False, False]",True
+Claude 2,tspResults,Lvl 3,0.1,0.0,0.005454545454545455,0.0,NP-Hard,"[True, False, False, False, False, False, False, False, False, False]",True
+Claude 2,tspResults,Lvl 4,0.0,0.3,0.0,0.03,NP-Hard,"['failed', 'failed', False, False, False, False, False, 'failed', False, False]",True
+Claude 2,tspResults,Lvl 5,0.0,0.2,0.0,0.02,NP-Hard,"[False, 'failed', False, False, False, 'failed', False, False, False, False]",True
+Claude 2,tspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,tspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,tspResults,Lvl 8,0.0,0.1,0.0,0.01,NP-Hard,"[False, 'failed', False, False, False, False, False, False, False, False]",True
+Claude 2,tspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,tspResults,Lvl 10,0.0,0.5,0.0,0.05,NP-Hard,"[False, 'failed', 'failed', 'failed', 'failed', False, False, False, 'failed', False]",True
+Phi-1.5,edpResults,Lvl 1,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 2,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 3,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 4,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 5,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 6,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 7,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 8,0.0,0.9,0.0,0.09,P,"[False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,edpResults,Lvl 9,0.0,0.8,0.0,0.08,P,"['failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', False]",False
+Phi-1.5,edpResults,Lvl 10,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 6,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,gcp_d_Results,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+PaLM 2,mspResults,Lvl 1,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,mspResults,Lvl 2,0.0,0.4,0.0,0.04,NP-Hard,"[False, False, 'failed', False, False, 'failed', 'failed', False, False, 'failed']",True
+PaLM 2,mspResults,Lvl 3,0.0,0.3,0.0,0.03,NP-Hard,"['failed', 'failed', False, False, 'failed', False, False, False, False, False]",True
+PaLM 2,mspResults,Lvl 4,0.0,0.6,0.0,0.06,NP-Hard,"['failed', False, False, 'failed', 'failed', False, 'failed', False, 'failed', 'failed']",True
+PaLM 2,mspResults,Lvl 5,0.0,0.8,0.0,0.08,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', False, False, 'failed', 'failed', 'failed']",True
+PaLM 2,mspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,mspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,mspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,mspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,mspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+GPT 4 Turbo,mspResults,Lvl 1,0.2,0.0,0.0036363636363636364,0.0,NP-Hard,"[False, False, True, False, False, True, False, False, False, False]",True
+GPT 4 Turbo,mspResults,Lvl 2,0.1,0.0,0.0036363636363636364,0.0,NP-Hard,"[True, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,mspResults,Lvl 3,0.1,0.0,0.005454545454545455,0.0,NP-Hard,"[True, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,mspResults,Lvl 4,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, False, False, False, 'failed', False]",True
+GPT 4 Turbo,mspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,mspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,mspResults,Lvl 7,0.0,0.3,0.0,0.03,NP-Hard,"['failed', False, 'failed', False, False, False, False, 'failed', False, False]",True
+GPT 4 Turbo,mspResults,Lvl 8,0.0,0.3,0.0,0.03,NP-Hard,"['failed', False, False, False, False, False, False, 'failed', False, 'failed']",True
+GPT 4 Turbo,mspResults,Lvl 9,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, 'failed', False, False, False, False]",True
+GPT 4 Turbo,mspResults,Lvl 10,0.0,0.2,0.0,0.02,NP-Hard,"[False, False, 'failed', False, False, 'failed', False, False, False, False]",True
+Yi-34b,gcp_d_Results,Lvl 1,0.8,0.0,0.014545454545454545,0.0,NP-Complete,"[True, True, True, True, False, True, True, True, True, False]",False
+Yi-34b,gcp_d_Results,Lvl 2,0.7,0.0,0.025454545454545452,0.0,NP-Complete,"[False, False, True, True, True, True, True, False, True, True]",False
+Yi-34b,gcp_d_Results,Lvl 3,0.8,0.0,0.04363636363636364,0.0,NP-Complete,"[False, True, True, True, False, True, True, True, True, True]",False
+Yi-34b,gcp_d_Results,Lvl 4,0.6,0.0,0.04363636363636363,0.0,NP-Complete,"[True, True, False, False, True, False, False, True, True, True]",False
+Yi-34b,gcp_d_Results,Lvl 5,0.5,0.0,0.045454545454545456,0.0,NP-Complete,"[False, True, True, False, False, False, True, True, False, True]",False
+Yi-34b,gcp_d_Results,Lvl 6,0.7,0.0,0.07636363636363636,0.0,NP-Complete,"[True, True, False, True, True, False, True, True, False, True]",False
+Yi-34b,gcp_d_Results,Lvl 7,0.3,0.0,0.038181818181818185,0.0,NP-Complete,"[True, False, True, False, False, False, False, True, False, False]",False
+Yi-34b,gcp_d_Results,Lvl 8,0.5,0.0,0.07272727272727272,0.0,NP-Complete,"[True, False, False, False, True, True, False, True, True, False]",False
+Yi-34b,gcp_d_Results,Lvl 9,0.3,0.0,0.04909090909090909,0.0,NP-Complete,"[False, False, False, True, True, False, False, False, False, True]",False
+Yi-34b,gcp_d_Results,Lvl 10,0.3,0.0,0.05454545454545454,0.0,NP-Complete,"[False, False, True, False, False, False, True, False, True, False]",False
+Yi-34b,kspResults,Lvl 1,0.0,0.1,0.0,0.01,NP-Complete,"['failed', False, False, False, False, False, False, False, False, False]",False
+Yi-34b,kspResults,Lvl 2,0.0,0.6,0.0,0.06,NP-Complete,"[False, 'failed', 'failed', False, False, 'failed', 'failed', False, 'failed', 'failed']",False
+Yi-34b,kspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,kspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,kspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,kspResults,Lvl 6,0.0,0.9,0.0,0.09,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+Yi-34b,kspResults,Lvl 7,0.0,0.9,0.0,0.09,NP-Complete,"['failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,kspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,kspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,kspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 6,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,tsp_d_Results,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Claude Instant,gcpResults,Lvl 1,0.1,0.0,0.0018181818181818182,0.0,NP-Hard,"[False, False, False, False, False, False, True, False, False, False]",True
+Claude Instant,gcpResults,Lvl 2,0.1,0.0,0.0036363636363636364,0.0,NP-Hard,"[False, False, False, True, False, False, False, False, False, False]",True
+Claude Instant,gcpResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,gcpResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,gcpResults,Lvl 5,0.1,0.0,0.00909090909090909,0.0,NP-Hard,"[False, False, False, True, False, False, False, False, False, False]",True
+Claude Instant,gcpResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,gcpResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,gcpResults,Lvl 8,0.1,0.0,0.014545454545454545,0.0,NP-Hard,"[False, False, False, False, False, False, True, False, False, False]",True
+Claude Instant,gcpResults,Lvl 9,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, 'failed', False, False, False, False, False, False, False]",True
+Claude Instant,gcpResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,gcp_d_Results,Lvl 1,0.9,0.1,0.016363636363636365,0.01,NP-Complete,"[True, 'failed', True, True, True, True, True, True, True, True]",True
+PaLM 2,gcp_d_Results,Lvl 2,0.5,0.5,0.01818181818181818,0.05,NP-Complete,"['failed', True, True, 'failed', True, 'failed', True, 'failed', True, 'failed']",True
+PaLM 2,gcp_d_Results,Lvl 3,0.2,0.7,0.01090909090909091,0.06999999999999999,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', True, 'failed', True, 'failed', False]",True
+PaLM 2,gcp_d_Results,Lvl 4,0.2,0.7,0.014545454545454545,0.06999999999999999,NP-Complete,"[False, 'failed', 'failed', 'failed', True, 'failed', 'failed', True, 'failed', 'failed']",True
+PaLM 2,gcp_d_Results,Lvl 5,0.0,0.9,0.0,0.09,NP-Complete,"['failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,gcp_d_Results,Lvl 6,0.0,0.7,0.0,0.06999999999999999,NP-Complete,"[False, False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",True
+PaLM 2,gcp_d_Results,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,gcp_d_Results,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,gcp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+PaLM 2,gcp_d_Results,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+Mistral-7b,kspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 6,0.0,0.9,0.0,0.09,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,kspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 1,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 2,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 3,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 4,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 5,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 6,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 7,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 8,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 9,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-1.5,sppResults,Lvl 10,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,kspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Claude 2,kspResults,Lvl 1,0.1,0.1,0.0018181818181818182,0.01,NP-Complete,"[True, False, False, False, 'failed', False, False, False, False, False]",True
+Claude 2,kspResults,Lvl 2,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, False, False, False, 'failed', False, False, False]",True
+Claude 2,kspResults,Lvl 3,0.0,0.1,0.0,0.01,NP-Complete,"['failed', False, False, False, False, False, False, False, False, False]",True
+Claude 2,kspResults,Lvl 4,0.0,0.4,0.0,0.04,NP-Complete,"['failed', False, False, False, False, False, 'failed', 'failed', 'failed', False]",True
+Claude 2,kspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,kspResults,Lvl 6,0.0,0.7,0.0,0.06999999999999999,NP-Complete,"['failed', 'failed', False, 'failed', False, 'failed', 'failed', 'failed', False, 'failed']",True
+Claude 2,kspResults,Lvl 7,0.0,0.3,0.0,0.03,NP-Complete,"['failed', False, False, False, False, False, 'failed', False, False, 'failed']",True
+Claude 2,kspResults,Lvl 8,0.0,0.2,0.0,0.02,NP-Complete,"[False, False, False, False, 'failed', False, False, False, False, 'failed']",True
+Claude 2,kspResults,Lvl 9,0.0,0.2,0.0,0.02,NP-Complete,"[False, False, 'failed', False, False, False, False, False, 'failed', False]",True
+Claude 2,kspResults,Lvl 10,0.0,0.2,0.0,0.02,NP-Complete,"[False, False, False, 'failed', False, False, False, False, False, 'failed']",True
+MPT-30b,mspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,mspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+GPT 3.5 Turbo,bspResults,Lvl 1,1.0,0.0,0.01818181818181818,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 2,0.8,0.0,0.02909090909090909,0.0,P,"[False, True, True, True, False, True, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 3,1.0,0.0,0.05454545454545454,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 4,1.0,0.0,0.07272727272727272,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 5,0.9,0.0,0.08181818181818182,0.0,P,"[True, True, True, True, True, False, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 6,0.9,0.0,0.09818181818181819,0.0,P,"[True, True, True, True, True, True, True, True, False, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 7,0.9,0.0,0.11454545454545455,0.0,P,"[True, True, False, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 8,1.0,0.0,0.14545454545454545,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 9,1.0,0.0,0.16363636363636364,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,bspResults,Lvl 10,0.9,0.0,0.16363636363636364,0.0,P,"[False, True, True, True, True, True, True, True, True, True]",True
+Yi-34b,tspResults,Lvl 1,0.3,0.7,0.005454545454545454,0.06999999999999999,NP-Hard,"['failed', 'failed', True, 'failed', 'failed', 'failed', True, True, 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Yi-34b,tspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Claude Instant,bspResults,Lvl 1,0.2,0.5,0.0036363636363636364,0.05,P,"['failed', True, 'failed', False, True, 'failed', 'failed', False, 'failed', False]",True
+Claude Instant,bspResults,Lvl 2,0.4,0.3,0.014545454545454545,0.03,P,"[False, 'failed', 'failed', True, True, 'failed', False, False, True, True]",True
+Claude Instant,bspResults,Lvl 3,0.4,0.3,0.02181818181818182,0.03,P,"[True, True, 'failed', True, 'failed', False, False, True, 'failed', False]",True
+Claude Instant,bspResults,Lvl 4,0.6,0.2,0.04363636363636363,0.02,P,"[True, True, 'failed', True, 'failed', True, False, True, False, True]",True
+Claude Instant,bspResults,Lvl 5,0.1,0.8,0.00909090909090909,0.08,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', True, False, 'failed', 'failed']",True
+Claude Instant,bspResults,Lvl 6,0.4,0.4,0.04363636363636364,0.04,P,"[True, 'failed', False, False, 'failed', 'failed', True, True, 'failed', True]",True
+Claude Instant,bspResults,Lvl 7,0.2,0.5,0.025454545454545455,0.05,P,"['failed', False, False, True, 'failed', 'failed', True, 'failed', False, 'failed']",True
+Claude Instant,bspResults,Lvl 8,0.5,0.3,0.07272727272727272,0.03,P,"[False, 'failed', True, False, True, True, True, 'failed', True, 'failed']",True
+Claude Instant,bspResults,Lvl 9,0.6,0.3,0.09818181818181818,0.03,P,"[True, 'failed', False, True, 'failed', 'failed', True, True, True, True]",True
+Claude Instant,bspResults,Lvl 10,0.6,0.4,0.10909090909090909,0.04,P,"['failed', True, True, True, True, True, True, 'failed', 'failed', 'failed']",True
+PaLM 2,tsp_d_Results,Lvl 1,0.3,0.0,0.005454545454545454,0.0,NP-Complete,"[True, False, False, False, False, True, False, True, False, False]",True
+PaLM 2,tsp_d_Results,Lvl 2,0.7,0.0,0.025454545454545452,0.0,NP-Complete,"[True, False, True, False, False, True, True, True, True, True]",True
+PaLM 2,tsp_d_Results,Lvl 3,1.0,0.0,0.05454545454545454,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+PaLM 2,tsp_d_Results,Lvl 4,0.8,0.0,0.05818181818181818,0.0,NP-Complete,"[True, True, False, True, True, True, True, False, True, True]",True
+PaLM 2,tsp_d_Results,Lvl 5,0.8,0.0,0.07272727272727272,0.0,NP-Complete,"[True, True, True, True, False, False, True, True, True, True]",True
+PaLM 2,tsp_d_Results,Lvl 6,0.8,0.0,0.08727272727272728,0.0,NP-Complete,"[True, True, True, True, True, True, False, True, False, True]",True
+PaLM 2,tsp_d_Results,Lvl 7,1.0,0.0,0.12727272727272726,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+PaLM 2,tsp_d_Results,Lvl 8,0.7,0.0,0.10181818181818181,0.0,NP-Complete,"[False, True, True, True, False, True, True, True, False, True]",True
+PaLM 2,tsp_d_Results,Lvl 9,0.2,0.0,0.03272727272727273,0.0,NP-Complete,"[False, False, False, False, False, True, False, True, False, False]",True
+PaLM 2,tsp_d_Results,Lvl 10,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+Vicuna-13b,gcpResults,Lvl 1,0.1,0.8,0.0018181818181818182,0.08,NP-Hard,"['failed', True, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+Vicuna-13b,gcpResults,Lvl 2,0.1,0.9,0.0036363636363636364,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', True, 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcpResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcpResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcpResults,Lvl 5,0.1,0.9,0.00909090909090909,0.09,NP-Hard,"[True, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcpResults,Lvl 6,0.3,0.7,0.03272727272727272,0.06999999999999999,NP-Hard,"['failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', True, 'failed', True]",False
+Vicuna-13b,gcpResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcpResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcpResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Vicuna-13b,gcpResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,gcpResults,Lvl 1,0.3,0.5,0.005454545454545454,0.05,NP-Hard,"['failed', True, 'failed', 'failed', 'failed', 'failed', True, False, True, False]",False
+Mistral-7b,gcpResults,Lvl 2,0.2,0.8,0.007272727272727273,0.08,NP-Hard,"['failed', 'failed', 'failed', True, True, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,gcpResults,Lvl 3,0.5,0.4,0.02727272727272727,0.04,NP-Hard,"[True, 'failed', False, True, 'failed', True, 'failed', True, True, 'failed']",False
+Mistral-7b,gcpResults,Lvl 4,0.4,0.6,0.02909090909090909,0.06,NP-Hard,"[True, 'failed', True, 'failed', 'failed', 'failed', True, True, 'failed', 'failed']",False
+Mistral-7b,gcpResults,Lvl 5,0.4,0.6,0.03636363636363636,0.06,NP-Hard,"[True, 'failed', 'failed', 'failed', 'failed', True, True, 'failed', True, 'failed']",False
+Mistral-7b,gcpResults,Lvl 6,0.4,0.6,0.04363636363636364,0.06,NP-Hard,"['failed', 'failed', True, 'failed', 'failed', True, 'failed', True, 'failed', True]",False
+Mistral-7b,gcpResults,Lvl 7,0.1,0.8,0.012727272727272728,0.08,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', True, 'failed']",False
+Mistral-7b,gcpResults,Lvl 8,0.2,0.8,0.02909090909090909,0.08,NP-Hard,"['failed', 'failed', 'failed', True, 'failed', True, 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,gcpResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Mistral-7b,gcpResults,Lvl 10,0.1,0.8,0.01818181818181818,0.08,NP-Hard,"['failed', 'failed', False, 'failed', 'failed', True, 'failed', 'failed', 'failed', 'failed']",False
+GPT 3.5 Turbo,tspResults,Lvl 1,0.5,0.0,0.00909090909090909,0.0,NP-Hard,"[False, False, True, True, False, False, True, True, False, True]",True
+GPT 3.5 Turbo,tspResults,Lvl 2,0.2,0.0,0.007272727272727273,0.0,NP-Hard,"[False, False, False, True, False, True, False, False, False, False]",True
+GPT 3.5 Turbo,tspResults,Lvl 3,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, False, False, False, 'failed', False]",True
+GPT 3.5 Turbo,tspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tspResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 1,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 2,0.1,0.0,0.0036363636363636364,0.0,NP-Complete,"[False, False, False, False, False, True, False, False, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 3,0.3,0.0,0.01636363636363636,0.0,NP-Complete,"[True, False, False, True, True, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 4,0.1,0.0,0.007272727272727273,0.0,NP-Complete,"[False, False, False, True, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 5,0.3,0.0,0.02727272727272727,0.0,NP-Complete,"[True, False, False, False, True, False, False, True, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 6,0.3,0.0,0.03272727272727272,0.0,NP-Complete,"[False, False, True, False, False, True, True, False, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 7,0.6,0.0,0.07636363636363637,0.0,NP-Complete,"[True, False, True, True, True, False, True, False, True, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 8,0.6,0.0,0.08727272727272727,0.0,NP-Complete,"[True, False, True, True, False, True, True, True, False, False]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 9,0.9,0.0,0.14727272727272728,0.0,NP-Complete,"[True, True, True, True, True, False, True, True, True, True]",True
+GPT 3.5 Turbo,gcp_d_Results,Lvl 10,0.7,0.0,0.12727272727272726,0.0,NP-Complete,"[True, True, False, False, True, True, False, True, True, True]",True
+MPT-30b,edpResults,Lvl 1,0.1,0.9,0.0018181818181818182,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', True, 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 2,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 3,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 4,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 5,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 6,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 7,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 8,0.0,1.0,0.0,0.1,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+MPT-30b,edpResults,Lvl 9,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+MPT-30b,edpResults,Lvl 10,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False]",False
+PaLM 2,sppResults,Lvl 1,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,sppResults,Lvl 2,0.2,0.0,0.007272727272727273,0.0,P,"[False, True, False, False, False, False, False, True, False, False]",True
+PaLM 2,sppResults,Lvl 3,0.3,0.0,0.01636363636363636,0.0,P,"[False, True, True, False, False, False, False, False, False, True]",True
+PaLM 2,sppResults,Lvl 4,0.1,0.0,0.007272727272727273,0.0,P,"[True, False, False, False, False, False, False, False, False, False]",True
+PaLM 2,sppResults,Lvl 5,0.4,0.0,0.03636363636363636,0.0,P,"[True, False, True, False, True, False, False, False, False, True]",True
+PaLM 2,sppResults,Lvl 6,0.3,0.0,0.03272727272727272,0.0,P,"[True, True, False, False, False, True, False, False, False, False]",True
+PaLM 2,sppResults,Lvl 7,0.2,0.0,0.025454545454545455,0.0,P,"[False, True, True, False, False, False, False, False, False, False]",True
+PaLM 2,sppResults,Lvl 8,0.3,0.0,0.04363636363636363,0.0,P,"[False, True, False, False, False, False, True, False, True, False]",True
+PaLM 2,sppResults,Lvl 9,0.3,0.0,0.04909090909090909,0.0,P,"[False, False, False, False, False, False, True, True, False, True]",True
+PaLM 2,sppResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 4 Turbo,sppResults,Lvl 1,0.7,0.0,0.012727272727272726,0.0,P,"[False, True, False, True, True, True, False, True, True, True]",True
+GPT 4 Turbo,sppResults,Lvl 2,0.5,0.0,0.01818181818181818,0.0,P,"[True, True, False, False, True, False, False, True, True, False]",True
+GPT 4 Turbo,sppResults,Lvl 3,0.7,0.0,0.03818181818181818,0.0,P,"[True, True, True, False, True, True, True, False, False, True]",True
+GPT 4 Turbo,sppResults,Lvl 4,0.6,0.0,0.04363636363636363,0.0,P,"[True, True, True, False, True, True, True, False, False, False]",True
+GPT 4 Turbo,sppResults,Lvl 5,0.5,0.0,0.045454545454545456,0.0,P,"[True, False, True, True, False, False, False, False, True, True]",True
+GPT 4 Turbo,sppResults,Lvl 6,0.6,0.0,0.06545454545454545,0.0,P,"[True, True, True, False, True, True, True, False, False, False]",True
+GPT 4 Turbo,sppResults,Lvl 7,0.6,0.1,0.07636363636363637,0.01,P,"[True, True, True, True, True, False, True, 'failed', False, False]",True
+GPT 4 Turbo,sppResults,Lvl 8,0.6,0.1,0.08727272727272727,0.01,P,"[False, True, True, True, True, 'failed', False, False, True, True]",True
+GPT 4 Turbo,sppResults,Lvl 9,0.7,0.0,0.11454545454545455,0.0,P,"[True, True, False, False, True, False, True, True, True, True]",True
+GPT 4 Turbo,sppResults,Lvl 10,0.7,0.1,0.12727272727272726,0.01,P,"[True, False, True, 'failed', True, False, True, True, True, True]",True
+Claude 2,gcpResults,Lvl 1,0.0,0.1,0.0,0.01,NP-Hard,"[False, False, False, False, False, False, False, False, 'failed', False]",True
+Claude 2,gcpResults,Lvl 2,0.2,0.0,0.007272727272727273,0.0,NP-Hard,"[True, False, False, True, False, False, False, False, False, False]",True
+Claude 2,gcpResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,gcpResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,gcpResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,gcpResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,gcpResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,gcpResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude 2,gcpResults,Lvl 9,0.1,0.0,0.016363636363636365,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, True]",True
+Claude 2,gcpResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 1,1.0,0.0,0.01818181818181818,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 2,0.4,0.0,0.014545454545454545,0.0,NP-Complete,"[True, True, False, True, False, False, False, False, True, False]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 3,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 4,0.1,0.0,0.007272727272727273,0.0,NP-Complete,"[False, False, False, False, True, False, False, False, False, False]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 5,0.2,0.0,0.01818181818181818,0.0,NP-Complete,"[False, False, False, True, False, False, True, False, False, False]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 6,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 7,0.2,0.0,0.025454545454545455,0.0,NP-Complete,"[False, False, True, False, False, False, False, True, False, False]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 8,0.9,0.0,0.13090909090909092,0.0,NP-Complete,"[True, True, True, True, True, False, True, True, True, True]",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+GPT 3.5 Turbo,tsp_d_Results,Lvl 10,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",True
+Claude Instant,tspResults,Lvl 1,0.5,0.0,0.00909090909090909,0.0,NP-Hard,"[False, False, False, True, False, False, True, True, True, True]",True
+Claude Instant,tspResults,Lvl 2,0.3,0.3,0.010909090909090908,0.03,NP-Hard,"[True, False, 'failed', 'failed', True, False, 'failed', True, False, False]",True
+Claude Instant,tspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,tspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,tspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,tspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,tspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,tspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,tspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Claude Instant,tspResults,Lvl 10,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",True
+Yi-34b,bspResults,Lvl 1,0.8,0.2,0.014545454545454545,0.02,P,"[True, True, True, True, True, True, True, 'failed', True, 'failed']",False
+Yi-34b,bspResults,Lvl 2,0.9,0.1,0.03272727272727273,0.01,P,"[True, True, True, True, 'failed', True, True, True, True, True]",False
+Yi-34b,bspResults,Lvl 3,0.8,0.2,0.04363636363636364,0.02,P,"[True, 'failed', True, True, True, True, 'failed', True, True, True]",False
+Yi-34b,bspResults,Lvl 4,0.8,0.2,0.05818181818181818,0.02,P,"[True, True, 'failed', True, True, True, True, True, 'failed', True]",False
+Yi-34b,bspResults,Lvl 5,0.5,0.5,0.045454545454545456,0.05,P,"['failed', 'failed', True, True, True, 'failed', True, 'failed', 'failed', True]",False
+Yi-34b,bspResults,Lvl 6,0.5,0.5,0.05454545454545454,0.05,P,"[True, True, 'failed', 'failed', 'failed', 'failed', True, 'failed', True, True]",False
+Yi-34b,bspResults,Lvl 7,0.6,0.4,0.07636363636363637,0.04,P,"['failed', True, True, True, True, 'failed', 'failed', True, 'failed', True]",False
+Yi-34b,bspResults,Lvl 8,0.5,0.5,0.07272727272727272,0.05,P,"[True, 'failed', 'failed', True, 'failed', True, 'failed', True, 'failed', True]",False
+Yi-34b,bspResults,Lvl 9,0.8,0.2,0.13090909090909092,0.02,P,"[True, True, 'failed', True, True, True, 'failed', True, True, True]",False
+Yi-34b,bspResults,Lvl 10,0.5,0.5,0.09090909090909091,0.05,P,"[True, True, True, True, True, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,tspResults,Lvl 1,0.6,0.0,0.010909090909090908,0.0,NP-Hard,"[False, True, True, True, False, True, True, False, True, False]",False
+Phi-2,tspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tspResults,Lvl 5,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tspResults,Lvl 9,0.0,0.9,0.0,0.09,NP-Hard,"['failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,tspResults,Lvl 10,0.0,0.7,0.0,0.06999999999999999,NP-Hard,"['failed', False, False, 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Qwen-14b,sppResults,Lvl 1,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,sppResults,Lvl 2,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,sppResults,Lvl 3,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,sppResults,Lvl 4,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,sppResults,Lvl 5,0.2,0.0,0.01818181818181818,0.0,P,"[False, False, True, False, False, False, False, False, False, True]",False
+Qwen-14b,sppResults,Lvl 6,0.0,0.9,0.0,0.09,P,"['failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,sppResults,Lvl 7,0.0,0.1,0.0,0.01,P,"[False, False, False, False, False, False, False, False, False, 'failed']",False
+Qwen-14b,sppResults,Lvl 8,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,sppResults,Lvl 9,0.0,0.2,0.0,0.02,P,"[False, False, False, False, 'failed', 'failed', False, False, False, False]",False
+Qwen-14b,sppResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,bspResults,Lvl 1,0.3,0.1,0.005454545454545454,0.01,P,"[False, False, False, True, False, True, False, 'failed', False, True]",False
+Phi-2,bspResults,Lvl 2,0.2,0.2,0.007272727272727273,0.02,P,"[True, 'failed', False, False, True, False, False, 'failed', False, False]",False
+Phi-2,bspResults,Lvl 3,0.3,0.2,0.01636363636363636,0.02,P,"[False, True, True, False, 'failed', False, False, False, 'failed', True]",False
+Phi-2,bspResults,Lvl 4,0.3,0.2,0.021818181818181816,0.02,P,"[False, False, False, 'failed', False, True, 'failed', True, True, False]",False
+Phi-2,bspResults,Lvl 5,0.3,0.2,0.02727272727272727,0.02,P,"[False, True, False, False, False, 'failed', True, 'failed', True, False]",False
+Phi-2,bspResults,Lvl 6,0.2,0.2,0.02181818181818182,0.02,P,"['failed', False, True, False, False, False, 'failed', True, False, False]",False
+Phi-2,bspResults,Lvl 7,0.1,0.1,0.012727272727272728,0.01,P,"[False, True, False, False, False, 'failed', False, False, False, False]",False
+Phi-2,bspResults,Lvl 8,0.3,0.0,0.04363636363636363,0.0,P,"[False, False, False, False, False, True, True, False, True, False]",False
+Phi-2,bspResults,Lvl 9,0.1,0.3,0.016363636363636365,0.03,P,"[True, 'failed', False, 'failed', False, False, False, 'failed', False, False]",False
+Phi-2,bspResults,Lvl 10,0.1,0.0,0.01818181818181818,0.0,P,"[False, False, False, False, False, True, False, False, False, False]",False
+Phi-2,gcpResults,Lvl 1,0.0,0.0,0.0,0.0,NP-Hard,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,gcpResults,Lvl 2,0.1,0.3,0.0036363636363636364,0.03,NP-Hard,"[False, 'failed', False, True, False, False, False, 'failed', False, 'failed']",False
+Phi-2,gcpResults,Lvl 3,0.0,0.8,0.0,0.08,NP-Hard,"['failed', 'failed', 'failed', 'failed', False, False, 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,gcpResults,Lvl 4,0.0,0.7,0.0,0.06999999999999999,NP-Hard,"['failed', 'failed', 'failed', False, 'failed', False, False, 'failed', 'failed', 'failed']",False
+Phi-2,gcpResults,Lvl 5,0.1,0.6,0.00909090909090909,0.06,NP-Hard,"['failed', 'failed', False, False, 'failed', 'failed', 'failed', 'failed', True, False]",False
+Phi-2,gcpResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,gcpResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,gcpResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,gcpResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,gcpResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,mspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,tsp_d_Results,Lvl 1,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tsp_d_Results,Lvl 2,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, 'failed', False, False, False, False, False, False, False]",False
+Phi-2,tsp_d_Results,Lvl 3,0.0,0.4,0.0,0.04,NP-Complete,"['failed', 'failed', False, False, False, 'failed', False, 'failed', False, False]",False
+Phi-2,tsp_d_Results,Lvl 4,0.2,0.0,0.014545454545454545,0.0,NP-Complete,"[False, False, True, False, False, False, True, False, False, False]",False
+Phi-2,tsp_d_Results,Lvl 5,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tsp_d_Results,Lvl 6,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tsp_d_Results,Lvl 7,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tsp_d_Results,Lvl 8,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,tsp_d_Results,Lvl 9,0.0,0.7,0.0,0.06999999999999999,NP-Complete,"[False, False, 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,tsp_d_Results,Lvl 10,0.0,0.9,0.0,0.09,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', False, 'failed', 'failed']",False
+Phi-2,kspResults,Lvl 1,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 2,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 3,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 5,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, False, False, False, 'failed', False, False, False]",False
+Phi-2,kspResults,Lvl 6,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, 'failed', False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,kspResults,Lvl 10,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, False, False, 'failed', False, False, False, False]",False
+Qwen-14b,edpResults,Lvl 1,0.5,0.0,0.00909090909090909,0.0,P,"[True, False, False, True, True, True, False, False, False, True]",False
+Qwen-14b,edpResults,Lvl 2,0.5,0.0,0.01818181818181818,0.0,P,"[True, False, False, True, False, False, True, True, False, True]",False
+Qwen-14b,edpResults,Lvl 3,0.3,0.0,0.01636363636363636,0.0,P,"[False, False, True, False, False, True, False, True, False, False]",False
+Qwen-14b,edpResults,Lvl 4,0.3,0.0,0.021818181818181816,0.0,P,"[True, False, False, False, True, False, False, True, False, False]",False
+Qwen-14b,edpResults,Lvl 5,0.6,0.0,0.05454545454545454,0.0,P,"[True, True, False, True, True, True, False, False, False, True]",False
+Qwen-14b,edpResults,Lvl 6,0.4,0.0,0.04363636363636364,0.0,P,"[False, True, False, True, True, False, False, False, True, False]",False
+Qwen-14b,edpResults,Lvl 7,0.1,0.0,0.012727272727272728,0.0,P,"[False, False, False, False, False, True, False, False, False, False]",False
+Qwen-14b,edpResults,Lvl 8,0.3,0.0,0.04363636363636363,0.0,P,"[True, False, True, False, False, False, False, False, False, True]",False
+Qwen-14b,edpResults,Lvl 9,0.3,0.0,0.04909090909090909,0.0,P,"[False, False, True, False, False, False, False, True, True, False]",False
+Qwen-14b,edpResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,gcp_d_Results,Lvl 1,0.2,0.0,0.0036363636363636364,0.0,NP-Complete,"[False, False, False, False, False, False, False, True, False, True]",False
+Phi-2,gcp_d_Results,Lvl 2,0.2,0.0,0.007272727272727273,0.0,NP-Complete,"[False, False, False, False, False, True, False, True, False, False]",False
+Phi-2,gcp_d_Results,Lvl 3,0.4,0.0,0.02181818181818182,0.0,NP-Complete,"[True, True, False, True, False, False, False, False, True, False]",False
+Phi-2,gcp_d_Results,Lvl 4,0.5,0.0,0.03636363636363636,0.0,NP-Complete,"[True, True, True, True, False, False, False, False, False, True]",False
+Phi-2,gcp_d_Results,Lvl 5,0.1,0.1,0.00909090909090909,0.01,NP-Complete,"[True, 'failed', False, False, False, False, False, False, False, False]",False
+Phi-2,gcp_d_Results,Lvl 6,0.4,0.0,0.04363636363636364,0.0,NP-Complete,"[False, False, True, False, False, True, True, True, False, False]",False
+Phi-2,gcp_d_Results,Lvl 7,0.7,0.1,0.08909090909090908,0.01,NP-Complete,"['failed', True, True, True, True, False, True, False, True, True]",False
+Phi-2,gcp_d_Results,Lvl 8,0.5,0.1,0.07272727272727272,0.01,NP-Complete,"[True, False, 'failed', True, False, False, True, True, False, True]",False
+Phi-2,gcp_d_Results,Lvl 9,0.9,0.1,0.14727272727272728,0.01,NP-Complete,"[True, True, True, True, True, True, True, 'failed', True, True]",False
+Phi-2,gcp_d_Results,Lvl 10,0.7,0.0,0.12727272727272726,0.0,NP-Complete,"[True, True, False, False, True, True, False, True, True, True]",False
+Qwen-14b,kspResults,Lvl 1,0.0,0.2,0.0,0.02,NP-Complete,"['failed', False, False, 'failed', False, False, False, False, False, False]",False
+Qwen-14b,kspResults,Lvl 2,0.0,0.2,0.0,0.02,NP-Complete,"[False, False, False, False, False, False, False, 'failed', 'failed', False]",False
+Qwen-14b,kspResults,Lvl 3,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, 'failed', False, False, False, False, False, False]",False
+Qwen-14b,kspResults,Lvl 4,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,kspResults,Lvl 5,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, False, False, False, False, False, False, 'failed']",False
+Qwen-14b,kspResults,Lvl 6,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,kspResults,Lvl 7,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,kspResults,Lvl 8,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,kspResults,Lvl 9,0.0,0.0,0.0,0.0,NP-Complete,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,kspResults,Lvl 10,0.0,0.1,0.0,0.01,NP-Complete,"[False, False, False, 'failed', False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 1,0.2,0.0,0.0036363636363636364,0.0,P,"[False, False, True, True, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 2,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 3,0.1,0.0,0.005454545454545455,0.0,P,"[False, False, False, False, False, True, False, False, False, False]",False
+Phi-2,edpResults,Lvl 4,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 5,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 6,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 7,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 8,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 9,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,edpResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Qwen-14b,gcpResults,Lvl 1,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 4,0.2,0.8,0.014545454545454545,0.08,NP-Hard,"['failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', True, 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 5,0.1,0.9,0.00909090909090909,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,gcpResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tsp_d_Results,Lvl 1,1.0,0.0,0.01818181818181818,0.0,NP-Complete,"[True, True, True, True, True, True, True, True, True, True]",False
+Qwen-14b,tsp_d_Results,Lvl 2,0.9,0.0,0.03272727272727273,0.0,NP-Complete,"[True, False, True, True, True, True, True, True, True, True]",False
+Qwen-14b,tsp_d_Results,Lvl 3,0.9,0.0,0.049090909090909095,0.0,NP-Complete,"[True, True, True, False, True, True, True, True, True, True]",False
+Qwen-14b,tsp_d_Results,Lvl 4,0.3,0.0,0.021818181818181816,0.0,NP-Complete,"[False, False, False, False, True, False, False, True, True, False]",False
+Qwen-14b,tsp_d_Results,Lvl 5,0.5,0.2,0.045454545454545456,0.02,NP-Complete,"['failed', False, True, 'failed', True, True, True, False, False, True]",False
+Qwen-14b,tsp_d_Results,Lvl 6,0.5,0.0,0.05454545454545454,0.0,NP-Complete,"[True, True, False, False, True, True, False, True, False, False]",False
+Qwen-14b,tsp_d_Results,Lvl 7,0.7,0.0,0.08909090909090908,0.0,NP-Complete,"[False, False, True, True, True, True, True, True, False, True]",False
+Qwen-14b,tsp_d_Results,Lvl 8,0.6,0.0,0.08727272727272727,0.0,NP-Complete,"[True, True, True, True, False, False, True, False, True, False]",False
+Qwen-14b,tsp_d_Results,Lvl 9,0.0,1.0,0.0,0.1,NP-Complete,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tsp_d_Results,Lvl 10,0.1,0.9,0.01818181818181818,0.09,NP-Complete,"['failed', 'failed', True, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,mspResults,Lvl 1,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', 'failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,mspResults,Lvl 2,0.0,0.6,0.0,0.06,NP-Hard,"['failed', 'failed', 'failed', 'failed', False, 'failed', False, False, 'failed', False]",False
+Phi-2,mspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,mspResults,Lvl 4,0.0,0.9,0.0,0.09,NP-Hard,"['failed', 'failed', False, 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,mspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,mspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,mspResults,Lvl 7,0.0,0.2,0.0,0.02,NP-Hard,"[False, False, False, False, 'failed', False, False, False, False, 'failed']",False
+Phi-2,mspResults,Lvl 8,0.0,0.6,0.0,0.06,NP-Hard,"['failed', False, False, 'failed', 'failed', False, 'failed', False, 'failed', 'failed']",False
+Phi-2,mspResults,Lvl 9,0.0,0.2,0.0,0.02,NP-Hard,"[False, False, False, False, 'failed', 'failed', False, False, False, False]",False
+Phi-2,mspResults,Lvl 10,0.0,0.4,0.0,0.04,NP-Hard,"[False, False, 'failed', 'failed', 'failed', False, False, False, False, 'failed']",False
+Qwen-14b,gcp_d_Results,Lvl 1,0.4,0.0,0.007272727272727273,0.0,NP-Complete,"[True, False, True, False, True, False, False, True, False, False]",False
+Qwen-14b,gcp_d_Results,Lvl 2,0.2,0.0,0.007272727272727273,0.0,NP-Complete,"[False, False, False, False, False, True, False, True, False, False]",False
+Qwen-14b,gcp_d_Results,Lvl 3,0.1,0.1,0.005454545454545455,0.01,NP-Complete,"[True, False, False, 'failed', False, False, False, False, False, False]",False
+Qwen-14b,gcp_d_Results,Lvl 4,0.2,0.0,0.014545454545454545,0.0,NP-Complete,"[True, False, False, True, False, False, False, False, False, False]",False
+Qwen-14b,gcp_d_Results,Lvl 5,0.3,0.0,0.02727272727272727,0.0,NP-Complete,"[True, False, False, False, True, False, False, True, False, False]",False
+Qwen-14b,gcp_d_Results,Lvl 6,0.3,0.1,0.03272727272727272,0.01,NP-Complete,"[False, False, True, False, False, True, True, False, False, 'failed']",False
+Qwen-14b,gcp_d_Results,Lvl 7,0.7,0.0,0.08909090909090908,0.0,NP-Complete,"[True, True, True, True, False, False, True, False, True, True]",False
+Qwen-14b,gcp_d_Results,Lvl 8,0.7,0.0,0.10181818181818181,0.0,NP-Complete,"[True, False, True, True, False, False, True, True, True, True]",False
+Qwen-14b,gcp_d_Results,Lvl 9,0.9,0.0,0.14727272727272728,0.0,NP-Complete,"[True, True, False, True, True, True, True, True, True, True]",False
+Qwen-14b,gcp_d_Results,Lvl 10,0.7,0.0,0.12727272727272726,0.0,NP-Complete,"[True, True, False, False, True, True, False, True, True, True]",False
+Qwen-14b,bspResults,Lvl 1,1.0,0.0,0.01818181818181818,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",False
+Qwen-14b,bspResults,Lvl 2,1.0,0.0,0.03636363636363636,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",False
+Qwen-14b,bspResults,Lvl 3,1.0,0.0,0.05454545454545454,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",False
+Qwen-14b,bspResults,Lvl 4,1.0,0.0,0.07272727272727272,0.0,P,"[True, True, True, True, True, True, True, True, True, True]",False
+Qwen-14b,bspResults,Lvl 5,0.7,0.3,0.06363636363636363,0.03,P,"['failed', True, 'failed', True, True, True, True, 'failed', True, True]",False
+Qwen-14b,bspResults,Lvl 6,0.9,0.1,0.09818181818181819,0.01,P,"[True, True, True, 'failed', True, True, True, True, True, True]",False
+Qwen-14b,bspResults,Lvl 7,0.7,0.3,0.08909090909090908,0.03,P,"[True, 'failed', 'failed', True, True, 'failed', True, True, True, True]",False
+Qwen-14b,bspResults,Lvl 8,0.7,0.3,0.10181818181818181,0.03,P,"['failed', 'failed', True, True, True, True, True, True, 'failed', True]",False
+Qwen-14b,bspResults,Lvl 9,0.6,0.4,0.09818181818181818,0.04,P,"[True, True, 'failed', 'failed', True, True, 'failed', 'failed', True, True]",False
+Qwen-14b,bspResults,Lvl 10,0.4,0.6,0.07272727272727272,0.06,P,"['failed', True, True, True, 'failed', 'failed', 'failed', True, 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 1,0.7,0.3,0.012727272727272726,0.03,NP-Hard,"[True, True, True, True, True, 'failed', True, True, 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 2,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 3,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 4,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 5,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 6,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 7,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 8,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 9,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Qwen-14b,tspResults,Lvl 10,0.0,1.0,0.0,0.1,NP-Hard,"['failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed', 'failed']",False
+Phi-2,sppResults,Lvl 1,0.2,0.0,0.0036363636363636364,0.0,P,"[False, True, False, False, False, False, False, True, False, False]",False
+Phi-2,sppResults,Lvl 2,0.1,0.0,0.0036363636363636364,0.0,P,"[False, False, False, False, False, False, False, True, False, False]",False
+Phi-2,sppResults,Lvl 3,0.2,0.0,0.01090909090909091,0.0,P,"[True, False, False, False, False, False, False, False, False, True]",False
+Phi-2,sppResults,Lvl 4,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,sppResults,Lvl 5,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,sppResults,Lvl 6,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,sppResults,Lvl 7,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,sppResults,Lvl 8,0.1,0.0,0.014545454545454545,0.0,P,"[False, False, False, False, False, False, True, False, False, False]",False
+Phi-2,sppResults,Lvl 9,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False
+Phi-2,sppResults,Lvl 10,0.0,0.0,0.0,0.0,P,"[False, False, False, False, False, False, False, False, False, False]",False

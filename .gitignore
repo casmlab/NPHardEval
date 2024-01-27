@@ -1,0 +1,14 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+old_scripts/
+.DS_Store
+**/.DS_Store
+summary/Fewshot*
+summary/ZeroShot*
+summary/rq3
+summary/data/
+summary/figures/
+Synthesis/
+data_*/
+test.ipynb
