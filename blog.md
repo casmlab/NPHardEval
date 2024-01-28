@@ -2,10 +2,6 @@
 title: "NPHardEval: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates"
 ---
 
-
-https://github.com/casmlab/NPHardEval
-
-
 # NPHardEval: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates
 
 Welcome to an exploration of [NPHardEval](https://arxiv.org/abs/2312.14890), a cutting-edge benchmark revolutionizing the evaluation of Large Language Models' (LLMs) reasoning abilities. Developed by researchers from the University of Michigan and Rutgers University, [NPHardEval](https://arxiv.org/abs/2312.14890) introduces a dynamic, complexity-based framework for assessing LLMs. It poses 900 algorithmic questions spanning the NP-Hard complexity class and lower, designed to rigorously test LLMs' reasoning abilities.
