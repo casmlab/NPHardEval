@@ -24,6 +24,7 @@ In particular, our major contributions are two-fold:
 The benchmark includes comprehensive experiments to analyze LLMs across various complexity classes and difficulty levels. It delves into the nuances of LLM performance, providing valuable insights into their reasoning strengths and limitations. In general:
 - Close-source models generally perform better than open-source models.
 - Models generally perform better on less-complex questions, i.e. easier complexity classes.
+- More background and insights are available in [Slides](https://docs.google.com/presentation/d/1VYBrCw5BqxuCCwlHeVn_UlhFj6zw04uETJzufw6spA8/edit?usp=sharing).
 
 ## Setting up NPHardEval Benchmark
 
