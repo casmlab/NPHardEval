@@ -29,7 +29,7 @@ NPHardEval uses 100 questions for each of the 9 algorithms, with 10 difficulty l
 There are 2 types of data structure: graph data (e.g., GCP) and linear data (e.g., SAS). The synthesis process in both cases is governed by a progression of complexity across a spectrum of predefined levels. Examples are provided below:
 
 <div align="center">
-    <img src="figure/questions_examples.png.png" alt="Weighted Accuracy and Failure Rate" style="width:80%">
+    <img src="figure/questions_examples.png" alt="Weighted Accuracy and Failure Rate" style="width:80%">
 </div>
 
 More background and insights are available in [Slides](https://docs.google.com/presentation/d/1VYBrCw5BqxuCCwlHeVn_UlhFj6zw04uETJzufw6spA8/edit?usp=sharing).
@@ -45,7 +45,7 @@ When evaluating problem-solving accuracy, we use a metric called **Weighted Accu
 The formula for Weighted Accuracy is as follows:
 
 $$
-WA = \frac{\sum_{i=1}^{10} (w_i \times A_i)}{\sum_{i=1}^{10} w_i}
+WA = (Σ(w_i * A_i)) / Σ(w_i) for i = 1 to 10
 $$
 
 In this equation, \(w_i\) represents the weight assigned to difficulty level \(i\) (ranging from 1 to 10), and \(A_i\) is the accuracy at that level.
@@ -59,7 +59,7 @@ The Failure Rate is calculated by considering the proportion of failed attempts 
 The formal definition of Failure Rate is:
 
 $$
-FR = \frac{\sum_{i=1}^{10} F_i}{100}
+FR = Σ(F_i) / 100 for i = 1 to 10
 $$
 
 Here, \(F_i\) denotes the number of failed attempts at difficulty level \(i\).
