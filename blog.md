@@ -67,7 +67,7 @@ Here, $F_i$ denotes the number of failed attempts at difficulty level $i$.
 ## Experimentation and Insights
 
 The benchmark includes comprehensive experiments to analyze LLMs across various complexity classes and difficulty levels. It delves into the nuances of LLM performance, providing valuable insights into their reasoning strengths and limitations. In general:
-- Close-source models generally perform better than open-source models, with GPT 4 Turbor performs overally the best.
+- Close-source models generally perform better than open-source models, with GPT 4 Turbo overally performs the best.
 - Models generally perform better on less-complex questions, i.e. easier complexity classes, while not always linearly decrease on complexity levels. Models such as Claude 2 perform the best on NP-complete (middle-complexity) questions.
 - Some open-source models can outperform close-source models on specific questions. Models such as Yi-34b, Qwen-14b, Phi-2, and Mistral-7b are leading open-source models. 
 
