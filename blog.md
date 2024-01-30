@@ -38,7 +38,7 @@ More background and insights are available in [Slides](https://docs.google.com/p
 
 To evaluate the reasoning ability of LLMs, we utilize two metrics, the Weighted Accuracy and the Failure Rate.
 
-# Weighted Accuracy (WA)
+### Weighted Accuracy (WA)
 
 When evaluating problem-solving accuracy, we use a metric called **Weighted Accuracy (WA)**. This method is applied for each problem, either through comparison with a correct answer or via step-by-step result checking for problems without a singular answer. To reflect comparative accuracy more effectively, we assign weights to different difficulty levels. Each level's weight corresponds to its relative importance or challenge, with higher difficulty levels receiving more weight in a linear progression (for instance, level 1 has weight 1, level 2 has weight 2, and so on).
 
@@ -50,7 +50,7 @@ $$
 
 In this equation, $w_i$ represents the weight assigned to difficulty level $i$ (ranging from 1 to 10), and $A_i$ is the accuracy at that level.
 
-# Failure Rate (FR)
+### Failure Rate (FR)
 
 Another critical metric we consider is the **Failure Rate (FR)**. This measure helps assess the frequency of unsuccessful outcomes across different problems and difficulty levels. It's particularly useful for identifying instances where an LLM's result does not match the expected output format.
 
