@@ -18,13 +18,19 @@ In particular, our major contributions are two-fold:
     - Defining Reasoning via Complexity Classes: The questions in the benchmark utilized are grounded in the established computational complexity hierarchy, a concept extensively studied in theoretical computer science. This foundation enables us to leverage existing research to rigorously and quantitatively measure an LLM's logical reasoning extent.
     - Core Reasoning Tasks focusing on Logics: The benchmark excludes numerical computation from the questions, which is notably difficult for LLM. This focus allows for a more accurate evaluation of an LLM's pure logical reasoning ability, as numerical computation can obscure this assessment.
 
+## Data Synthesis and Metrics
+
+
 
 ## Experimentation and Insights
 
 The benchmark includes comprehensive experiments to analyze LLMs across various complexity classes and difficulty levels. It delves into the nuances of LLM performance, providing valuable insights into their reasoning strengths and limitations. In general:
 - Close-source models generally perform better than open-source models.
 - Models generally perform better on less-complex questions, i.e. easier complexity classes.
-- More background and insights are available in [Slides](https://docs.google.com/presentation/d/1VYBrCw5BqxuCCwlHeVn_UlhFj6zw04uETJzufw6spA8/edit?usp=sharing).
+
+
+
+More background and insights are available in [Slides](https://docs.google.com/presentation/d/1VYBrCw5BqxuCCwlHeVn_UlhFj6zw04uETJzufw6spA8/edit?usp=sharing).
 
 ## Setting up NPHardEval Benchmark
 
