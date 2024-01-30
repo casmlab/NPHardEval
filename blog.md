@@ -76,7 +76,7 @@ The benchmark includes comprehensive experiments to analyze LLMs across various 
 </div>
 
 <div align="center">
-    <img src="figure/zeroshot_heatmap.png" alt="Zeroshot Heatmap" style="width:80%">
+    <img src="figure/zeroshot_heatmap.png" alt="Zeroshot Heatmap" style="width:60%">
 </div>
 
 ## Setting up NPHardEval Benchmark
