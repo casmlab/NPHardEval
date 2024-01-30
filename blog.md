@@ -18,19 +18,66 @@ In particular, our major contributions are two-fold:
     - Defining Reasoning via Complexity Classes: The questions in the benchmark utilized are grounded in the established computational complexity hierarchy, a concept extensively studied in theoretical computer science. This foundation enables us to leverage existing research to rigorously and quantitatively measure an LLM's logical reasoning extent.
     - Core Reasoning Tasks focusing on Logics: The benchmark excludes numerical computation from the questions, which is notably difficult for LLM. This focus allows for a more accurate evaluation of an LLM's pure logical reasoning ability, as numerical computation can obscure this assessment.
 
-## Data Synthesis and Metrics
+## Data Synthesis
 
+NPHardEval uses 100 questions for each of the 9 algorithms, with 10 difficulty levels, resulting in 900 questions across complexity and difficulty. The 9 algorithms, including 3 P, 3 NP-complete, and 3 NP-hard questions, are characterized according to the computing theory. The 900 questions are all synthesized and updated monthly. These questions are:
 
+<div align="center">
+    <img src="figure/questions_blog.png" alt="Weighted Accuracy and Failure Rate" style="width:80%">
+</div>
+
+There are 2 types of data structure: graph data (e.g., GCP) and linear data (e.g., SAS). The synthesis process in both cases is governed by a progression of complexity across a spectrum of predefined levels. Examples are provided below:
+
+<div align="center">
+    <img src="figure/questions_examples.png.png" alt="Weighted Accuracy and Failure Rate" style="width:80%">
+</div>
+
+More background and insights are available in [Slides](https://docs.google.com/presentation/d/1VYBrCw5BqxuCCwlHeVn_UlhFj6zw04uETJzufw6spA8/edit?usp=sharing).
+
+## Evaluation Metrics
+
+To evaluate the reasoning ability of LLMs, we utilize two metrics, the Weighted Accuracy and the Failure Rate.
+
+# Weighted Accuracy (WA)
+
+When evaluating problem-solving accuracy, we use a metric called **Weighted Accuracy (WA)**. This method is applied for each problem, either through comparison with a correct answer or via step-by-step result checking for problems without a singular answer. To reflect comparative accuracy more effectively, we assign weights to different difficulty levels. Each level's weight corresponds to its relative importance or challenge, with higher difficulty levels receiving more weight in a linear progression (for instance, level 1 has weight 1, level 2 has weight 2, and so on).
+
+The formula for Weighted Accuracy is as follows:
+
+$$
+WA = \frac{\sum_{i=1}^{10} (w_i \times A_i)}{\sum_{i=1}^{10} w_i}
+$$
+
+In this equation, \(w_i\) represents the weight assigned to difficulty level \(i\) (ranging from 1 to 10), and \(A_i\) is the accuracy at that level.
+
+# Failure Rate (FR)
+
+Another critical metric we consider is the **Failure Rate (FR)**. This measure helps assess the frequency of unsuccessful outcomes across different problems and difficulty levels. It's particularly useful for identifying instances where an LLM's result does not match the expected output format.
+
+The Failure Rate is calculated by considering the proportion of failed attempts relative to the total number of attempts for each difficulty level. An attempt is counted as failed if the model generates results that cannot be successfully parsed in all endpoint calls. We set the maximum number of tries as 10. For each problem, the Failure Rate is then aggregated across all difficulty levels, considering the total of 10 attempts at each level.
+
+The formal definition of Failure Rate is:
+
+$$
+FR = \frac{\sum_{i=1}^{10} F_i}{100}
+$$
+
+Here, \(F_i\) denotes the number of failed attempts at difficulty level \(i\).
 
 ## Experimentation and Insights
 
 The benchmark includes comprehensive experiments to analyze LLMs across various complexity classes and difficulty levels. It delves into the nuances of LLM performance, providing valuable insights into their reasoning strengths and limitations. In general:
-- Close-source models generally perform better than open-source models.
-- Models generally perform better on less-complex questions, i.e. easier complexity classes.
+- Close-source models generally perform better than open-source models, with GPT 4 Turbor performs overally the best.
+- Models generally perform better on less-complex questions, i.e. easier complexity classes, while not always linearly decrease on complexity levels. Models such as Claude 2 perform the best on NP-complete (middle-complexity) questions.
+- Some open-source models can outperform close-source models on specific questions. Models such as Yi-34b, Qwen-14b, Phi-2, and Mistral-7b are leading open-source models. 
 
+<div align="center">
+    <img src="figure/weighted_accuracy_failed.png" alt="Weighted Accuracy and Failure Rate" style="width:80%">
+</div>
 
-
-More background and insights are available in [Slides](https://docs.google.com/presentation/d/1VYBrCw5BqxuCCwlHeVn_UlhFj6zw04uETJzufw6spA8/edit?usp=sharing).
+<div align="center">
+    <img src="figure/zeroshot_heatmap.png" alt="Zeroshot Heatmap" style="width:80%">
+</div>
 
 ## Setting up NPHardEval Benchmark
 
