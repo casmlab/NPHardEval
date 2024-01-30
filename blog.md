@@ -44,9 +44,7 @@ When evaluating problem-solving accuracy, we use a metric called **Weighted Accu
 
 The formula for Weighted Accuracy is as follows:
 
-$$
-WA = \frac{\sum_{i=1}^{10} (w_i \times A_i)}{\sum_{i=1}^{10} w_i}
-$$
+$WA = \frac{\sum_{i=1}^{10} (w_i \times A_i)}{\sum_{i=1}^{10} w_i}$
 
 In this equation, \(w_i\) represents the weight assigned to difficulty level \(i\) (ranging from 1 to 10), and \(A_i\) is the accuracy at that level.
 
@@ -58,10 +56,7 @@ The Failure Rate is calculated by considering the proportion of failed attempts 
 
 The formal definition of Failure Rate is:
 
-$$
-FR = FR = \frac{\sum_{i=1}^{10} F_i}{100}
-$$
-
+$FR = \frac{\sum_{i=1}^{10} F_i}{100}$
 
 Here, \(F_i\) denotes the number of failed attempts at difficulty level \(i\).
 
