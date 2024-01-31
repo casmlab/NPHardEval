@@ -105,10 +105,10 @@ To set up the NPHardEval Benchmark, we had to follow a few steps:
 
 We currrently support fewshot examples from the same question (self), and may support examples from other questions (other) in the future.
 
-We have published the leaderboard on [Huggingface](https://huggingface.co/spaces/hyfrankl/NPHardEval-leaderboard)  and may support model submission in the future.
+We have published the leaderboard on [Huggingface](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard)  and may support model submission in the future.
 
 ## Join the Conversation
-[The NPHardEval benchmark](https://huggingface.co/spaces/hyfrankl/NPHardEval-leaderboard), along with its [dataset](https://github.com/casmlab/NPHardEval/releases) and [code](https://github.com/casmlab/NPHardEval), is available on Github for community access and contributions.
+[The NPHardEval benchmark](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard), along with its [dataset](https://github.com/casmlab/NPHardEval/releases) and [code](https://github.com/casmlab/NPHardEval), is available on Github for community access and contributions.
 
 Engage with this pioneering work and explore the frontiers of LLM reasoning abilities at [NPHardEval GitHub Repository](https://github.com/casmlab/NPHardEval).
 
