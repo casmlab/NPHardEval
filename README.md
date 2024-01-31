@@ -4,9 +4,8 @@
 <a href="https://github.com/casmlab/NPHardEval/tags"><img alt="GitHub release" src="https://img.shields.io/github/tag/casmlab/NPHardEval"></a>
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/casmlab/NPHardEval/blob/main/LICENSE)
 
-
 <div align="center">
-    <img src="figure/NPHardEval_text_bottom.png" alt="NPHardEval Logo" style="width:35%">   <img src="figure/NP-hard.jpg" alt="Questions of different complexity classes" style="width:50%"> 
+    <img src="figure/NPHardEval_text_bottom.png" alt="NPHardEval Logo" style="width:35%">
 </div>
 
 **NPHardEval** serves as a comprehensive benchmark for assessing the reasoning abilities of large language models (LLMs) through the lens of computational complexity classes. This repository contains datasets, data generation scripts, and experimental procedures designed to evaluate LLMs in various reasoning tasks.
