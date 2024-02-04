@@ -12,3 +12,6 @@ summary/figures/
 Synthesis/
 data_*/
 test.ipynb
+secrets.txt
+jc_local_work/
+jc_own_test/
