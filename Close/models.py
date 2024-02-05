@@ -24,8 +24,16 @@ TODO:
 - Gemini
 '''
 
-### Load secrets
+## Load secrets
+## search the file in different levels
 SECRET_FILE = '../secrets.txt'
+
+if not os.path.exists(SECRET_FILE):
+    SECRET_FILE = 'secrets.txt'
+    if not os.path.exists(SECRET_FILE):
+        SECRET_FILE = '../../secrets.txt'
+
+
 with open(SECRET_FILE) as f:
     lines = f.readlines()
     for line in lines:

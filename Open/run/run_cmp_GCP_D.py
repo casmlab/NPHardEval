@@ -12,6 +12,7 @@ import json
 import argparse
 from tqdm import tqdm 
 from utils import run_opensource_models
+from utils import find_data_path
 
 def load_data():
     data_path = DATA_PATH
@@ -88,9 +89,39 @@ if __name__ == '__main__':
     # Script logic using args.model as the model name
     MODEL = str(args.model)
 
-    DATA_PATH = args.data_dir
+    # original path config
+    # DATA_PATH = args.data_dir
+    
+    # if args.tuned_model_dir:
+    #     RESULT_PATH = '../Results/finetuned/'
+    #     if 'test_1' in args.data_dir:
+    #         RESULT_PATH += 'test_1/'
+    #     elif 'test_2' in args.data_dir:
+    #         RESULT_PATH += 'test_2/'
+    #     else:
+    #         RESULT_PATH += 'original/'
+    # else:
+    #     RESULT_PATH = '../Results/'
+    #     if 'test_1' in args.data_dir:
+    #         RESULT_PATH += 'test_1/'
+    #     elif 'test_2' in args.data_dir:
+    #         RESULT_PATH += 'test_2/'
+
+
+    ## new interface code please test and check 
+
+
+    DEFAULT_DATA_PATH,DEFAULT_RESULT_PATH = find_data_path(os.path.abspath(__file__))
+
+    if args.data_dir != '../Data/GCP_Decision/':
+        DATA_PATH = args.data_dir
+    else:
+        DATA_PATH = DEFAULT_DATA_PATH
+    
+    RESULT_PATH = DEFAULT_RESULT_PATH
+
     if args.tuned_model_dir:
-        RESULT_PATH = '../Results/finetuned/'
+        RESULT_PATH += 'finetuned/'
         if 'test_1' in args.data_dir:
             RESULT_PATH += 'test_1/'
         elif 'test_2' in args.data_dir:
@@ -98,11 +129,13 @@ if __name__ == '__main__':
         else:
             RESULT_PATH += 'original/'
     else:
-        RESULT_PATH = '../Results/'
         if 'test_1' in args.data_dir:
             RESULT_PATH += 'test_1/'
         elif 'test_2' in args.data_dir:
             RESULT_PATH += 'test_2/'
+
+
+    
 
     # load data
     gcp_d_Data = load_data()

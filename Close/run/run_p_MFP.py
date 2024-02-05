@@ -6,6 +6,7 @@ from models import *
 from prompts import mfpPrompts
 from check.check_p_MFP import *
 from utils import parse_xml_to_dict
+from utils import find_data_path
 
 import pandas as pd
 import numpy as np
@@ -26,6 +27,10 @@ MODEL = str(args.model)
 
 DATA_PATH = '../Data/MFP/'
 RESULT_PATH = '../Results/'
+
+if not os.path.exists(DATA_PATH) or not os.path.exists(RESULT_PATH):
+    DATA_PATH,RESULT_PATH = find_data_path(os.path.abspath(__file__))
+    EXAMPLE_PATH = DATA_PATH
 
 def load_data():
     data_path = DATA_PATH
