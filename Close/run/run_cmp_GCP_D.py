@@ -6,6 +6,7 @@ from models import *
 from prompts import gcp_dPrompts
 from check.check_cmp_GCP_D import *
 from utils import parse_xml_to_dict
+from utils import find_data_path
 
 import pandas as pd
 import numpy as np
@@ -24,12 +25,18 @@ args = parser.parse_args()
 # Script logic using args.model as the model name
 MODEL = str(args.model)
 
+
 DATA_PATH = '../Data/GCP_Decision/'
 RESULT_PATH = '../Results/'
+
+if not os.path.exists(DATA_PATH) or not os.path.exists(RESULT_PATH):
+    DATA_PATH,RESULT_PATH = find_data_path(os.path.abspath(__file__))
+    
 
 def load_data():
     data_path = DATA_PATH
     all_data = []
+    # change to 1 for test result gene reason
     for file_num in range(10):
         with open(data_path + "decision_data_GCP_{}.txt".format(file_num)) as f:
             data = f.read()

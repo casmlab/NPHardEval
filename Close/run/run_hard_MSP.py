@@ -5,6 +5,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from models import *
 from prompts import mspPrompts
 from check.check_hard_MSP import *
+from utils import find_data_path
 
 import pandas as pd
 import numpy as np
@@ -29,6 +30,9 @@ MODEL = str(args.model)
 
 DATA_PATH = '../Data/MSP/'
 RESULT_PATH = '../Results/'
+
+if not os.path.exists(DATA_PATH) or not os.path.exists(RESULT_PATH):
+    DATA_PATH,RESULT_PATH = find_data_path(os.path.abspath(__file__))
 
 def load_data():
     data_path = DATA_PATH
