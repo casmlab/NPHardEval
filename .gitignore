@@ -10,7 +10,6 @@ summary/rq3
 summary/data/
 summary/figures/
 Synthesis/
-data_*/
 test.ipynb
 secrets.txt
 jc_local_work/
