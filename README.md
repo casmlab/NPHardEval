@@ -95,6 +95,7 @@ To successfully replicate the experiments detailed in this repository, the follo
 
 This script is your primary tool for experiment execution. It is meticulously crafted to provide a seamless and efficient experimental workflow. Detailed instructions within `run.sh` guide users through each step of the process, ensuring a smooth and error-free execution.
 
+Alternatively, you can use `start.py` to execute.
 
 ### Key Takeaways on Experiments
 We compare different foundation models' reasoning ability across task complexity and experimented with different prompt styles to understand their in-context learnability. Our study reveals a notable disparity in performance between closed-source and open-source models not only on general reasoning ability but also the disparity between "learning" and "mimicking". In particular, we found:
@@ -136,7 +137,7 @@ Contained within this directory are utility functions crucial for verifying answ
 --------------------
 
 ## News
--[2024.1.26] 🔥 We release the first version (V1) of NPHardEval with (1) We have **replaced** all data and (2) Several minor bugs fixed regarding data directory and code dependecy issues. 
+-[2024.1.26] 🔥 We release the first version (V1) of NPHardEval with (1) We have **replaced** all data and (2) Several minor bugs fixed regarding data directory and code dependecy issues. Note that the current version (V1) data is under Data folder and the previous version (V0) data is under Data_V0 folder.
 
 -[2023.12.24] 🔥 We release the default version (V0) of NPHardEval with data, answer-checking code, and example run files. The generation code will not be released, to avoid potential benchmark hacking.
 
@@ -149,7 +150,7 @@ The source code of NPHardEval is licensed under [Apache 2.0](https://github.com/
 ```
 @article{fan2023nphardeval,
   title={NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes},
-  author={Fan, Lizhou and Hua, Wenyue and Li, Lingyao and Ling, Haoyang and Zhang, Yongfeng and Hemphill, Libby},
+  author={Fan, Lizhou and Hua, Wenyue and Li, Lingyao and Ling, Haoyang and Zhang, Yongfeng},
   journal={arXiv preprint arXiv:2312.14890},
   year={2023}
 }
