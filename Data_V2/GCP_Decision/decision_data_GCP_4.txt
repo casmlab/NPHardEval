@@ -1,0 +1,145 @@
+c This graph can be colored with 3 colors
+p edge 12 15
+e 1 2
+e 1 6
+e 1 8
+e 2 3
+e 4 5
+e 4 9
+e 4 10
+e 5 7
+e 6 8
+e 6 9
+e 7 8
+e 7 11
+e 9 10
+e 9 11
+e 9 12
+
+c This graph can be colored with 3 colors
+p edge 12 8
+e 1 5
+e 1 11
+e 2 10
+e 3 6
+e 4 6
+e 4 8
+e 5 12
+e 6 8
+
+c This graph can be colored with 3 colors
+p edge 12 13
+e 1 4
+e 1 6
+e 1 10
+e 1 12
+e 3 12
+e 4 6
+e 4 10
+e 5 7
+e 5 9
+e 5 12
+e 6 11
+e 8 11
+e 10 12
+
+c This graph can be colored with 3 colors
+p edge 12 14
+e 1 9
+e 1 11
+e 2 4
+e 3 7
+e 4 11
+e 5 9
+e 5 10
+e 5 12
+e 6 11
+e 7 9
+e 7 10
+e 8 10
+e 9 10
+e 9 11
+
+c This graph can be colored with 3 colors
+p edge 12 9
+e 1 8
+e 1 9
+e 2 6
+e 3 7
+e 3 9
+e 7 10
+e 8 10
+e 8 11
+e 9 10
+
+c This graph can be colored with 3 colors
+p edge 12 12
+e 1 5
+e 1 9
+e 2 3
+e 2 8
+e 3 6
+e 3 9
+e 4 9
+e 6 7
+e 8 12
+e 9 11
+e 10 12
+e 11 12
+
+c This graph can be colored with 3 colors
+p edge 12 12
+e 2 6
+e 2 9
+e 2 10
+e 2 11
+e 3 8
+e 5 11
+e 6 8
+e 6 9
+e 7 10
+e 7 11
+e 8 10
+e 9 11
+
+c This graph can be colored with 3 colors
+p edge 12 7
+e 1 5
+e 3 11
+e 4 9
+e 5 10
+e 5 11
+e 7 8
+e 10 12
+
+c This graph can be colored with 3 colors
+p edge 12 13
+e 1 10
+e 2 3
+e 2 5
+e 2 10
+e 2 12
+e 4 8
+e 4 9
+e 4 10
+e 5 7
+e 6 12
+e 7 8
+e 8 11
+e 9 11
+
+c This graph can be colored with 3 colors
+p edge 12 12
+e 1 4
+e 1 5
+e 2 3
+e 2 5
+e 2 6
+e 2 12
+e 4 5
+e 4 10
+e 5 7
+e 5 8
+e 7 8
+e 8 12
+

@@ -1,0 +1,242 @@
+c This graph can be colored with 3 colors
+p edge 22 20
+e 1 4
+e 1 19
+e 2 5
+e 2 17
+e 3 12
+e 4 16
+e 6 14
+e 6 16
+e 8 16
+e 9 16
+e 10 12
+e 11 17
+e 12 13
+e 12 15
+e 12 17
+e 12 21
+e 13 19
+e 14 20
+e 16 20
+e 18 21
+
+c This graph can be colored with 3 colors
+p edge 22 27
+e 1 12
+e 1 19
+e 2 6
+e 2 19
+e 3 4
+e 3 8
+e 4 5
+e 4 7
+e 5 8
+e 7 12
+e 7 19
+e 8 12
+e 8 16
+e 8 18
+e 8 19
+e 8 21
+e 8 22
+e 9 13
+e 9 15
+e 10 18
+e 11 17
+e 11 18
+e 12 16
+e 16 19
+e 17 22
+e 19 20
+e 21 22
+
+c This graph can be colored with 3 colors
+p edge 22 22
+e 1 4
+e 2 9
+e 2 11
+e 2 19
+e 2 21
+e 4 6
+e 4 15
+e 5 11
+e 5 16
+e 7 19
+e 8 11
+e 8 22
+e 9 11
+e 10 15
+e 11 15
+e 11 20
+e 12 20
+e 13 22
+e 14 15
+e 14 16
+e 14 19
+e 16 19
+
+c This graph can be colored with 3 colors
+p edge 22 22
+e 1 12
+e 1 19
+e 2 21
+e 3 11
+e 3 18
+e 6 7
+e 6 11
+e 6 16
+e 7 8
+e 7 11
+e 7 22
+e 9 20
+e 9 22
+e 10 14
+e 10 22
+e 12 20
+e 14 16
+e 14 17
+e 14 18
+e 15 16
+e 16 17
+e 19 22
+
+c This graph can be colored with 3 colors
+p edge 22 26
+e 1 9
+e 1 10
+e 1 12
+e 1 18
+e 2 7
+e 2 8
+e 2 14
+e 2 15
+e 2 20
+e 3 11
+e 3 15
+e 5 7
+e 5 17
+e 6 8
+e 6 17
+e 7 14
+e 7 17
+e 7 20
+e 8 14
+e 9 10
+e 9 19
+e 14 18
+e 16 21
+e 17 20
+e 17 21
+e 20 21
+
+c This graph can be colored with 3 colors
+p edge 22 22
+e 1 8
+e 1 12
+e 1 22
+e 2 22
+e 3 4
+e 3 9
+e 3 13
+e 3 16
+e 4 15
+e 4 16
+e 6 9
+e 7 16
+e 9 16
+e 10 20
+e 11 13
+e 11 19
+e 11 22
+e 12 22
+e 14 15
+e 15 18
+e 15 22
+e 17 22
+
+c This graph can be colored with 3 colors
+p edge 22 18
+e 1 15
+e 2 6
+e 2 19
+e 3 21
+e 4 13
+e 6 18
+e 8 20
+e 9 10
+e 9 18
+e 9 19
+e 10 13
+e 11 13
+e 12 14
+e 12 17
+e 14 17
+e 15 22
+e 17 22
+e 18 20
+
+c This graph can be colored with 3 colors
+p edge 22 21
+e 1 5
+e 1 11
+e 2 9
+e 2 20
+e 3 7
+e 4 5
+e 4 9
+e 4 14
+e 5 21
+e 6 8
+e 6 13
+e 6 21
+e 6 22
+e 7 10
+e 11 17
+e 11 19
+e 15 17
+e 15 19
+e 15 21
+e 17 20
+e 19 21
+
+c This graph can be colored with 3 colors
+p edge 22 14
+e 1 2
+e 1 8
+e 1 14
+e 2 9
+e 2 13
+e 5 20
+e 5 21
+e 5 22
+e 7 19
+e 11 22
+e 12 15
+e 13 17
+e 18 21
+e 20 22
+
+c This graph can be colored with 3 colors
+p edge 22 20
+e 3 14
+e 3 19
+e 4 14
+e 4 16
+e 4 18
+e 5 18
+e 5 20
+e 5 22
+e 6 8
+e 6 14
+e 6 21
+e 7 10
+e 7 18
+e 8 18
+e 9 11
+e 9 18
+e 10 16
+e 15 19
+e 19 20
+e 20 21
+

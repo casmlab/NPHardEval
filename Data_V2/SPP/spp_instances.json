@@ -1,0 +1,6302 @@
+[
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 3
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 1
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 2
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 4
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 6
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 8
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 7
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 8
+      }
+    ],
+    "complexity_level": 5
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 9
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 9
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 8
+      },
+      {
+        "from": 2,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 8
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 9
+      },
+      {
+        "from": 2,
+        "to": 6,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 2
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 6,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 9
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 8
+      }
+    ],
+    "complexity_level": 6
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 6,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 10
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 10
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 4,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 4
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 4
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 9
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 7,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 4,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 10
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 9
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 7,
+        "weight": 5
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 10
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 10
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "weight": 5
+      },
+      {
+        "from": 7,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 1
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 9
+      },
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 9
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 4,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 5
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "edges": [
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 10
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 9
+      }
+    ],
+    "complexity_level": 7
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 2
+      },
+      {
+        "from": 8,
+        "to": 7,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 7,
+        "to": 6,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 11
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 11
+      },
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 1
+      },
+      {
+        "from": 4,
+        "to": 7,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 11
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 11
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 11
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 9
+      },
+      {
+        "from": 4,
+        "to": 7,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 9
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 7,
+        "weight": 4
+      },
+      {
+        "from": 7,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 7,
+        "to": 5,
+        "weight": 10
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 7,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 7,
+        "to": 6,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 8,
+        "weight": 2
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 10
+      },
+      {
+        "from": 8,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 9
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 10
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 10
+      },
+      {
+        "from": 4,
+        "to": 8,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 7
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 11
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 11
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 2
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 10
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 9
+      },
+      {
+        "from": 7,
+        "to": 8,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 10
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 3,
+        "to": 7,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 8,
+        "to": 1,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 11
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 11
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 9
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 8,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 7,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 10
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 4
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 8,
+        "weight": 1
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 4,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 11
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 8
+      }
+    ],
+    "complexity_level": 8
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 6
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 2,
+        "to": 7,
+        "weight": 12
+      },
+      {
+        "from": 4,
+        "to": 7,
+        "weight": 11
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 8,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 7,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 5
+      },
+      {
+        "from": 8,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 3
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 9,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 7,
+        "to": 9,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 2,
+        "to": 9,
+        "weight": 11
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 2,
+        "to": 8,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 9
+      },
+      {
+        "from": 4,
+        "to": 9,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 7,
+        "to": 8,
+        "weight": 11
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 9,
+        "to": 5,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 8,
+        "to": 9,
+        "weight": 10
+      },
+      {
+        "from": 9,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 11
+      },
+      {
+        "from": 4,
+        "to": 8,
+        "weight": 6
+      },
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 8,
+        "to": 0,
+        "weight": 10
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 8,
+        "to": 6,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 9
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 10
+      },
+      {
+        "from": 9,
+        "to": 8,
+        "weight": 11
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 11
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 12
+      },
+      {
+        "from": 2,
+        "to": 7,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 7,
+        "to": 5,
+        "weight": 12
+      },
+      {
+        "from": 2,
+        "to": 8,
+        "weight": 9
+      },
+      {
+        "from": 8,
+        "to": 1,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 7,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 12
+      },
+      {
+        "from": 9,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 10
+      },
+      {
+        "from": 9,
+        "to": 6,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 11
+      },
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 10
+      },
+      {
+        "from": 2,
+        "to": 7,
+        "weight": 8
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 2,
+        "to": 6,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 12
+      },
+      {
+        "from": 7,
+        "to": 6,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "weight": 2
+      },
+      {
+        "from": 3,
+        "to": 8,
+        "weight": 1
+      },
+      {
+        "from": 9,
+        "to": 6,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 7
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 8,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 4,
+        "to": 9,
+        "weight": 4
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 9,
+        "weight": 6
+      },
+      {
+        "from": 4,
+        "to": 8,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 12
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "weight": 12
+      },
+      {
+        "from": 9,
+        "to": 4,
+        "weight": 11
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 12
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 8,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 11
+      },
+      {
+        "from": 2,
+        "to": 7,
+        "weight": 12
+      },
+      {
+        "from": 2,
+        "to": 9,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "edges": [
+      {
+        "from": 8,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 8,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 8,
+        "weight": 4
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 12
+      },
+      {
+        "from": 6,
+        "to": 9,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 8,
+        "to": 7,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 9,
+        "weight": 12
+      }
+    ],
+    "complexity_level": 9
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 10,
+        "to": 4,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 9
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 12
+      },
+      {
+        "from": 3,
+        "to": 9,
+        "weight": 1
+      },
+      {
+        "from": 9,
+        "to": 8,
+        "weight": 5
+      },
+      {
+        "from": 7,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 9,
+        "weight": 8
+      },
+      {
+        "from": 10,
+        "to": 8,
+        "weight": 9
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 3
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 9
+      },
+      {
+        "from": 1,
+        "to": 8,
+        "weight": 7
+      },
+      {
+        "from": 6,
+        "to": 9,
+        "weight": 7
+      },
+      {
+        "from": 10,
+        "to": 6,
+        "weight": 11
+      },
+      {
+        "from": 2,
+        "to": 10,
+        "weight": 1
+      },
+      {
+        "from": 8,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 9,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 10,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 9,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 8,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 10,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 10,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 10,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 10,
+        "weight": 13
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 10
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 2,
+        "to": 7,
+        "weight": 7
+      },
+      {
+        "from": 8,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 10,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 9
+      },
+      {
+        "from": 9,
+        "to": 2,
+        "weight": 8
+      },
+      {
+        "from": 10,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 8,
+        "to": 10,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 13
+      },
+      {
+        "from": 0,
+        "to": 9,
+        "weight": 5
+      },
+      {
+        "from": 9,
+        "to": 6,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 8,
+        "weight": 7
+      },
+      {
+        "from": 4,
+        "to": 8,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 12
+      },
+      {
+        "from": 10,
+        "to": 3,
+        "weight": 11
+      },
+      {
+        "from": 1,
+        "to": 8,
+        "weight": 2
+      },
+      {
+        "from": 9,
+        "to": 5,
+        "weight": 11
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 9,
+        "to": 2,
+        "weight": 13
+      },
+      {
+        "from": 4,
+        "to": 9,
+        "weight": 10
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 7,
+        "to": 10,
+        "weight": 4
+      },
+      {
+        "from": 9,
+        "to": 6,
+        "weight": 11
+      },
+      {
+        "from": 2,
+        "to": 8,
+        "weight": 4
+      },
+      {
+        "from": 7,
+        "to": 8,
+        "weight": 3
+      },
+      {
+        "from": 10,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 9,
+        "weight": 3
+      },
+      {
+        "from": 10,
+        "to": 0,
+        "weight": 11
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 9,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 13
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 12
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 9,
+        "weight": 12
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 9
+      },
+      {
+        "from": 2,
+        "to": 10,
+        "weight": 12
+      },
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 11
+      },
+      {
+        "from": 5,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 10,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 11
+      },
+      {
+        "from": 3,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 12
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "weight": 9
+      },
+      {
+        "from": 9,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 8,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 9,
+        "weight": 10
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 12
+      },
+      {
+        "from": 1,
+        "to": 10,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 8,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 9,
+        "weight": 8
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 10
+      },
+      {
+        "from": 2,
+        "to": 6,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 4,
+        "weight": 11
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 12
+      },
+      {
+        "from": 10,
+        "to": 1,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 10,
+        "weight": 10
+      },
+      {
+        "from": 4,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 10,
+        "to": 9,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 1
+      },
+      {
+        "from": 4,
+        "to": 3,
+        "weight": 10
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 13
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 4
+      },
+      {
+        "from": 0,
+        "to": 7,
+        "weight": 4
+      },
+      {
+        "from": 3,
+        "to": 9,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 10,
+        "weight": 9
+      },
+      {
+        "from": 2,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 4
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 10
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 9,
+        "weight": 13
+      },
+      {
+        "from": 8,
+        "to": 2,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 10
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 11
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 11
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 1
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 14
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 13
+      },
+      {
+        "from": 8,
+        "to": 7,
+        "weight": 9
+      },
+      {
+        "from": 7,
+        "to": 1,
+        "weight": 13
+      },
+      {
+        "from": 9,
+        "to": 0,
+        "weight": 13
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 7
+      },
+      {
+        "from": 2,
+        "to": 4,
+        "weight": 7
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 10
+      },
+      {
+        "from": 11,
+        "to": 9,
+        "weight": 13
+      },
+      {
+        "from": 11,
+        "to": 1,
+        "weight": 1
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 8,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 0,
+        "to": 8,
+        "weight": 2
+      },
+      {
+        "from": 11,
+        "to": 7,
+        "weight": 10
+      },
+      {
+        "from": 8,
+        "to": 9,
+        "weight": 1
+      },
+      {
+        "from": 8,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 10
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 14
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 11,
+        "weight": 5
+      },
+      {
+        "from": 11,
+        "to": 6,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 6
+      },
+      {
+        "from": 5,
+        "to": 10,
+        "weight": 3
+      },
+      {
+        "from": 0,
+        "to": 7,
+        "weight": 2
+      },
+      {
+        "from": 1,
+        "to": 0,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 14
+      },
+      {
+        "from": 11,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 6,
+        "weight": 13
+      },
+      {
+        "from": 7,
+        "to": 10,
+        "weight": 2
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 11
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 6
+      },
+      {
+        "from": 4,
+        "to": 0,
+        "weight": 8
+      },
+      {
+        "from": 11,
+        "to": 6,
+        "weight": 14
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 9
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 5,
+        "to": 9,
+        "weight": 2
+      },
+      {
+        "from": 7,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 8,
+        "to": 2,
+        "weight": 14
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 14
+      },
+      {
+        "from": 7,
+        "to": 11,
+        "weight": 11
+      },
+      {
+        "from": 3,
+        "to": 9,
+        "weight": 10
+      },
+      {
+        "from": 4,
+        "to": 8,
+        "weight": 14
+      },
+      {
+        "from": 1,
+        "to": 9,
+        "weight": 7
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "weight": 11
+      },
+      {
+        "from": 1,
+        "to": 8,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 10
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 11,
+        "weight": 13
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 10,
+        "weight": 3
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 12
+      },
+      {
+        "from": 7,
+        "to": 6,
+        "weight": 4
+      },
+      {
+        "from": 9,
+        "to": 0,
+        "weight": 6
+      },
+      {
+        "from": 8,
+        "to": 6,
+        "weight": 1
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 9,
+        "weight": 11
+      },
+      {
+        "from": 11,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 9,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 9,
+        "weight": 2
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 8
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 4,
+        "to": 3,
+        "weight": 10
+      },
+      {
+        "from": 10,
+        "to": 9,
+        "weight": 9
+      },
+      {
+        "from": 2,
+        "to": 10,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 12
+      },
+      {
+        "from": 10,
+        "to": 8,
+        "weight": 11
+      },
+      {
+        "from": 10,
+        "to": 6,
+        "weight": 12
+      },
+      {
+        "from": 9,
+        "to": 8,
+        "weight": 6
+      },
+      {
+        "from": 7,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 1
+      },
+      {
+        "from": 10,
+        "to": 0,
+        "weight": 7
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 14
+      },
+      {
+        "from": 9,
+        "to": 5,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 10,
+        "weight": 5
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 14
+      },
+      {
+        "from": 1,
+        "to": 11,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 4,
+        "weight": 1
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 10,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 7,
+        "weight": 10
+      },
+      {
+        "from": 3,
+        "to": 7,
+        "weight": 12
+      },
+      {
+        "from": 0,
+        "to": 1,
+        "weight": 9
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 5,
+        "to": 6,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 0,
+        "weight": 5
+      },
+      {
+        "from": 2,
+        "to": 9,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 13
+      },
+      {
+        "from": 8,
+        "to": 11,
+        "weight": 13
+      },
+      {
+        "from": 1,
+        "to": 11,
+        "weight": 11
+      },
+      {
+        "from": 4,
+        "to": 11,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "weight": 14
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 10,
+        "to": 6,
+        "weight": 2
+      },
+      {
+        "from": 11,
+        "to": 3,
+        "weight": 13
+      },
+      {
+        "from": 2,
+        "to": 8,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 11,
+        "weight": 10
+      },
+      {
+        "from": 0,
+        "to": 10,
+        "weight": 11
+      },
+      {
+        "from": 11,
+        "to": 0,
+        "weight": 13
+      },
+      {
+        "from": 9,
+        "to": 5,
+        "weight": 3
+      },
+      {
+        "from": 7,
+        "to": 9,
+        "weight": 7
+      },
+      {
+        "from": 7,
+        "to": 11,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 11
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 9
+      },
+      {
+        "from": 5,
+        "to": 11,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 6,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 12
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 10,
+        "weight": 4
+      },
+      {
+        "from": 2,
+        "to": 0,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 11,
+        "to": 8,
+        "weight": 14
+      },
+      {
+        "from": 8,
+        "to": 7,
+        "weight": 2
+      },
+      {
+        "from": 9,
+        "to": 1,
+        "weight": 3
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "weight": 10
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 2
+      },
+      {
+        "from": 9,
+        "to": 6,
+        "weight": 4
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 10
+      },
+      {
+        "from": 3,
+        "to": 8,
+        "weight": 9
+      }
+    ],
+    "complexity_level": 11
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 0,
+        "to": 9,
+        "weight": 12
+      },
+      {
+        "from": 1,
+        "to": 10,
+        "weight": 11
+      },
+      {
+        "from": 2,
+        "to": 11,
+        "weight": 1
+      },
+      {
+        "from": 9,
+        "to": 8,
+        "weight": 14
+      },
+      {
+        "from": 6,
+        "to": 11,
+        "weight": 14
+      },
+      {
+        "from": 7,
+        "to": 10,
+        "weight": 12
+      },
+      {
+        "from": 8,
+        "to": 0,
+        "weight": 11
+      },
+      {
+        "from": 7,
+        "to": 12,
+        "weight": 12
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 15
+      },
+      {
+        "from": 7,
+        "to": 5,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 9,
+        "to": 2,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 9,
+        "weight": 2
+      },
+      {
+        "from": 10,
+        "to": 8,
+        "weight": 8
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 12,
+        "weight": 13
+      },
+      {
+        "from": 10,
+        "to": 3,
+        "weight": 15
+      },
+      {
+        "from": 3,
+        "to": 8,
+        "weight": 11
+      },
+      {
+        "from": 11,
+        "to": 8,
+        "weight": 7
+      },
+      {
+        "from": 10,
+        "to": 12,
+        "weight": 10
+      },
+      {
+        "from": 9,
+        "to": 4,
+        "weight": 8
+      },
+      {
+        "from": 7,
+        "to": 6,
+        "weight": 3
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 12
+      },
+      {
+        "from": 8,
+        "to": 10,
+        "weight": 1
+      },
+      {
+        "from": 2,
+        "to": 11,
+        "weight": 10
+      },
+      {
+        "from": 4,
+        "to": 11,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 11,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 2,
+        "weight": 4
+      },
+      {
+        "from": 10,
+        "to": 2,
+        "weight": 3
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 10,
+        "weight": 12
+      },
+      {
+        "from": 9,
+        "to": 10,
+        "weight": 5
+      },
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 12
+      },
+      {
+        "from": 4,
+        "to": 7,
+        "weight": 11
+      },
+      {
+        "from": 1,
+        "to": 5,
+        "weight": 4
+      },
+      {
+        "from": 1,
+        "to": 8,
+        "weight": 14
+      },
+      {
+        "from": 9,
+        "to": 7,
+        "weight": 14
+      },
+      {
+        "from": 4,
+        "to": 11,
+        "weight": 8
+      },
+      {
+        "from": 8,
+        "to": 9,
+        "weight": 3
+      },
+      {
+        "from": 11,
+        "to": 12,
+        "weight": 8
+      },
+      {
+        "from": 0,
+        "to": 11,
+        "weight": 1
+      },
+      {
+        "from": 6,
+        "to": 12,
+        "weight": 3
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 12,
+        "to": 2,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 10,
+        "to": 11,
+        "weight": 7
+      },
+      {
+        "from": 9,
+        "to": 10,
+        "weight": 14
+      },
+      {
+        "from": 12,
+        "to": 7,
+        "weight": 8
+      },
+      {
+        "from": 9,
+        "to": 0,
+        "weight": 2
+      },
+      {
+        "from": 8,
+        "to": 12,
+        "weight": 2
+      },
+      {
+        "from": 6,
+        "to": 3,
+        "weight": 12
+      },
+      {
+        "from": 3,
+        "to": 10,
+        "weight": 13
+      },
+      {
+        "from": 3,
+        "to": 9,
+        "weight": 4
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 8,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 12,
+        "to": 4,
+        "weight": 10
+      },
+      {
+        "from": 7,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 1,
+        "to": 12,
+        "weight": 8
+      },
+      {
+        "from": 2,
+        "to": 9,
+        "weight": 12
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 12,
+        "to": 11,
+        "weight": 12
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "weight": 6
+      },
+      {
+        "from": 10,
+        "to": 12,
+        "weight": 10
+      },
+      {
+        "from": 8,
+        "to": 10,
+        "weight": 15
+      },
+      {
+        "from": 8,
+        "to": 0,
+        "weight": 15
+      },
+      {
+        "from": 9,
+        "to": 1,
+        "weight": 9
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 8
+      },
+      {
+        "from": 3,
+        "to": 12,
+        "weight": 2
+      },
+      {
+        "from": 0,
+        "to": 4,
+        "weight": 3
+      },
+      {
+        "from": 9,
+        "to": 4,
+        "weight": 5
+      },
+      {
+        "from": 6,
+        "to": 5,
+        "weight": 3
+      },
+      {
+        "from": 9,
+        "to": 8,
+        "weight": 6
+      },
+      {
+        "from": 0,
+        "to": 10,
+        "weight": 7
+      },
+      {
+        "from": 1,
+        "to": 10,
+        "weight": 6
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 12,
+        "weight": 4
+      },
+      {
+        "from": 7,
+        "to": 12,
+        "weight": 8
+      },
+      {
+        "from": 9,
+        "to": 11,
+        "weight": 15
+      },
+      {
+        "from": 2,
+        "to": 8,
+        "weight": 2
+      },
+      {
+        "from": 5,
+        "to": 7,
+        "weight": 14
+      },
+      {
+        "from": 2,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 7
+      },
+      {
+        "from": 9,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 10,
+        "to": 12,
+        "weight": 15
+      },
+      {
+        "from": 9,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 12,
+        "to": 5,
+        "weight": 5
+      },
+      {
+        "from": 4,
+        "to": 12,
+        "weight": 12
+      },
+      {
+        "from": 0,
+        "to": 2,
+        "weight": 14
+      },
+      {
+        "from": 5,
+        "to": 11,
+        "weight": 12
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 11,
+        "to": 0,
+        "weight": 8
+      },
+      {
+        "from": 5,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 10,
+        "to": 3,
+        "weight": 15
+      },
+      {
+        "from": 8,
+        "to": 3,
+        "weight": 5
+      },
+      {
+        "from": 9,
+        "to": 10,
+        "weight": 10
+      },
+      {
+        "from": 11,
+        "to": 12,
+        "weight": 2
+      },
+      {
+        "from": 9,
+        "to": 4,
+        "weight": 2
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 9
+      },
+      {
+        "from": 4,
+        "to": 2,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "weight": 15
+      },
+      {
+        "from": 0,
+        "to": 5,
+        "weight": 14
+      },
+      {
+        "from": 12,
+        "to": 10,
+        "weight": 6
+      },
+      {
+        "from": 12,
+        "to": 7,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 1,
+        "weight": 5
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 5,
+        "to": 11,
+        "weight": 12
+      },
+      {
+        "from": 3,
+        "to": 10,
+        "weight": 11
+      },
+      {
+        "from": 6,
+        "to": 10,
+        "weight": 5
+      },
+      {
+        "from": 0,
+        "to": 3,
+        "weight": 6
+      },
+      {
+        "from": 8,
+        "to": 3,
+        "weight": 8
+      },
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 12
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 4
+      },
+      {
+        "from": 12,
+        "to": 7,
+        "weight": 9
+      },
+      {
+        "from": 2,
+        "to": 8,
+        "weight": 10
+      },
+      {
+        "from": 5,
+        "to": 10,
+        "weight": 6
+      },
+      {
+        "from": 1,
+        "to": 4,
+        "weight": 12
+      },
+      {
+        "from": 1,
+        "to": 2,
+        "weight": 3
+      },
+      {
+        "from": 12,
+        "to": 8,
+        "weight": 4
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 4
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 7,
+        "weight": 4
+      },
+      {
+        "from": 5,
+        "to": 12,
+        "weight": 4
+      },
+      {
+        "from": 12,
+        "to": 7,
+        "weight": 7
+      },
+      {
+        "from": 0,
+        "to": 7,
+        "weight": 10
+      },
+      {
+        "from": 6,
+        "to": 0,
+        "weight": 10
+      },
+      {
+        "from": 8,
+        "to": 12,
+        "weight": 2
+      },
+      {
+        "from": 7,
+        "to": 3,
+        "weight": 14
+      },
+      {
+        "from": 4,
+        "to": 7,
+        "weight": 5
+      },
+      {
+        "from": 5,
+        "to": 4,
+        "weight": 7
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 4,
+        "to": 8,
+        "weight": 3
+      },
+      {
+        "from": 5,
+        "to": 9,
+        "weight": 8
+      },
+      {
+        "from": 6,
+        "to": 1,
+        "weight": 9
+      },
+      {
+        "from": 10,
+        "to": 6,
+        "weight": 11
+      }
+    ],
+    "complexity_level": 12
+  },
+  {
+    "nodes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "edges": [
+      {
+        "from": 3,
+        "to": 6,
+        "weight": 15
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "weight": 14
+      },
+      {
+        "from": 1,
+        "to": 6,
+        "weight": 12
+      },
+      {
+        "from": 9,
+        "to": 1,
+        "weight": 9
+      },
+      {
+        "from": 8,
+        "to": 5,
+        "weight": 14
+      },
+      {
+        "from": 9,
+        "to": 8,
+        "weight": 11
+      },
+      {
+        "from": 6,
+        "to": 8,
+        "weight": 13
+      },
+      {
+        "from": 8,
+        "to": 2,
+        "weight": 7
+      },
+      {
+        "from": 10,
+        "to": 1,
+        "weight": 2
+      },
+      {
+        "from": 2,
+        "to": 12,
+        "weight": 12
+      },
+      {
+        "from": 6,
+        "to": 7,
+        "weight": 6
+      },
+      {
+        "from": 11,
+        "to": 10,
+        "weight": 6
+      },
+      {
+        "from": 3,
+        "to": 2,
+        "weight": 1
+      },
+      {
+        "from": 9,
+        "to": 3,
+        "weight": 15
+      }
+    ],
+    "complexity_level": 12
+  }
+]

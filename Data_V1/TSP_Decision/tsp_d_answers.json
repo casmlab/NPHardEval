@@ -1,0 +1,1803 @@
+[
+  {
+    "Feasible": 1,
+    "TotalDistance": 414.0,
+    "Path": [
+      0,
+      1,
+      4,
+      3,
+      2,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 450.0,
+    "Path": [
+      0,
+      3,
+      4,
+      2,
+      0,
+      1,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 611.0,
+    "Path": [
+      0,
+      4,
+      3,
+      5,
+      7,
+      1,
+      6,
+      3,
+      2,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 359.0,
+    "Path": [
+      0,
+      3,
+      7,
+      3,
+      1,
+      2,
+      5,
+      4,
+      6,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 406.0,
+    "Path": [
+      0,
+      2,
+      4,
+      3,
+      1,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 389.0,
+    "Path": [
+      0,
+      4,
+      2,
+      3,
+      1,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 381.0,
+    "Path": [
+      0,
+      3,
+      2,
+      4,
+      1,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 476.0,
+    "Path": [
+      0,
+      1,
+      5,
+      4,
+      6,
+      7,
+      2,
+      3,
+      4,
+      5,
+      1,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 520.0,
+    "Path": [
+      0,
+      5,
+      4,
+      6,
+      2,
+      5,
+      7,
+      3,
+      1,
+      5,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 431.0,
+    "Path": [
+      0,
+      1,
+      3,
+      2,
+      4,
+      0
+    ],
+    "level": 1
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 531.0,
+    "Path": [
+      0,
+      7,
+      3,
+      6,
+      1,
+      2,
+      4,
+      5,
+      4,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 574.0,
+    "Path": [
+      0,
+      6,
+      4,
+      1,
+      5,
+      3,
+      2,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 572.0,
+    "Path": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      2,
+      6,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 454.0,
+    "Path": [
+      0,
+      7,
+      1,
+      3,
+      4,
+      2,
+      6,
+      5,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 619.0,
+    "Path": [
+      0,
+      1,
+      6,
+      3,
+      6,
+      4,
+      7,
+      5,
+      2,
+      5,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 458.0,
+    "Path": [
+      0,
+      2,
+      3,
+      1,
+      4,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 370.0,
+    "Path": [
+      0,
+      2,
+      3,
+      1,
+      4,
+      5,
+      4,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 402.0,
+    "Path": [
+      0,
+      3,
+      2,
+      4,
+      2,
+      3,
+      5,
+      1,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 282.0,
+    "Path": [
+      0,
+      2,
+      4,
+      3,
+      1,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 517.0,
+    "Path": [
+      0,
+      6,
+      7,
+      3,
+      4,
+      5,
+      2,
+      5,
+      1,
+      0
+    ],
+    "level": 2
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 710.0,
+    "Path": [
+      0,
+      4,
+      7,
+      12,
+      5,
+      1,
+      5,
+      3,
+      5,
+      7,
+      8,
+      2,
+      6,
+      10,
+      11,
+      9,
+      11,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 399.0,
+    "Path": [
+      0,
+      1,
+      2,
+      3,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 733.0,
+    "Path": [
+      0,
+      10,
+      1,
+      11,
+      5,
+      7,
+      2,
+      8,
+      2,
+      9,
+      3,
+      6,
+      4,
+      5,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 572.0,
+    "Path": [
+      0,
+      4,
+      3,
+      5,
+      2,
+      5,
+      6,
+      1,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 351.0,
+    "Path": [
+      0,
+      2,
+      5,
+      3,
+      6,
+      1,
+      4,
+      1,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 740.0,
+    "Path": [
+      0,
+      6,
+      8,
+      4,
+      5,
+      10,
+      5,
+      4,
+      1,
+      7,
+      2,
+      7,
+      11,
+      9,
+      3,
+      5,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 312.0,
+    "Path": [
+      0,
+      2,
+      1,
+      3,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 748.0,
+    "Path": [
+      0,
+      1,
+      9,
+      8,
+      11,
+      10,
+      2,
+      6,
+      3,
+      12,
+      5,
+      4,
+      3,
+      7,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 378.0,
+    "Path": [
+      0,
+      7,
+      4,
+      8,
+      6,
+      1,
+      2,
+      5,
+      3,
+      5,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 596.0,
+    "Path": [
+      0,
+      2,
+      8,
+      3,
+      8,
+      4,
+      10,
+      4,
+      7,
+      1,
+      5,
+      9,
+      6,
+      12,
+      11,
+      0
+    ],
+    "level": 3
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 566.0,
+    "Path": [
+      0,
+      3,
+      4,
+      1,
+      5,
+      2,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 648.0,
+    "Path": [
+      0,
+      1,
+      6,
+      3,
+      4,
+      2,
+      5,
+      2,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 455.0,
+    "Path": [
+      0,
+      5,
+      2,
+      4,
+      3,
+      6,
+      1,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 370.0,
+    "Path": [
+      0,
+      3,
+      1,
+      4,
+      5,
+      1,
+      2,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 908.0,
+    "Path": [
+      0,
+      5,
+      7,
+      9,
+      8,
+      11,
+      12,
+      3,
+      10,
+      8,
+      6,
+      4,
+      2,
+      1,
+      7,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 651.0,
+    "Path": [
+      0,
+      2,
+      7,
+      4,
+      6,
+      4,
+      3,
+      8,
+      5,
+      1,
+      8,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 488.0,
+    "Path": [
+      0,
+      4,
+      2,
+      6,
+      2,
+      9,
+      2,
+      4,
+      5,
+      8,
+      1,
+      7,
+      3,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 522.0,
+    "Path": [
+      0,
+      6,
+      5,
+      2,
+      4,
+      3,
+      1,
+      6,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 396.0,
+    "Path": [
+      0,
+      4,
+      1,
+      5,
+      2,
+      3,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 639.0,
+    "Path": [
+      0,
+      5,
+      1,
+      2,
+      4,
+      3,
+      0
+    ],
+    "level": 4
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 339.0,
+    "Path": [
+      0,
+      1,
+      4,
+      2,
+      3,
+      6,
+      5,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 730.0,
+    "Path": [
+      0,
+      5,
+      6,
+      4,
+      6,
+      3,
+      2,
+      3,
+      9,
+      8,
+      1,
+      7,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 603.0,
+    "Path": [
+      0,
+      2,
+      3,
+      2,
+      12,
+      7,
+      10,
+      8,
+      6,
+      11,
+      1,
+      11,
+      4,
+      9,
+      5,
+      2,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 651.0,
+    "Path": [
+      0,
+      7,
+      6,
+      10,
+      4,
+      5,
+      1,
+      9,
+      12,
+      9,
+      2,
+      9,
+      3,
+      11,
+      0,
+      8,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 565.0,
+    "Path": [
+      0,
+      4,
+      2,
+      5,
+      3,
+      1,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 757.0,
+    "Path": [
+      0,
+      6,
+      4,
+      7,
+      3,
+      8,
+      2,
+      10,
+      5,
+      9,
+      1,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 600.0,
+    "Path": [
+      0,
+      4,
+      10,
+      7,
+      6,
+      5,
+      8,
+      1,
+      2,
+      3,
+      9,
+      4,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 480.0,
+    "Path": [
+      0,
+      5,
+      4,
+      2,
+      3,
+      1,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 690.0,
+    "Path": [
+      0,
+      9,
+      7,
+      9,
+      2,
+      4,
+      8,
+      1,
+      6,
+      11,
+      10,
+      12,
+      3,
+      5,
+      2,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 513.0,
+    "Path": [
+      0,
+      7,
+      5,
+      4,
+      1,
+      4,
+      6,
+      8,
+      3,
+      2,
+      0
+    ],
+    "level": 5
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 785.0,
+    "Path": [
+      0,
+      7,
+      11,
+      7,
+      0,
+      1,
+      2,
+      12,
+      6,
+      10,
+      9,
+      8,
+      3,
+      5,
+      4,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 609.0,
+    "Path": [
+      0,
+      1,
+      5,
+      4,
+      6,
+      7,
+      2,
+      3,
+      8,
+      3,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 831.0,
+    "Path": [
+      0,
+      4,
+      9,
+      3,
+      8,
+      6,
+      11,
+      7,
+      10,
+      3,
+      5,
+      1,
+      2,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 680.0,
+    "Path": [
+      0,
+      3,
+      1,
+      4,
+      5,
+      6,
+      9,
+      8,
+      7,
+      2,
+      7,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 534.0,
+    "Path": [
+      0,
+      1,
+      9,
+      6,
+      8,
+      2,
+      5,
+      3,
+      11,
+      3,
+      10,
+      7,
+      4,
+      7,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 464.0,
+    "Path": [
+      0,
+      3,
+      8,
+      7,
+      6,
+      5,
+      6,
+      10,
+      4,
+      2,
+      9,
+      1,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 647.0,
+    "Path": [
+      0,
+      3,
+      5,
+      2,
+      9,
+      2,
+      8,
+      6,
+      4,
+      10,
+      1,
+      7,
+      2,
+      5,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 750.0,
+    "Path": [
+      0,
+      4,
+      0,
+      11,
+      8,
+      10,
+      5,
+      2,
+      5,
+      7,
+      3,
+      1,
+      6,
+      9,
+      6,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 593.0,
+    "Path": [
+      0,
+      4,
+      1,
+      5,
+      9,
+      2,
+      8,
+      7,
+      2,
+      9,
+      5,
+      6,
+      3,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 244.0,
+    "Path": [
+      0,
+      3,
+      0,
+      2,
+      1,
+      2,
+      0
+    ],
+    "level": 6
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 582.0,
+    "Path": [
+      0,
+      8,
+      5,
+      2,
+      1,
+      3,
+      4,
+      6,
+      1,
+      7,
+      1,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 591.0,
+    "Path": [
+      0,
+      5,
+      9,
+      1,
+      8,
+      12,
+      10,
+      7,
+      4,
+      11,
+      3,
+      6,
+      2,
+      4,
+      11,
+      8,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 659.0,
+    "Path": [
+      0,
+      6,
+      3,
+      8,
+      2,
+      1,
+      4,
+      7,
+      5,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 625.0,
+    "Path": [
+      0,
+      3,
+      6,
+      2,
+      5,
+      8,
+      1,
+      4,
+      1,
+      7,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 322.0,
+    "Path": [
+      0,
+      1,
+      3,
+      2,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 760.0,
+    "Path": [
+      0,
+      5,
+      4,
+      9,
+      6,
+      2,
+      11,
+      8,
+      7,
+      10,
+      3,
+      12,
+      1,
+      12,
+      3,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 289.0,
+    "Path": [
+      0,
+      3,
+      1,
+      2,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 738.0,
+    "Path": [
+      0,
+      3,
+      7,
+      9,
+      6,
+      11,
+      6,
+      5,
+      1,
+      10,
+      4,
+      2,
+      8,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 541.0,
+    "Path": [
+      0,
+      8,
+      9,
+      6,
+      9,
+      1,
+      9,
+      4,
+      2,
+      3,
+      7,
+      5,
+      4,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 738.0,
+    "Path": [
+      0,
+      10,
+      5,
+      3,
+      4,
+      2,
+      11,
+      9,
+      8,
+      3,
+      1,
+      2,
+      7,
+      6,
+      1,
+      0
+    ],
+    "level": 7
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 493.0,
+    "Path": [
+      0,
+      3,
+      1,
+      8,
+      1,
+      9,
+      4,
+      10,
+      2,
+      7,
+      5,
+      6,
+      1,
+      3,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 594.0,
+    "Path": [
+      0,
+      1,
+      10,
+      2,
+      6,
+      7,
+      9,
+      5,
+      6,
+      8,
+      3,
+      4,
+      8,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 743.0,
+    "Path": [
+      0,
+      5,
+      6,
+      10,
+      6,
+      2,
+      9,
+      1,
+      9,
+      7,
+      11,
+      3,
+      4,
+      3,
+      8,
+      3,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 728.0,
+    "Path": [
+      0,
+      6,
+      1,
+      2,
+      3,
+      9,
+      8,
+      7,
+      5,
+      4,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 574.0,
+    "Path": [
+      0,
+      6,
+      0,
+      4,
+      7,
+      1,
+      5,
+      1,
+      11,
+      1,
+      2,
+      9,
+      3,
+      8,
+      10,
+      8,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 285.0,
+    "Path": [
+      0,
+      2,
+      1,
+      3,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 630.0,
+    "Path": [
+      0,
+      9,
+      12,
+      6,
+      7,
+      3,
+      8,
+      5,
+      12,
+      1,
+      4,
+      11,
+      3,
+      10,
+      2,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 306.0,
+    "Path": [
+      0,
+      1,
+      2,
+      3,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 505.0,
+    "Path": [
+      0,
+      2,
+      7,
+      4,
+      6,
+      1,
+      8,
+      1,
+      5,
+      3,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 534.0,
+    "Path": [
+      0,
+      7,
+      0,
+      4,
+      6,
+      8,
+      5,
+      3,
+      1,
+      4,
+      0,
+      2,
+      0
+    ],
+    "level": 8
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 597.0,
+    "Path": [
+      0,
+      1,
+      8,
+      7,
+      4,
+      6,
+      2,
+      3,
+      5,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 528.0,
+    "Path": [
+      0,
+      2,
+      3,
+      1,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 726.0,
+    "Path": [
+      0,
+      3,
+      5,
+      3,
+      8,
+      1,
+      6,
+      2,
+      7,
+      4,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 948.0,
+    "Path": [
+      0,
+      6,
+      4,
+      10,
+      5,
+      8,
+      11,
+      3,
+      11,
+      12,
+      1,
+      9,
+      7,
+      2,
+      6,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 332.0,
+    "Path": [
+      0,
+      3,
+      1,
+      3,
+      2,
+      3,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 742.0,
+    "Path": [
+      0,
+      7,
+      6,
+      8,
+      2,
+      9,
+      10,
+      11,
+      1,
+      4,
+      3,
+      5,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 653.0,
+    "Path": [
+      0,
+      1,
+      3,
+      9,
+      5,
+      7,
+      2,
+      6,
+      8,
+      4,
+      8,
+      1,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 683.0,
+    "Path": [
+      0,
+      7,
+      1,
+      7,
+      9,
+      6,
+      2,
+      10,
+      5,
+      4,
+      3,
+      8,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 783.0,
+    "Path": [
+      0,
+      8,
+      6,
+      10,
+      2,
+      7,
+      5,
+      1,
+      0,
+      4,
+      9,
+      3,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 681.0,
+    "Path": [
+      0,
+      4,
+      5,
+      11,
+      8,
+      1,
+      2,
+      1,
+      9,
+      3,
+      6,
+      5,
+      10,
+      7,
+      0
+    ],
+    "level": 9
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 422.0,
+    "Path": [
+      0,
+      2,
+      1,
+      3,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 630.0,
+    "Path": [
+      0,
+      7,
+      3,
+      4,
+      2,
+      9,
+      2,
+      12,
+      5,
+      10,
+      8,
+      1,
+      6,
+      1,
+      11,
+      3,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 748.0,
+    "Path": [
+      0,
+      6,
+      8,
+      5,
+      7,
+      2,
+      5,
+      4,
+      1,
+      3,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 487.0,
+    "Path": [
+      0,
+      1,
+      3,
+      7,
+      8,
+      5,
+      4,
+      6,
+      2,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 374.0,
+    "Path": [
+      0,
+      3,
+      1,
+      2,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 669.0,
+    "Path": [
+      0,
+      7,
+      10,
+      9,
+      11,
+      6,
+      8,
+      3,
+      2,
+      3,
+      1,
+      4,
+      12,
+      5,
+      4,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 340.0,
+    "Path": [
+      0,
+      3,
+      1,
+      0,
+      2,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 571.0,
+    "Path": [
+      0,
+      7,
+      5,
+      3,
+      5,
+      8,
+      1,
+      6,
+      2,
+      4,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 703.0,
+    "Path": [
+      0,
+      6,
+      4,
+      2,
+      4,
+      10,
+      8,
+      10,
+      5,
+      10,
+      11,
+      3,
+      7,
+      1,
+      9,
+      6,
+      0
+    ],
+    "level": 10
+  },
+  {
+    "Feasible": 1,
+    "TotalDistance": 192.0,
+    "Path": [
+      0,
+      3,
+      2,
+      1,
+      2,
+      3,
+      0
+    ],
+    "level": 10
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 4,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      2,
+      3
+    ],
+    "TotalDistance": 3,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 2,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 5,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 5,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 1,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 4,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 4,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      3
+    ],
+    "TotalDistance": 4,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      1,
+      3
+    ],
+    "TotalDistance": 5,
+    "level": 1
+  },
+  {
+    "Path": [
+      0,
+      4
+    ],
+    "TotalDistance": 3,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      4
+    ],
+    "TotalDistance": 2,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      2,
+      4
+    ],
+    "TotalDistance": 6,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      4
+    ],
+    "TotalDistance": 4,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      4
+    ],
+    "TotalDistance": 4,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      4
+    ],
+    "TotalDistance": 1,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      3,
+      4
+    ],
+    "TotalDistance": 4,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      3,
+      4
+    ],
+    "TotalDistance": 3,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      4
+    ],
+    "TotalDistance": 7,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      2,
+      4
+    ],
+    "TotalDistance": 6,
+    "level": 2
+  },
+  {
+    "Path": [
+      0,
+      5
+    ],
+    "TotalDistance": 7,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      4,
+      5
+    ],
+    "TotalDistance": 8,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      5
+    ],
+    "TotalDistance": 5,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      4,
+      5
+    ],
+    "TotalDistance": 12,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      3,
+      4,
+      5
+    ],
+    "TotalDistance": 11,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      2,
+      5
+    ],
+    "TotalDistance": 15,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      4,
+      5
+    ],
+    "TotalDistance": 6,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      3,
+      5
+    ],
+    "TotalDistance": 3,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      5
+    ],
+    "TotalDistance": 4,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      5
+    ],
+    "TotalDistance": 7,
+    "level": 3
+  },
+  {
+    "Path": [
+      0,
+      3,
+      6
+    ],
+    "TotalDistance": 12,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      1,
+      6
+    ],
+    "TotalDistance": 3,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      6
+    ],
+    "TotalDistance": 9,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      6
+    ],
+    "TotalDistance": 3,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      1,
+      3,
+      4,
+      6
+    ],
+    "TotalDistance": 17,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      6
+    ],
+    "TotalDistance": 7,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      1,
+      6
+    ],
+    "TotalDistance": 8,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      6
+    ],
+    "TotalDistance": 8,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      6
+    ],
+    "TotalDistance": 2,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      6
+    ],
+    "TotalDistance": 6,
+    "level": 4
+  },
+  {
+    "Path": [
+      0,
+      4,
+      7
+    ],
+    "TotalDistance": 8,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      7
+    ],
+    "TotalDistance": 9,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      6,
+      7
+    ],
+    "TotalDistance": 20,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      6,
+      2,
+      7
+    ],
+    "TotalDistance": 18,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      2,
+      7
+    ],
+    "TotalDistance": 12,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      5,
+      1,
+      7
+    ],
+    "TotalDistance": 12,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      7
+    ],
+    "TotalDistance": 2,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      7
+    ],
+    "TotalDistance": 2,
+    "level": 5
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      1,
+      7
+    ],
+    "TotalDistance": 8,
+    "level": 5
+  },
+  {
+    "Path": [
+      0,
+      4,
+      5,
+      8
+    ],
+    "TotalDistance": 9,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      8
+    ],
+    "TotalDistance": 7,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      3,
+      7,
+      1,
+      8
+    ],
+    "TotalDistance": 20,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      8
+    ],
+    "TotalDistance": 11,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      2,
+      8
+    ],
+    "TotalDistance": 5,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      3,
+      6,
+      8
+    ],
+    "TotalDistance": 10,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      8
+    ],
+    "TotalDistance": 1,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      2,
+      4,
+      1,
+      8
+    ],
+    "TotalDistance": 23,
+    "level": 6
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      4,
+      8
+    ],
+    "TotalDistance": 6,
+    "level": 6
+  },
+  {
+    "Path": [
+      0,
+      7,
+      3,
+      9
+    ],
+    "TotalDistance": 15,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      9
+    ],
+    "TotalDistance": 9,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      5,
+      6,
+      9
+    ],
+    "TotalDistance": 14,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      9
+    ],
+    "TotalDistance": 1,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      2,
+      9
+    ],
+    "TotalDistance": 21,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      7,
+      9
+    ],
+    "TotalDistance": 9,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      6,
+      2,
+      9
+    ],
+    "TotalDistance": 17,
+    "level": 7
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      1,
+      9
+    ],
+    "TotalDistance": 13,
+    "level": 7
+  },
+  {
+    "Path": [
+      0,
+      1,
+      7,
+      9
+    ],
+    "TotalDistance": 20,
+    "level": 7
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      10
+    ],
+    "TotalDistance": 5,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      3,
+      2,
+      10
+    ],
+    "TotalDistance": 13,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      8,
+      6,
+      9,
+      2,
+      1,
+      10
+    ],
+    "TotalDistance": 32,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      5,
+      7,
+      10
+    ],
+    "TotalDistance": 23,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      3,
+      10
+    ],
+    "TotalDistance": 6,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      1,
+      7,
+      2,
+      10
+    ],
+    "TotalDistance": 24,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      9,
+      10
+    ],
+    "TotalDistance": 16,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      8,
+      1,
+      10
+    ],
+    "TotalDistance": 13,
+    "level": 8
+  },
+  {
+    "Path": [
+      0,
+      2,
+      10
+    ],
+    "TotalDistance": 9,
+    "level": 8
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      11
+    ],
+    "TotalDistance": 1,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      11
+    ],
+    "TotalDistance": 6,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      1,
+      8,
+      11
+    ],
+    "TotalDistance": 20,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      5,
+      9,
+      7,
+      11
+    ],
+    "TotalDistance": 29,
+    "level": 9
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      8,
+      4,
+      9,
+      11
+    ],
+    "TotalDistance": 18,
+    "level": 9
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      6,
+      11
+    ],
+    "TotalDistance": 11,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      11
+    ],
+    "TotalDistance": 4,
+    "level": 9
+  },
+  {
+    "Path": [
+      0,
+      8,
+      12
+    ],
+    "TotalDistance": 9,
+    "level": 10
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 10
+  },
+  {
+    "Path": [
+      0,
+      1,
+      4,
+      6,
+      12
+    ],
+    "TotalDistance": 21,
+    "level": 10
+  },
+  {
+    "Path": null,
+    "TotalDistance": null,
+    "level": 10
+  },
+  {
+    "Path": [
+      0,
+      5,
+      1,
+      7,
+      11,
+      3,
+      4,
+      12
+    ],
+    "TotalDistance": 77,
+    "level": 10
+  },
+  {
+    "Path": [
+      0,
+      3,
+      9,
+      5,
+      12
+    ],
+    "TotalDistance": 21,
+    "level": 10
+  },
+  {
+    "Path": [
+      0,
+      10,
+      12
+    ],
+    "TotalDistance": 12,
+    "level": 10
+  },
+  {
+    "Path": [
+      0,
+      5,
+      12
+    ],
+    "TotalDistance": 17,
+    "level": 10
+  },
+  {
+    "Path": [
+      0,
+      10,
+      5,
+      12
+    ],
+    "TotalDistance": 24,
+    "level": 10
+  },
+  {
+    "Path": [
+      0,
+      2,
+      10,
+      6,
+      1,
+      12
+    ],
+    "TotalDistance": 38,
+    "level": 10
+  }
+]

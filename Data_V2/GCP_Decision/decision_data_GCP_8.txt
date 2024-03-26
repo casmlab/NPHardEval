@@ -1,0 +1,220 @@
+c This graph can be colored with 3 colors
+p edge 20 21
+e 1 10
+e 2 17
+e 3 4
+e 3 17
+e 3 20
+e 5 14
+e 5 20
+e 6 7
+e 7 13
+e 8 9
+e 8 15
+e 8 18
+e 8 19
+e 9 11
+e 10 14
+e 12 14
+e 12 15
+e 12 17
+e 12 18
+e 14 15
+e 14 16
+
+c This graph can be colored with 3 colors
+p edge 20 19
+e 1 4
+e 2 8
+e 2 9
+e 2 18
+e 3 4
+e 4 15
+e 4 16
+e 5 19
+e 7 20
+e 8 12
+e 11 14
+e 11 15
+e 11 16
+e 11 18
+e 15 17
+e 16 17
+e 16 19
+e 16 20
+e 19 20
+
+c This graph can be colored with 3 colors
+p edge 20 19
+e 1 12
+e 1 18
+e 2 5
+e 3 16
+e 3 17
+e 4 13
+e 4 20
+e 5 14
+e 5 18
+e 6 7
+e 6 8
+e 6 14
+e 6 15
+e 7 10
+e 7 18
+e 10 12
+e 11 18
+e 13 14
+e 19 20
+
+c This graph can be colored with 3 colors
+p edge 20 21
+e 1 9
+e 1 11
+e 1 13
+e 1 14
+e 2 7
+e 2 10
+e 3 19
+e 4 9
+e 5 14
+e 6 8
+e 9 10
+e 9 12
+e 9 13
+e 10 11
+e 11 14
+e 11 17
+e 11 20
+e 12 15
+e 12 18
+e 15 20
+e 18 20
+
+c This graph can be colored with 3 colors
+p edge 20 19
+e 1 5
+e 1 9
+e 1 11
+e 2 13
+e 2 20
+e 3 13
+e 3 14
+e 4 11
+e 4 17
+e 6 14
+e 6 19
+e 7 20
+e 8 9
+e 8 20
+e 10 13
+e 10 17
+e 12 17
+e 13 18
+e 14 15
+
+c This graph can be colored with 3 colors
+p edge 20 20
+e 1 4
+e 1 7
+e 1 12
+e 1 16
+e 1 20
+e 2 6
+e 3 19
+e 4 17
+e 4 20
+e 5 8
+e 5 12
+e 7 9
+e 7 14
+e 8 13
+e 8 16
+e 9 12
+e 11 15
+e 12 16
+e 14 16
+e 15 16
+
+c This graph can be colored with 3 colors
+p edge 20 19
+e 1 9
+e 1 19
+e 4 5
+e 4 9
+e 4 19
+e 5 11
+e 5 18
+e 6 8
+e 6 16
+e 6 18
+e 6 20
+e 9 14
+e 10 16
+e 11 13
+e 12 18
+e 14 19
+e 15 16
+e 16 17
+e 18 19
+
+c This graph can be colored with 3 colors
+p edge 20 23
+e 1 2
+e 1 6
+e 1 9
+e 1 18
+e 2 5
+e 2 7
+e 3 11
+e 4 18
+e 4 19
+e 4 20
+e 5 12
+e 5 16
+e 5 19
+e 6 16
+e 7 11
+e 7 14
+e 9 16
+e 10 18
+e 12 13
+e 12 14
+e 13 15
+e 17 18
+e 18 19
+
+c This graph can be colored with 3 colors
+p edge 20 15
+e 2 4
+e 2 10
+e 3 6
+e 4 8
+e 5 13
+e 5 15
+e 5 17
+e 6 9
+e 6 10
+e 6 18
+e 8 17
+e 8 19
+e 9 18
+e 10 17
+e 17 18
+
+c This graph can be colored with 3 colors
+p edge 20 14
+e 1 11
+e 3 17
+e 5 6
+e 5 8
+e 5 11
+e 5 15
+e 6 8
+e 6 17
+e 7 10
+e 7 20
+e 8 20
+e 10 19
+e 11 13
+e 15 19
+

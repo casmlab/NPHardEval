@@ -1,0 +1,402 @@
+[
+  {
+    "Operations": 3,
+    "level": 1
+  },
+  {
+    "Operations": 2,
+    "level": 1
+  },
+  {
+    "Operations": 3,
+    "level": 1
+  },
+  {
+    "Operations": 1,
+    "level": 1
+  },
+  {
+    "Operations": 2,
+    "level": 1
+  },
+  {
+    "Operations": 3,
+    "level": 1
+  },
+  {
+    "Operations": 2,
+    "level": 1
+  },
+  {
+    "Operations": 3,
+    "level": 1
+  },
+  {
+    "Operations": 3,
+    "level": 1
+  },
+  {
+    "Operations": 2,
+    "level": 1
+  },
+  {
+    "Operations": 3,
+    "level": 2
+  },
+  {
+    "Operations": 4,
+    "level": 2
+  },
+  {
+    "Operations": 3,
+    "level": 2
+  },
+  {
+    "Operations": 4,
+    "level": 2
+  },
+  {
+    "Operations": 4,
+    "level": 2
+  },
+  {
+    "Operations": 4,
+    "level": 2
+  },
+  {
+    "Operations": 3,
+    "level": 2
+  },
+  {
+    "Operations": 4,
+    "level": 2
+  },
+  {
+    "Operations": 4,
+    "level": 2
+  },
+  {
+    "Operations": 4,
+    "level": 2
+  },
+  {
+    "Operations": 5,
+    "level": 3
+  },
+  {
+    "Operations": 4,
+    "level": 3
+  },
+  {
+    "Operations": 4,
+    "level": 3
+  },
+  {
+    "Operations": 5,
+    "level": 3
+  },
+  {
+    "Operations": 3,
+    "level": 3
+  },
+  {
+    "Operations": 3,
+    "level": 3
+  },
+  {
+    "Operations": 4,
+    "level": 3
+  },
+  {
+    "Operations": 4,
+    "level": 3
+  },
+  {
+    "Operations": 5,
+    "level": 3
+  },
+  {
+    "Operations": 5,
+    "level": 3
+  },
+  {
+    "Operations": 5,
+    "level": 4
+  },
+  {
+    "Operations": 5,
+    "level": 4
+  },
+  {
+    "Operations": 6,
+    "level": 4
+  },
+  {
+    "Operations": 5,
+    "level": 4
+  },
+  {
+    "Operations": 6,
+    "level": 4
+  },
+  {
+    "Operations": 6,
+    "level": 4
+  },
+  {
+    "Operations": 5,
+    "level": 4
+  },
+  {
+    "Operations": 6,
+    "level": 4
+  },
+  {
+    "Operations": 5,
+    "level": 4
+  },
+  {
+    "Operations": 5,
+    "level": 4
+  },
+  {
+    "Operations": 5,
+    "level": 5
+  },
+  {
+    "Operations": 7,
+    "level": 5
+  },
+  {
+    "Operations": 6,
+    "level": 5
+  },
+  {
+    "Operations": 7,
+    "level": 5
+  },
+  {
+    "Operations": 5,
+    "level": 5
+  },
+  {
+    "Operations": 7,
+    "level": 5
+  },
+  {
+    "Operations": 5,
+    "level": 5
+  },
+  {
+    "Operations": 6,
+    "level": 5
+  },
+  {
+    "Operations": 6,
+    "level": 5
+  },
+  {
+    "Operations": 7,
+    "level": 5
+  },
+  {
+    "Operations": 7,
+    "level": 6
+  },
+  {
+    "Operations": 8,
+    "level": 6
+  },
+  {
+    "Operations": 8,
+    "level": 6
+  },
+  {
+    "Operations": 5,
+    "level": 6
+  },
+  {
+    "Operations": 6,
+    "level": 6
+  },
+  {
+    "Operations": 8,
+    "level": 6
+  },
+  {
+    "Operations": 6,
+    "level": 6
+  },
+  {
+    "Operations": 5,
+    "level": 6
+  },
+  {
+    "Operations": 8,
+    "level": 6
+  },
+  {
+    "Operations": 7,
+    "level": 6
+  },
+  {
+    "Operations": 9,
+    "level": 7
+  },
+  {
+    "Operations": 9,
+    "level": 7
+  },
+  {
+    "Operations": 8,
+    "level": 7
+  },
+  {
+    "Operations": 7,
+    "level": 7
+  },
+  {
+    "Operations": 9,
+    "level": 7
+  },
+  {
+    "Operations": 9,
+    "level": 7
+  },
+  {
+    "Operations": 9,
+    "level": 7
+  },
+  {
+    "Operations": 9,
+    "level": 7
+  },
+  {
+    "Operations": 9,
+    "level": 7
+  },
+  {
+    "Operations": 8,
+    "level": 7
+  },
+  {
+    "Operations": 9,
+    "level": 8
+  },
+  {
+    "Operations": 9,
+    "level": 8
+  },
+  {
+    "Operations": 10,
+    "level": 8
+  },
+  {
+    "Operations": 10,
+    "level": 8
+  },
+  {
+    "Operations": 9,
+    "level": 8
+  },
+  {
+    "Operations": 10,
+    "level": 8
+  },
+  {
+    "Operations": 8,
+    "level": 8
+  },
+  {
+    "Operations": 10,
+    "level": 8
+  },
+  {
+    "Operations": 9,
+    "level": 8
+  },
+  {
+    "Operations": 10,
+    "level": 8
+  },
+  {
+    "Operations": 10,
+    "level": 9
+  },
+  {
+    "Operations": 11,
+    "level": 9
+  },
+  {
+    "Operations": 9,
+    "level": 9
+  },
+  {
+    "Operations": 10,
+    "level": 9
+  },
+  {
+    "Operations": 11,
+    "level": 9
+  },
+  {
+    "Operations": 10,
+    "level": 9
+  },
+  {
+    "Operations": 11,
+    "level": 9
+  },
+  {
+    "Operations": 9,
+    "level": 9
+  },
+  {
+    "Operations": 10,
+    "level": 9
+  },
+  {
+    "Operations": 11,
+    "level": 9
+  },
+  {
+    "Operations": 12,
+    "level": 10
+  },
+  {
+    "Operations": 12,
+    "level": 10
+  },
+  {
+    "Operations": 10,
+    "level": 10
+  },
+  {
+    "Operations": 10,
+    "level": 10
+  },
+  {
+    "Operations": 11,
+    "level": 10
+  },
+  {
+    "Operations": 12,
+    "level": 10
+  },
+  {
+    "Operations": 11,
+    "level": 10
+  },
+  {
+    "Operations": 12,
+    "level": 10
+  },
+  {
+    "Operations": 12,
+    "level": 10
+  },
+  {
+    "Operations": 11,
+    "level": 10
+  }
+]

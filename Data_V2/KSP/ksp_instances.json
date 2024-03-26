@@ -1,0 +1,4752 @@
+[
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 20
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 25
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 6
+      },
+      {
+        "id": 1,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 6
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 1,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 6
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 30
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 7,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 6
+      },
+      {
+        "id": 1,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 5,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 6,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 7
+      },
+      {
+        "id": 3,
+        "weight": 7,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 7
+      },
+      {
+        "id": 4,
+        "weight": 7,
+        "value": 7
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 6
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 7
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 7
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 5,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 1,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 35
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 8
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 7
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 7,
+        "weight": 8,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 8
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 8,
+        "value": 8
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 8
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 8
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 8
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 7,
+        "weight": 4,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 8,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 8,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 7,
+        "value": 6
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 8
+      },
+      {
+        "id": 7,
+        "weight": 5,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 6
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 7,
+        "value": 7
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 8,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 7,
+        "weight": 7,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 8,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 7
+      },
+      {
+        "id": 3,
+        "weight": 8,
+        "value": 6
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 7
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 7
+      },
+      {
+        "id": 7,
+        "weight": 6,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 8,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 4
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 7
+      },
+      {
+        "id": 1,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 5,
+        "value": 8
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 7,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 8,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 7,
+        "weight": 4,
+        "value": 8
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 7
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 5,
+        "weight": 7,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 7,
+        "weight": 8,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 40
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 8,
+        "weight": 1,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 9
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 8
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 7,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 8,
+        "weight": 8,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 1,
+        "value": 9
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 8,
+        "weight": 9,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 9,
+        "value": 7
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 9,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 8,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 1,
+        "value": 7
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 7,
+        "weight": 8,
+        "value": 5
+      },
+      {
+        "id": 8,
+        "weight": 4,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 8,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 7,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 7,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 7,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 8,
+        "weight": 2,
+        "value": 9
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 9
+      },
+      {
+        "id": 8,
+        "weight": 9,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 9
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 6
+      },
+      {
+        "id": 2,
+        "weight": 8,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 9
+      },
+      {
+        "id": 4,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 9,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 9,
+        "value": 4
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 7,
+        "value": 8
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 8,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 9,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 9
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 9,
+        "value": 7
+      },
+      {
+        "id": 7,
+        "weight": 8,
+        "value": 3
+      },
+      {
+        "id": 8,
+        "weight": 6,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 7,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 8
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 8
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 8,
+        "weight": 3,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 2,
+        "weight": 9,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 7,
+        "value": 9
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 5,
+        "weight": 9,
+        "value": 5
+      },
+      {
+        "id": 6,
+        "weight": 7,
+        "value": 9
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 8,
+        "weight": 1,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 45
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 8
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 8,
+        "value": 10
+      },
+      {
+        "id": 4,
+        "weight": 10,
+        "value": 6
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 9,
+        "weight": 9,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 8,
+        "value": 9
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 8
+      },
+      {
+        "id": 2,
+        "weight": 9,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 9,
+        "value": 9
+      },
+      {
+        "id": 6,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 8,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 9,
+        "weight": 4,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 9,
+        "value": 7
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 7
+      },
+      {
+        "id": 6,
+        "weight": 9,
+        "value": 10
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 6
+      },
+      {
+        "id": 8,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 9,
+        "weight": 2,
+        "value": 9
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 10,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 10
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 9,
+        "value": 7
+      },
+      {
+        "id": 6,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 7,
+        "weight": 8,
+        "value": 7
+      },
+      {
+        "id": 8,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 9,
+        "weight": 10,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 5,
+        "value": 10
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 6,
+        "weight": 9,
+        "value": 2
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 8,
+        "weight": 7,
+        "value": 9
+      },
+      {
+        "id": 9,
+        "weight": 4,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 9
+      },
+      {
+        "id": 3,
+        "weight": 10,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 10,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 3
+      },
+      {
+        "id": 7,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 8,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 9,
+        "weight": 1,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 8,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 10,
+        "value": 10
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 10
+      },
+      {
+        "id": 5,
+        "weight": 10,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 7,
+        "weight": 4,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 10,
+        "value": 2
+      },
+      {
+        "id": 9,
+        "weight": 1,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 9,
+        "value": 6
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 9,
+        "value": 7
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 7,
+        "value": 8
+      },
+      {
+        "id": 6,
+        "weight": 10,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 6,
+        "value": 1
+      },
+      {
+        "id": 8,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 9,
+        "weight": 2,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 7,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 7,
+        "value": 10
+      },
+      {
+        "id": 4,
+        "weight": 7,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 10
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 7,
+        "weight": 5,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 9,
+        "weight": 10,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 1,
+        "weight": 8,
+        "value": 10
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 8
+      },
+      {
+        "id": 3,
+        "weight": 9,
+        "value": 9
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 1,
+        "value": 9
+      },
+      {
+        "id": 6,
+        "weight": 7,
+        "value": 7
+      },
+      {
+        "id": 7,
+        "weight": 6,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 3,
+        "value": 7
+      },
+      {
+        "id": 9,
+        "weight": 5,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 50
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 1,
+        "weight": 9,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 10,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 10,
+        "value": 8
+      },
+      {
+        "id": 6,
+        "weight": 10,
+        "value": 1
+      },
+      {
+        "id": 7,
+        "weight": 3,
+        "value": 7
+      },
+      {
+        "id": 8,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 9,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 10,
+        "weight": 7,
+        "value": 8
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 9
+      },
+      {
+        "id": 1,
+        "weight": 11,
+        "value": 6
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 9
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 8,
+        "value": 11
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 7,
+        "weight": 3,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 9,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 10,
+        "weight": 8,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 6
+      },
+      {
+        "id": 2,
+        "weight": 11,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 10,
+        "value": 11
+      },
+      {
+        "id": 5,
+        "weight": 9,
+        "value": 10
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 11
+      },
+      {
+        "id": 8,
+        "weight": 7,
+        "value": 5
+      },
+      {
+        "id": 9,
+        "weight": 7,
+        "value": 1
+      },
+      {
+        "id": 10,
+        "weight": 8,
+        "value": 10
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 9,
+        "value": 11
+      },
+      {
+        "id": 1,
+        "weight": 11,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 11,
+        "value": 11
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 9
+      },
+      {
+        "id": 4,
+        "weight": 11,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 9,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 7,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 8,
+        "weight": 10,
+        "value": 2
+      },
+      {
+        "id": 9,
+        "weight": 9,
+        "value": 5
+      },
+      {
+        "id": 10,
+        "weight": 3,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 9
+      },
+      {
+        "id": 4,
+        "weight": 11,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 9,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 8,
+        "value": 11
+      },
+      {
+        "id": 9,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 10,
+        "weight": 1,
+        "value": 7
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 9,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 11,
+        "value": 4
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 2,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 7,
+        "value": 7
+      },
+      {
+        "id": 7,
+        "weight": 10,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 8,
+        "value": 6
+      },
+      {
+        "id": 9,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 10,
+        "weight": 6,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 9
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 1,
+        "value": 11
+      },
+      {
+        "id": 3,
+        "weight": 7,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 1,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 7,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 8,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 9,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 10,
+        "weight": 9,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 11,
+        "value": 11
+      },
+      {
+        "id": 2,
+        "weight": 9,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 7,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 10,
+        "value": 9
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 10,
+        "value": 7
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 11
+      },
+      {
+        "id": 8,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 9,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 10,
+        "weight": 10,
+        "value": 6
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 2,
+        "weight": 9,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 8,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 11
+      },
+      {
+        "id": 6,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 6
+      },
+      {
+        "id": 8,
+        "weight": 9,
+        "value": 5
+      },
+      {
+        "id": 9,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 10,
+        "weight": 1,
+        "value": 11
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 11
+      },
+      {
+        "id": 1,
+        "weight": 6,
+        "value": 10
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 11
+      },
+      {
+        "id": 3,
+        "weight": 1,
+        "value": 2
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 6,
+        "weight": 1,
+        "value": 3
+      },
+      {
+        "id": 7,
+        "weight": 3,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 9,
+        "weight": 4,
+        "value": 8
+      },
+      {
+        "id": 10,
+        "weight": 1,
+        "value": 2
+      }
+    ],
+    "knapsack_capacity": 55
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 8,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 8
+      },
+      {
+        "id": 2,
+        "weight": 8,
+        "value": 11
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 12
+      },
+      {
+        "id": 4,
+        "weight": 11,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 7,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 11
+      },
+      {
+        "id": 7,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 8,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 9,
+        "weight": 2,
+        "value": 11
+      },
+      {
+        "id": 10,
+        "weight": 12,
+        "value": 12
+      },
+      {
+        "id": 11,
+        "weight": 3,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 3
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 12,
+        "value": 7
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 11
+      },
+      {
+        "id": 4,
+        "weight": 9,
+        "value": 12
+      },
+      {
+        "id": 5,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 6,
+        "weight": 5,
+        "value": 12
+      },
+      {
+        "id": 7,
+        "weight": 12,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 6,
+        "value": 2
+      },
+      {
+        "id": 9,
+        "weight": 4,
+        "value": 11
+      },
+      {
+        "id": 10,
+        "weight": 8,
+        "value": 4
+      },
+      {
+        "id": 11,
+        "weight": 7,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 10,
+        "value": 12
+      },
+      {
+        "id": 1,
+        "weight": 2,
+        "value": 10
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 10,
+        "value": 12
+      },
+      {
+        "id": 4,
+        "weight": 11,
+        "value": 5
+      },
+      {
+        "id": 5,
+        "weight": 11,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 7,
+        "weight": 11,
+        "value": 7
+      },
+      {
+        "id": 8,
+        "weight": 11,
+        "value": 2
+      },
+      {
+        "id": 9,
+        "weight": 11,
+        "value": 2
+      },
+      {
+        "id": 10,
+        "weight": 7,
+        "value": 3
+      },
+      {
+        "id": 11,
+        "weight": 4,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 12,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 1
+      },
+      {
+        "id": 2,
+        "weight": 11,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 3,
+        "value": 12
+      },
+      {
+        "id": 4,
+        "weight": 11,
+        "value": 10
+      },
+      {
+        "id": 5,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 9
+      },
+      {
+        "id": 7,
+        "weight": 5,
+        "value": 4
+      },
+      {
+        "id": 8,
+        "weight": 11,
+        "value": 9
+      },
+      {
+        "id": 9,
+        "weight": 8,
+        "value": 10
+      },
+      {
+        "id": 10,
+        "weight": 8,
+        "value": 7
+      },
+      {
+        "id": 11,
+        "weight": 7,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 1,
+        "value": 10
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 8
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 10
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 4,
+        "weight": 7,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 11
+      },
+      {
+        "id": 6,
+        "weight": 1,
+        "value": 9
+      },
+      {
+        "id": 7,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 8,
+        "weight": 8,
+        "value": 2
+      },
+      {
+        "id": 9,
+        "weight": 11,
+        "value": 8
+      },
+      {
+        "id": 10,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 11,
+        "weight": 5,
+        "value": 10
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 6
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 10,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 12
+      },
+      {
+        "id": 4,
+        "weight": 10,
+        "value": 3
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 10
+      },
+      {
+        "id": 6,
+        "weight": 7,
+        "value": 6
+      },
+      {
+        "id": 7,
+        "weight": 9,
+        "value": 12
+      },
+      {
+        "id": 8,
+        "weight": 10,
+        "value": 5
+      },
+      {
+        "id": 9,
+        "weight": 1,
+        "value": 4
+      },
+      {
+        "id": 10,
+        "weight": 2,
+        "value": 10
+      },
+      {
+        "id": 11,
+        "weight": 7,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 4
+      },
+      {
+        "id": 1,
+        "weight": 1,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 9
+      },
+      {
+        "id": 5,
+        "weight": 1,
+        "value": 12
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 12,
+        "value": 11
+      },
+      {
+        "id": 8,
+        "weight": 8,
+        "value": 5
+      },
+      {
+        "id": 9,
+        "weight": 11,
+        "value": 8
+      },
+      {
+        "id": 10,
+        "weight": 3,
+        "value": 5
+      },
+      {
+        "id": 11,
+        "weight": 11,
+        "value": 8
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 5,
+        "value": 9
+      },
+      {
+        "id": 1,
+        "weight": 12,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 11,
+        "value": 12
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 9
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 7
+      },
+      {
+        "id": 6,
+        "weight": 8,
+        "value": 10
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 9,
+        "weight": 6,
+        "value": 7
+      },
+      {
+        "id": 10,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 11,
+        "weight": 9,
+        "value": 11
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 2,
+        "value": 9
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 6,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 8,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 8,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 11
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 11
+      },
+      {
+        "id": 7,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 4,
+        "value": 7
+      },
+      {
+        "id": 9,
+        "weight": 7,
+        "value": 5
+      },
+      {
+        "id": 10,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 11,
+        "weight": 12,
+        "value": 5
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 5,
+        "value": 7
+      },
+      {
+        "id": 2,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 2,
+        "value": 6
+      },
+      {
+        "id": 4,
+        "weight": 12,
+        "value": 9
+      },
+      {
+        "id": 5,
+        "weight": 3,
+        "value": 6
+      },
+      {
+        "id": 6,
+        "weight": 11,
+        "value": 8
+      },
+      {
+        "id": 7,
+        "weight": 11,
+        "value": 11
+      },
+      {
+        "id": 8,
+        "weight": 4,
+        "value": 9
+      },
+      {
+        "id": 9,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 10,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 11,
+        "weight": 11,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 60
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 13
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 11
+      },
+      {
+        "id": 2,
+        "weight": 7,
+        "value": 7
+      },
+      {
+        "id": 3,
+        "weight": 13,
+        "value": 10
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 10
+      },
+      {
+        "id": 5,
+        "weight": 7,
+        "value": 9
+      },
+      {
+        "id": 6,
+        "weight": 2,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 10,
+        "value": 12
+      },
+      {
+        "id": 8,
+        "weight": 6,
+        "value": 2
+      },
+      {
+        "id": 9,
+        "weight": 7,
+        "value": 4
+      },
+      {
+        "id": 10,
+        "weight": 4,
+        "value": 11
+      },
+      {
+        "id": 11,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 12,
+        "weight": 6,
+        "value": 3
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 11,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 7,
+        "value": 11
+      },
+      {
+        "id": 2,
+        "weight": 8,
+        "value": 3
+      },
+      {
+        "id": 3,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 12
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 10
+      },
+      {
+        "id": 6,
+        "weight": 7,
+        "value": 2
+      },
+      {
+        "id": 7,
+        "weight": 10,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 3,
+        "value": 13
+      },
+      {
+        "id": 9,
+        "weight": 12,
+        "value": 9
+      },
+      {
+        "id": 10,
+        "weight": 7,
+        "value": 13
+      },
+      {
+        "id": 11,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 12,
+        "weight": 8,
+        "value": 10
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 7,
+        "value": 7
+      },
+      {
+        "id": 1,
+        "weight": 3,
+        "value": 13
+      },
+      {
+        "id": 2,
+        "weight": 10,
+        "value": 8
+      },
+      {
+        "id": 3,
+        "weight": 8,
+        "value": 10
+      },
+      {
+        "id": 4,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 3
+      },
+      {
+        "id": 6,
+        "weight": 10,
+        "value": 9
+      },
+      {
+        "id": 7,
+        "weight": 12,
+        "value": 5
+      },
+      {
+        "id": 8,
+        "weight": 1,
+        "value": 8
+      },
+      {
+        "id": 9,
+        "weight": 12,
+        "value": 10
+      },
+      {
+        "id": 10,
+        "weight": 7,
+        "value": 10
+      },
+      {
+        "id": 11,
+        "weight": 12,
+        "value": 5
+      },
+      {
+        "id": 12,
+        "weight": 10,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 12,
+        "value": 1
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 2
+      },
+      {
+        "id": 2,
+        "weight": 3,
+        "value": 10
+      },
+      {
+        "id": 3,
+        "weight": 11,
+        "value": 6
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 13
+      },
+      {
+        "id": 5,
+        "weight": 13,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 11,
+        "value": 10
+      },
+      {
+        "id": 7,
+        "weight": 11,
+        "value": 8
+      },
+      {
+        "id": 8,
+        "weight": 5,
+        "value": 9
+      },
+      {
+        "id": 9,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 10,
+        "weight": 6,
+        "value": 12
+      },
+      {
+        "id": 11,
+        "weight": 9,
+        "value": 8
+      },
+      {
+        "id": 12,
+        "weight": 5,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 8,
+        "value": 8
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 11
+      },
+      {
+        "id": 3,
+        "weight": 11,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 3,
+        "value": 4
+      },
+      {
+        "id": 5,
+        "weight": 13,
+        "value": 8
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 6
+      },
+      {
+        "id": 7,
+        "weight": 6,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 11,
+        "value": 6
+      },
+      {
+        "id": 9,
+        "weight": 12,
+        "value": 9
+      },
+      {
+        "id": 10,
+        "weight": 11,
+        "value": 8
+      },
+      {
+        "id": 11,
+        "weight": 12,
+        "value": 8
+      },
+      {
+        "id": 12,
+        "weight": 11,
+        "value": 13
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 8,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 10,
+        "value": 11
+      },
+      {
+        "id": 2,
+        "weight": 8,
+        "value": 6
+      },
+      {
+        "id": 3,
+        "weight": 10,
+        "value": 7
+      },
+      {
+        "id": 4,
+        "weight": 12,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 6,
+        "value": 2
+      },
+      {
+        "id": 6,
+        "weight": 9,
+        "value": 10
+      },
+      {
+        "id": 7,
+        "weight": 2,
+        "value": 3
+      },
+      {
+        "id": 8,
+        "weight": 2,
+        "value": 10
+      },
+      {
+        "id": 9,
+        "weight": 8,
+        "value": 13
+      },
+      {
+        "id": 10,
+        "weight": 5,
+        "value": 6
+      },
+      {
+        "id": 11,
+        "weight": 12,
+        "value": 13
+      },
+      {
+        "id": 12,
+        "weight": 12,
+        "value": 4
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 6,
+        "value": 5
+      },
+      {
+        "id": 1,
+        "weight": 13,
+        "value": 10
+      },
+      {
+        "id": 2,
+        "weight": 4,
+        "value": 13
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 10
+      },
+      {
+        "id": 4,
+        "weight": 10,
+        "value": 11
+      },
+      {
+        "id": 5,
+        "weight": 4,
+        "value": 8
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 5
+      },
+      {
+        "id": 7,
+        "weight": 9,
+        "value": 10
+      },
+      {
+        "id": 8,
+        "weight": 3,
+        "value": 8
+      },
+      {
+        "id": 9,
+        "weight": 1,
+        "value": 5
+      },
+      {
+        "id": 10,
+        "weight": 9,
+        "value": 8
+      },
+      {
+        "id": 11,
+        "weight": 7,
+        "value": 12
+      },
+      {
+        "id": 12,
+        "weight": 5,
+        "value": 10
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 10,
+        "value": 8
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 8,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 4,
+        "weight": 5,
+        "value": 5
+      },
+      {
+        "id": 5,
+        "weight": 8,
+        "value": 8
+      },
+      {
+        "id": 6,
+        "weight": 4,
+        "value": 1
+      },
+      {
+        "id": 7,
+        "weight": 1,
+        "value": 9
+      },
+      {
+        "id": 8,
+        "weight": 12,
+        "value": 10
+      },
+      {
+        "id": 9,
+        "weight": 5,
+        "value": 2
+      },
+      {
+        "id": 10,
+        "weight": 7,
+        "value": 5
+      },
+      {
+        "id": 11,
+        "weight": 13,
+        "value": 6
+      },
+      {
+        "id": 12,
+        "weight": 2,
+        "value": 13
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 13,
+        "value": 10
+      },
+      {
+        "id": 1,
+        "weight": 4,
+        "value": 5
+      },
+      {
+        "id": 2,
+        "weight": 2,
+        "value": 2
+      },
+      {
+        "id": 3,
+        "weight": 4,
+        "value": 4
+      },
+      {
+        "id": 4,
+        "weight": 6,
+        "value": 8
+      },
+      {
+        "id": 5,
+        "weight": 5,
+        "value": 1
+      },
+      {
+        "id": 6,
+        "weight": 1,
+        "value": 13
+      },
+      {
+        "id": 7,
+        "weight": 13,
+        "value": 12
+      },
+      {
+        "id": 8,
+        "weight": 2,
+        "value": 9
+      },
+      {
+        "id": 9,
+        "weight": 3,
+        "value": 9
+      },
+      {
+        "id": 10,
+        "weight": 8,
+        "value": 2
+      },
+      {
+        "id": 11,
+        "weight": 12,
+        "value": 10
+      },
+      {
+        "id": 12,
+        "weight": 2,
+        "value": 1
+      }
+    ],
+    "knapsack_capacity": 65
+  },
+  {
+    "items": [
+      {
+        "id": 0,
+        "weight": 3,
+        "value": 2
+      },
+      {
+        "id": 1,
+        "weight": 7,
+        "value": 9
+      },
+      {
+        "id": 2,
+        "weight": 13,
+        "value": 1
+      },
+      {
+        "id": 3,
+        "weight": 10,
+        "value": 11
+      },
+      {
+        "id": 4,
+        "weight": 11,
+        "value": 2
+      },
+      {
+        "id": 5,
+        "weight": 2,
+        "value": 9
+      },
+      {
+        "id": 6,
+        "weight": 6,
+        "value": 2
+      },
+      {
+        "id": 7,
+        "weight": 6,
+        "value": 12
+      },
+      {
+        "id": 8,
+        "weight": 5,
+        "value": 3
+      },
+      {
+        "id": 9,
+        "weight": 5,
+        "value": 11
+      },
+      {
+        "id": 10,
+        "weight": 2,
+        "value": 13
+      },
+      {
+        "id": 11,
+        "weight": 10,
+        "value": 11
+      },
+      {
+        "id": 12,
+        "weight": 8,
+        "value": 10
+      }
+    ],
+    "knapsack_capacity": 65
+  }
+]

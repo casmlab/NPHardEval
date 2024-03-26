@@ -1,0 +1,213 @@
+c This is a generated graph with chromatic number 3
+p edge 18 21
+e 1 10
+e 1 18
+e 2 10
+e 2 16
+e 2 18
+e 3 6
+e 3 10
+e 3 17
+e 4 9
+e 5 8
+e 5 9
+e 5 12
+e 6 12
+e 6 17
+e 7 15
+e 7 16
+e 9 12
+e 12 17
+e 13 14
+e 14 17
+e 16 17
+
+c This is a generated graph with chromatic number 3
+p edge 18 18
+e 1 2
+e 1 6
+e 1 13
+e 2 7
+e 2 12
+e 3 5
+e 4 8
+e 5 10
+e 5 15
+e 6 13
+e 6 17
+e 9 15
+e 10 14
+e 10 15
+e 11 12
+e 12 16
+e 13 16
+e 16 17
+
+c This is a generated graph with chromatic number 3
+p edge 18 21
+e 1 12
+e 2 13
+e 3 9
+e 3 13
+e 3 15
+e 3 17
+e 3 18
+e 4 5
+e 4 6
+e 5 8
+e 5 11
+e 7 15
+e 9 11
+e 11 12
+e 12 14
+e 12 16
+e 12 17
+e 13 14
+e 13 17
+e 14 17
+e 16 17
+
+c This is a generated graph with chromatic number 3
+p edge 18 23
+e 1 4
+e 1 5
+e 1 10
+e 2 3
+e 2 18
+e 3 9
+e 3 12
+e 4 5
+e 4 12
+e 5 8
+e 5 10
+e 5 16
+e 6 8
+e 6 11
+e 6 13
+e 7 16
+e 7 17
+e 8 18
+e 9 16
+e 10 15
+e 13 14
+e 15 18
+e 16 18
+
+c This is a generated graph with chromatic number 3
+p edge 18 18
+e 2 5
+e 2 10
+e 3 4
+e 3 5
+e 3 8
+e 3 10
+e 4 12
+e 4 14
+e 5 16
+e 6 14
+e 7 18
+e 9 16
+e 10 18
+e 11 13
+e 13 18
+e 14 18
+e 15 18
+e 17 18
+
+c This is a generated graph with chromatic number 3
+p edge 18 14
+e 1 2
+e 1 3
+e 1 9
+e 1 16
+e 2 6
+e 2 14
+e 2 15
+e 3 7
+e 6 7
+e 7 8
+e 7 13
+e 7 18
+e 9 13
+e 9 17
+
+c This is a generated graph with chromatic number 3
+p edge 18 17
+e 1 12
+e 2 6
+e 3 8
+e 5 14
+e 5 15
+e 5 18
+e 6 7
+e 6 13
+e 7 15
+e 7 18
+e 8 9
+e 8 15
+e 8 17
+e 9 10
+e 9 11
+e 9 18
+e 13 17
+
+c This is a generated graph with chromatic number 3
+p edge 18 20
+e 1 9
+e 1 12
+e 1 13
+e 2 5
+e 2 6
+e 2 12
+e 2 16
+e 3 16
+e 4 10
+e 5 8
+e 5 12
+e 5 17
+e 5 18
+e 6 10
+e 8 9
+e 10 15
+e 10 16
+e 11 12
+e 11 16
+e 12 17
+
+c This is a generated graph with chromatic number 2
+p edge 18 17
+e 1 9
+e 2 3
+e 2 5
+e 2 12
+e 3 7
+e 3 13
+e 4 7
+e 5 15
+e 6 18
+e 7 18
+e 8 9
+e 8 16
+e 9 17
+e 10 17
+e 11 13
+e 14 15
+e 17 18
+
+c This is a generated graph with chromatic number 3
+p edge 18 14
+e 1 4
+e 1 8
+e 2 6
+e 2 10
+e 2 15
+e 5 7
+e 5 17
+e 6 13
+e 7 9
+e 7 14
+e 9 11
+e 9 13
+e 10 14
+e 10 16
+
